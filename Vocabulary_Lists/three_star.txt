@@ -1,0 +1,1433 @@
+1.	abandon[ә'bændәn]vt.丢弃,放弃,抛弃
+2.	abandoned[ә'bændәnd]a. 被抛弃的,自弃的,自甘堕落的
+3.	abortion[ә'bɔ:ʃәn]n.流产,堕胎,失败
+4.	abroad[ә'brɔ:d]ad.(在)国外,到处
+5.	absence['æbsәns]n.缺席,不在场,缺乏
+6.	absolute['æbsәlu:t]a.绝对的,纯粹的
+7.	academic[ækә'demik]a.学院的,学术的
+8.	acceptable[әk'septәbl]a.可接受的，值得接受的，合意的
+9.	access['ækses]n.接近,通道,入口
+10.	accident['æksidәnt]n.意外的,事故
+11.	accompany[ә'kʌmpәni]vt.陪同,伴随
+12.	accurate['ækjurit]a.准确的,正确无误的
+13.	acid['æsid]n.酸,酸的,酸性的
+14.	acknowledge[әk'nɔlidʒ]vt.承认,感谢
+15.	acquire[ә'kwaiә]vt.取得,获得,学到
+16.	acquisition['ækwi'ziʃәn]n. 获得,添加的物品
+17.	acre['eikә]n.英亩(=6.07亩)
+18.	activism['æktivizm]n. 实践主义,能动主义
+19.	actor['æktә]n.男演员
+20.	actress['æktris]n.女演员
+21.	actual['æktjuәl]a.实际的,现行的
+22.	adequate['ædikwit]a.足够的,可以胜任的
+23.	adjust[ә'dʒʌst]vt.调整,调节,校正
+24.	admire[әd'maiә]vt.钦佩,羡慕,赞赏
+25.	advanced[әd'va:nst]a.先进的,高级的
+26.	advertise['ædvәtaiz]vt.通知 vi.登广告
+27.	advise[әd'vaiz]vt.劝告,建议,通知
+28.	adviser[әd'vaizә]n.顾问；指导教师
+29.	advocate['ædvәkit]n.拥护者 vt.提倡,拥护
+30.	afford[ә'fɔ:d]vt.担负得起…,提供
+31.	afraid[ә'freid]a.害怕的,担心的
+32.	afterwards['a:ftәwәdz]ad.以后，后来
+33.	agenda[ә'dʒendә]n.议程,应办事项
+34.	aggressive[ә'gresiv]a.好斗的,勇于进取的
+35.	agricultural[ægri'kʌltʃәrәl]adj.农业的
+36.	agriculture['ægrikʌltʃә]n.农业,农艺,农学
+37.	ahead of[]ad.在...前面
+38.	air force[]空军
+39.	alarm[ә'la:m]n.惊恐,忧虑,警报
+40.	alcohol['ælkәhɔl]n.酒精,乙醇
+41.	alert[ә'lә:t]a.警惕的,活跃的
+42.	alive[ә'laiv]a.活着的,活跃的
+43.	allegation[æli'geiʃәn]n. （无证据的）指控
+44.	alliance[ә'laiәns]n. 联盟,联合
+45.	allied[ә'laid, 'ælaid]a.联合的
+46.	alongside[ә'lɔŋ'said]prep.在…旁边
+47.	alter['ɔ:ltә]vt.改变,变更,改做
+48.	altogether[ɔ:ltә'geðә]ad.完全,总而言之
+49.	amateur['æmәtә:]a.业余的 n.业余爱好者
+50.	amazing[ә'meiziŋ]a.令人吃惊的
+51.	ambassador[æm'bæsәdә]n.大使,使节
+52.	ambition[æm'biʃәn]n.雄心,抱负,野心
+53.	amendment[ә'mendmәnt]n. 改正，修正
+54.	amid[ә'mid]prep. 在...中
+55.	analysis[ә'nælәsis]n.分析,分解,解析
+56.	ancient['einʃәnt]a.古代的,古老的
+57.	anger['æŋgә]n.怒,愤怒 vt.使发怒
+58.	angle['æŋgl]n.角,角度
+59.	angry['æŋgri]a.愤怒的,生气的
+60.	anniversary[,æni'vә:sәri]n.周年纪念日
+61.	announcement[ә'naunsmәnt]n.宣布，宣告
+62.	antique[æn'ti:k]a.古代的 n.古董
+63.	anxiety[æŋg'zaiәti]n.焦虑,忧虑,渴望
+64.	anxious['æŋkʃәs]a.忧虑的,渴望的
+65.	anybody['enibɔdi]prep.任何人
+66.	anywhere['eniwɛә]ad.任何地方
+67.	apart[ә'pa:t]ad.相隔,分开,除去
+68.	apartment[ә'pa:tmәnt]n.一套公寓房间
+69.	appal[ә'pɔ:l]v. 使惊骇，使恐怖
+70.	apparent[ә'pærәnt]a.表面上的,明显的
+71.	apple['æpl]n.苹果
+72.	application[æpli'keiʃәn]n.请求,申请,施用
+73.	appoint[ә'pɔint]vt.任命,约定
+74.	appointment[ә'pɔintmәnt]n.任命,约定,约会
+75.	appreciate[ә'pri:ʃieit]vt.欣赏,领会,感谢
+76.	appropriate[ә'prәupriit]a.恰当的
+77.	approval[ә'pru:vәl]n.赞成,批准
+78.	arise[ә'raiz]vi.出现,由…引起
+79.	armed forces[]武装部队
+80.	arrangement[ә'reindʒmәnt]n.整理,排列,安排
+81.	arrival[ә'raivәl]n.到达,到达者
+82.	aside[ә'said]ad.在旁边,到旁边
+83.	assault[ә'sɔ:lt]vt.袭击,殴打 n.攻击
+84.	assembly[ә'sembli]n.集合,集会,装配
+85.	assist[ә'sist]vt.援助,帮助
+86.	assistance[ә'sistәns]n.协助,援助
+87.	assistant[ә'sistәnt]n.助手,助教
+88.	associate[ә'sәuʃieit]vi.交往,联系 n.关联
+89.	associated[]a. 联合的,关联的
+90.	assumption[ә'sʌmpʃәn]n. 假定,视为当然之事
+91.	assured[ә'ʃuәd]adj. 自信的，确定的
+92.	athlete['æθli:t]n.运动员
+93.	atmosphere['ætmәsfiә]n.大气,气氛
+94.	attach[ә'tætʃ]vt.缚,系,贴,附加
+95.	attorney[ә'tә:ni]n.代理人,辩护律师
+96.	attractive[ә'træktiv]a.有吸引力的
+97.	auction['ɔ:kʃәn]n.拍卖
+98.	auto['ɔ:tәu]n.汽车
+99.	automatic[ɔ:tә'mætik]a.自动的
+100.	autumn['ɔ:tәm]n.秋季
+101.	await[ә'weit]vt.等候,期待
+102.	awful['ɔ:ful]a.令人不愉快的
+103.	background['bækgraund]n.背景,经历
+104.	backing['bækiŋ]n. 衬背,后援,支持者
+105.	badly['bædli]ad.坏,差,严重地
+106.	bake[beik]vt.烤,烘,烧硬
+107.	ballot['bælәt]n.选票
+108.	banker['bæŋkә]n.银行家
+109.	banking['bæŋkiŋ]n.银行业
+110.	bare[bɛә]a.赤裸的,仅仅的
+111.	barely['bɛәli]adv.仅仅；只
+112.	bargain['ba:gin]n.交易 vi.议价,成交
+113.	barrel['bærәl]n.桶,圆筒,枪管
+114.	barrier['bæriә]n.栅栏,屏障,障碍
+115.	baseball['beisbɔ:l]n. 棒球,棒球运动
+116.	basically['beisikәli]ad.基本上
+117.	bat[bæt]n. 蝙蝠,球棒
+118.	bath[ba:θ]n.洗澡,浴缸
+119.	bathroom['ba:θrum]n.浴室,盥洗室
+120.	bay[bei]n.海湾
+121.	beach[bi:tʃ]n.海滩,湖滩,河滩
+122.	bean[bi:n]n.豆,蚕豆
+123.	beaten['bi:tn]a. 被打败了的,筋疲力竭的,敲平的, 踏平的
+124.	beauty['bju:ti]n.美,美丽,美人
+125.	bedroom['bedrum]n.卧室
+126.	beer[biә]n.啤酒
+127.	beginning[bi'giniŋ]n.开始,开端,起源
+128.	behalf[bi'ha:f]n.利益,维护,支持
+129.	behave[bi'heiv]vi.表现,举止
+130.	being['bi:iŋ]n.存在,生物,生命
+131.	belief[bi'li:f]n.信任,相信,信念
+132.	bell[bel]n.钟,铃
+133.	belong[bi'lɔŋ]vi.属于,附属
+134.	belt[belt]n.带,腰带,区
+135.	bend[bend]vt.使弯曲 vi.弯曲
+136.	beneath[bi'ni:θ]prep.在…下方
+137.	beside[bi'said]prep.在…旁边,和...比较
+138.	besides[bi'saidz]ad.而且prep.除…之外
+139.	bet[bet]vt.vi.n.打赌
+140.	bike[baik]n.自行车
+141.	birth[bә:θ]n.分娩,出生,出身
+142.	birthday['bә:θdi]n.生日
+143.	bitter['bitә]a.痛苦的,严寒的
+144.	blast[bla:st]n.爆炸,冲击波 vt.炸
+145.	blind[blaind]a.瞎的,盲目的
+146.	bloody['blʌdi]adj. 血腥的,嗜杀的
+147.	blow[blәu]vi.吹,吹动,吹响
+148.	boil[bɔil]vi.沸腾,汽化vt.煮沸
+149.	bone[bәun]n.骨,骨骼
+150.	boom[bu:m]n.繁荣
+151.	boost[bu:st]vt.n.推进,支援,吹捧
+152.	boot[bu:t]n.长统靴
+153.	bore[bɔ:]vt.使厌烦,钻孔,挖
+154.	borrow['bɔrәu]vt.借用,借入
+155.	bother['bɔðә]vt.烦扰,迷惑 n.麻烦
+156.	bound[baund]a.一定的,有义务的
+157.	bowl[bәul]n.碗,钵
+158.	branch[bra:ntʃ]n.树枝,分部,分支
+159.	brand[brænd]n.商品,烙印 vt.铭刻
+160.	brave[breiv]a.勇敢的
+161.	bread[bred]n.面包
+162.	breakfast['brekfәst]n.早餐
+163.	breast[brest]n.乳房,胸脯
+164.	breath[breθ]n.呼吸,气味
+165.	breathe[bri:ð]vi.vt.呼吸
+166.	breed[bri:d]n.品种 vt.使繁殖
+167.	brilliant['briljәnt]a.光辉的,卓越的
+168.	broadcast['brɔ:dka:st]n.广播,播音
+169.	broadcasting['brɔ:dkæstiŋ]n. 广播
+170.	broker['brәukә]n.经纪人
+171.	brush[brʌʃ]n.刷子,画笔
+172.	bunch[bʌntʃ]n.束,串,一群
+173.	burden['bә:dn]n.担子,负担,装载量
+174.	burst[bә:st]vt.使爆裂 vi.n.爆炸
+175.	bury['beri]vt.埋葬,埋藏
+176.	bus[bʌs]n.公共汽车
+177.	businessman['biznismæn]n.生意人，商人
+178.	busy['bizi]a.繁忙的
+179.	butter['bʌtә]n.黄油,奶油
+180.	button['bʌtn]n.扣子,按钮 vt.扣紧
+181.	bye[bai]再见
+182.	cable['keibl]n.索,电缆
+183.	cake[keik]n.饼,蛋糕
+184.	calculated['kælkjuleitid]a. 有计划的,适当的,适合的,计算出的
+185.	calm[ka:m]a.平静的
+186.	cancel['kænsәl]vt.取消,撤消,删去
+187.	cap[kæp]n.帽子
+188.	capable['keipәbl]a.有能力的,有才能的
+189.	capacity[kә'pæsiti]n.容量,能力,能量
+190.	capture['kæptʃә]vt.捕获,俘获,夺得
+191.	carbon['ka:bәn]n.碳
+192.	caring[]ing. 照顾
+193.	carrier['kæriә]n.运输工具,运载工具
+194.	castle['ka:sl]n.城堡
+195.	casualty['kæʒjuәlti]n.伤亡,受害者
+196.	cat[kæt]n.猫
+197.	category['kætigәri]n.种类,类目,范畴
+198.	Catholic['kæθәlik]a.天主教的 n.天主教徒
+199.	cautious['kɔ:ʃәs]a.小心的,谨慎的
+200.	cave[keiv]n.山洞,洞穴,窑洞
+201.	CD[]n. 光碟的简称
+202.	cease[si:s]vi.vi.n.停止,停息
+203.	ceasefire[]n. 停火,停战
+204.	celebrate['selibreit]vt.庆祝,歌颂,赞美
+205.	celebration[seli'breiʃәn]n.庆祝，祝贺
+206.	ceremony['serimәni]n.典礼,仪式,礼节
+207.	certain['sә:tәn]a.确实的,肯定的
+208.	chain[tʃein]n.链,链条,项圈
+209.	chamber['tʃeimbә]n.会议室,房间,腔
+210.	chaos['keiɔs]n. 大混乱,混沌
+211.	characteristic[kæriktә'ristik]a.特有的 n.特性
+212.	charity['tʃæriti]n.施舍,慈善事业
+213.	chart[tʃa:t]n.图,图表,海图
+214.	charter['tʃa:tә]vt.租 n.宪章,执照
+215.	chase[tʃeis]n.追逐,追赶,追求
+216.	chat[tʃæt]vi.n. 闲谈,聊天
+217.	cheer[tʃiә]vt.使振作,欢呼
+218.	cheese[tʃi:z]n.乳酪,干酪
+219.	chest[tʃest]n.胸腔,胸膛,箱子
+220.	chicken['tʃikin]n.小鸡,鸡肉
+221.	childhood['tʃaildhud]n.童年
+222.	chip[tʃip]n.薄片,碎片
+223.	chocolate['tʃɔkәlit]n.巧克力
+224.	chop[tʃɔp]vt.砍,劈
+225.	cigarette[sigә'ret]n.香烟
+226.	cinema['sinimә]n.电影院
+227.	circuit['sә:kit]n.电路,环行,巡行
+228.	circumstance['sә:kәmstәns]n.情况,条件,境遇
+229.	cite[sait]vt.引用,引证,举例
+230.	civilian[si'viljәn]n.平民 a.平民的
+231.	civil war[]n. 内战
+232.	clash[klæʃ]n.碰撞声,抵触,冲突
+233.	classical['klæsikәl]a.古典的,经典的
+234.	clever['klevә]a.聪明的,机敏的
+235.	client['klaiәnt]n.顾客,诉讼委托人
+236.	climate['klaimit]n.气候
+237.	climb[klaim]vi.vt.攀登,爬
+238.	clinic[klinik]n.诊所,医务室,会诊
+239.	clock[klɔk]n.钟
+240.	close[klәuz, klәus]vt.关闭,结束
+241.	clothing['klәuðiŋ]n.衣服
+242.	cloud[klaud]n.云
+243.	coal[kәul]n.煤,煤块
+244.	coalition[kәuә'liʃәn]n.结合,联合
+245.	coat[kәut]n.外套,上衣
+246.	code[kәud]n.准则,法典,代码
+247.	coffee['kɔfi]n.咖啡
+248.	collective[kә'lektiv]a.集体的,聚集的,共同的
+249.	colonel['kә:nl]n.上校
+250.	coloured['kʌlәd]a.有色的，着色的
+251.	column['kɔlәm]n.柱,支柱,圆柱
+252.	combat['kɔmbæt]vt.跟…战斗 vi.格斗
+253.	combination[kɔmbi'neiʃәn]n.结合,联合,化合
+254.	combine[kәm'bain]vt.使结合,兼有
+255.	comedy['kɔmidi]n.喜剧,喜剧场面
+256.	comfort['kʌmfәt]n.舒适,安慰 vt.安慰
+257.	comfortable['kʌmfәtәbl]a.舒适的,安慰的
+258.	command[kә'ma:nd]vt.命令,指挥,控制
+259.	commander[kә'ma:ndә]n.司令官,指挥员
+260.	commentator['kɔmenteitә, -mәn-]n. 注解者；时事评论家; 实况报导者
+261.	commerce['kɔmә(:)s]n.商业,贸易
+262.	commissioner[kә'miʃәnә]n.专员，委员，政府特派员；地方长官，官员
+263.	communicate[kә'mju:nikeit]vi.通讯,传达,传播
+264.	communication[kә'mju:nikeiʃәn]n.通讯,传达,交通
+265.	compare[kәm'pɛә]vt.比较,对照
+266.	comparison[kәm'pærisn]n.比较,对照
+267.	compensation[kɔmpen'seiʃәn]n.补偿,赔偿
+268.	compete[kәm'pi:t]vi.比赛,竞争,对抗
+269.	competitive[kәm'petitiv]a.竞争的,比赛的
+270.	competitor[kәm'petitә]n.竞争对手；敌手
+271.	complaint[kәm'pleint]n.抱怨,控告
+272.	complicated['kɔmplikeitid]a.复杂的,难懂的
+273.	component[kәm'pәunәnt]n.组成部分,组件
+274.	compose[kәm'pәuz]vt.组成,构成,创作
+275.	comprehensive[kɔmpri'hensiv]a.广泛的,理解的
+276.	compromise['kɔmprәmaiz]n.妥协,和解
+277.	concede[kәn'si:d]vt. 承认,退让 vi. 让步
+278.	concentrate['kɔnsәntreit]vt.集中,聚集,浓缩
+279.	concentration[kɔnsәn'treiʃәn]n.集中,专注,浓缩
+280.	concept['kɔnsept]n.概念,观念,设想
+281.	concerned[kәn'sә:nd]a.有关的，有牵连的
+282.	concert['kɔnsәt]n.音乐会,演奏会
+283.	concession[kәn'seʃәn]n.让步,迁就
+284.	conclude[kәn'klu:d]vt.推断出,结束
+285.	conclusion[kәn'klu:ʒәn]n.结论,推论,结尾
+286.	concrete['kɔnkri:t]n.混凝土 a.具体的,实在的
+287.	condemn[kәn'dem]vt.谴责
+288.	confident['kɔnfidәnt]n.确信的,自信的
+289.	confront[kәn'frʌnt]vt.使面对,使对证
+290.	confrontation[kɔnfrәn'teiʃәn]n. 对抗
+291.	congressional[kɔŋ'greʃәnl]a. 会议的,议会的,国会的
+292.	connection[kә'nekʃәn]n.连接,联系,连贯性
+293.	conscious['kɔnʃәs]a.意识到的,有意的
+294.	consciousness['kɔnʃәsnis]n.知觉
+295.	consequence['kɔnsikwәns]n.结果,后果
+296.	considering[]prep.考虑到
+297.	consist[kәn'sist]vi.由…组成
+298.	consistent[kәn'sistәnt]a.坚持的,一贯的
+299.	constitution[kɔnsti'tju:ʃәn]n.组织,宪法,构造
+300.	construct[kәn'strʌkt]vt.建造,建设,构筑
+301.	construction[kәn'strʌkʃәn]n.建造,建筑物
+302.	consult[kәn'sʌlt]vt.请教,查阅
+303.	consultant[kәn'sʌltәnt]n. 顾问,商议者
+304.	contemporary[kәn'tempәrәri]a.当代的,同时代的
+305.	content['kɔntent, kәn'tent]a.满意的,满足的
+306.	contest[kәn'test, 'kɔntest]vt.争夺,争取,辩驳
+307.	context['kɔntekst]n.语境，背景
+308.	continent['kɔntinәnt]n.大陆,洲
+309.	contrast['kɔntræst, kәn'træst]n.对比,对照
+310.	contribute[kәn'tribju(:)t]vt.捐献,捐助,投稿
+311.	controversial[kɔntrә'vә:ʃәl]a. 争论的,争议的
+312.	controversy['kɔntrәvә:si]n.争论,辩论,争吵
+313.	convention[kәn'venʃәn]n.习俗,惯例,公约
+314.	conventional[kәn'venʃәnl]a.普通的,习惯的
+315.	conversation[kɔnvә'seiʃәn]n.会话,非正式会谈
+316.	convert[kәn'vә:t, 'kɔnvә:t]vt.使转变,使改变
+317.	convict[kәn'vikt, 'kɔnvikt]n. 囚犯,罪犯 vt. 宣告有罪
+318.	conviction[kәn'vikʃәn]n.定罪
+319.	convince[kәn'vins]vt.使确信,使信服
+320.	cooking['kukiŋ]n. 烹饪
+321.	co-operate[]vi.合作，协作
+322.	cope[kәup]vi.对付,应付
+323.	core[kɔ:]n.果实的心,核心
+324.	corporate['kɔ:pәrit]n.组织
+325.	corporation[kɔ:pә'reiʃәn]n.公司,企业,社团
+326.	corruption[kә'rʌpʃәn]n.腐烂；败坏
+327.	cottage['kɔtidʒ]n.村舍,小屋
+328.	cotton['kɔtn]n.棉花
+329.	cough[kɔf]vi.n.咳嗽
+330.	counsel['kaunsәl]n.商议,忠告,律师
+331.	counter['kauntә]n.柜台,计数器
+332.	counterpart['kauntәpa:t]n.副本,复本,配对物
+333.	countryside['kʌntrisaid]n.乡下,农村
+334.	coup['ku:]n. 出乎意料的成功行动，政变
+335.	courage['kʌridʒ]n.勇气,胆量
+336.	coverage['kʌvәridʒ]n.掩饰,隐蔽
+337.	cow[kau]n.母牛
+338.	crack[kræk]n.裂缝,裂纹 vi.爆裂
+339.	craft[kra:ft]n.工艺,手艺,行业
+340.	crazy['kreizi]a.疯狂的
+341.	cream[kri:m]n.奶油
+342.	creative[kri(:)'eitiv]a.创造性的,创作的
+343.	crew[kru:]n.全体船员
+344.	cricket['krikit]n.蟋蟀；板球
+345.	criticize['kritisaiz]vt.批评,评论,非难
+346.	crop[krɔp]n.农作物,庄稼
+347.	crown[kraun]n.王冠
+348.	crucial['kru:ʃiәl]a. 决定性的,重要的,严厉的
+349.	cruise[kru:z]vi.vt.巡航
+350.	crystal['kristl]n.水晶
+351.	cue[kju:]n.开端,线索,发辫,长队
+352.	cultural['kʌltʃәrәl]adj.文化的；文明的
+353.	cure[kjuә]vt.医治 n.治愈
+354.	curious['kjuәriәs]a.好奇的,稀奇古怪的
+355.	curtain['kә:tn]n.帘,窗帘,幕(布)
+356.	cutting['kʌtiŋ]n.开凿出来的公路，铁路；剪报 a.锋利的
+357.	cycle['saikl]n.循环
+358.	dad[dæd]n.爸爸
+359.	dare[dɛә]vt.aux.v.敢,竟敢
+360.	deadline['dedlain]n. 最终期限
+361.	deal[di:l]n.交易 vi.处理
+362.	dealer['di:lә]n.商人，贩子
+363.	dear[diә]a.亲爱的 int.啊
+364.	debut['deibju:]n. 初次登台，初次露面
+365.	deck[dek]n.甲板,层面
+366.	declaration[deklә'reiʃәn]n.宣布,宣言,申诉
+367.	decorate['dekәreit]vt.装饰
+368.	define[di'fain]vt.给…下定义,限定
+369.	definitely['definitli]ad.一定地,明确地
+370.	definition[defi'niʃәn]n.定义,释义,定界
+371.	delegate['deligeit]n.代表,委员,特派员
+372.	delegation[deli'geiʃәn]n.代表团
+373.	deliberate[di'libәrit]a.深思熟虑的,审慎的
+374.	delight[di'lait]n.快乐 vt.使高兴
+375.	delighted[di'laitid]a.愉快的，欣喜的
+376.	delivery[di'livәri]n.投递,交付
+377.	demonstrate['demәnstreit]vt.说明,论证,示威
+378.	demonstration[demәn'streiʃәn]n.示范，示威
+379.	deposit[di'pɔzit]vt.使沉淀,存放
+380.	depression[di'preʃәn]n.消沉,萧条期
+381.	depth[depθ]n.深度,深处
+382.	description[dis'kripʃәn]n.描述；形容
+383.	desert['dezәt, di'zә:t]n.沙漠 vt.离弃,擅离
+384.	deserve[di'zә:v]vt.应受,值得
+385.	designer[di'zainә]n.设计师，设计者
+386.	desperate['despәrit]a.拼死的,绝望的
+387.	detailed['di:teild]a.详细的
+388.	detective[di'tektiv]n.侦探,密探
+389.	determined[di'tә:mind]adj.决定性的
+390.	device[di'vais]n.器械,装置,设计
+391.	dialogue['daiәlɔg]n.对话
+392.	diary['daiәri]n.日记,日记簿
+393.	dig[dig]vt.掘,挖
+394.	diplomat['diplәmæt]n.外交官
+395.	diplomatic[diplә'mætik]a.外交的,有策略的
+396.	dirty['dә:ti]a.脏的,下流的
+397.	disappear[disә'piә]vi.不见,失踪,消失
+398.	disappointed[disә'pɔintid]adj.失望的
+399.	disaster[di'za:stә]n.灾难
+400.	discipline['disiplin]n.纪律,训练 vt.训练
+401.	disclose[dis'klәuz]vt.揭开,揭发,透露
+402.	discount['diskaunt]n.折扣
+403.	discovery[dis'kʌvәri]n.发现,被发现的事物
+404.	dish[diʃ]n.碟,盘子,菜肴
+405.	distribution[distri'bju:ʃәn]n.分发,分配,分布
+406.	dividend['dividend]n.（股份的）红利
+407.	divorce[di'vɔ:s]n.vi.离婚
+408.	dominant['dɔminәnt]a. 占优势的,支配的
+409.	done[dʌn]a. 完成了,好了
+410.	draft[dra:ft]n.草稿,汇票 vt.起草
+411.	drag[dræg]vt.拖,拉,拖曳
+412.	drain[drein]vt.排水 n.耗竭
+413.	drama['dra:mә]n.一出戏剧,剧本
+414.	drift[drift]vi.漂流,漂泊 n.漂流
+415.	drum[drʌm]n.鼓
+416.	dump[dʌmp]vt.倾倒
+417.	dust[dʌst]n.灰尘
+418.	eager['i:gә]a.渴望的,热切的
+419.	ear[iә]n.耳朵
+420.	earnings['ә:niŋz]n.赚得的钱
+421.	ease[i:z]n.容易,舒适 vt.缓和
+422.	easily['i:zili]ad.容易地
+423.	echo['ekәu]n.回声,反响 vi.重复
+424.	edit['edit]vt.编辑,编纂,校订
+425.	editorial[edi'tɔ:riәl]n.社论
+426.	efficient[i'fiʃәnt]a.效率高的
+427.	elderly['eldәli]a. 过了中年的,稍老的
+428.	electoral[i'lektәrәl]a. 选举人的,选举的,选帝侯的
+429.	electric[i'lektrik]a.电的,电动的
+430.	electricity[ilek'trisiti]n.电,电流
+431.	electronic[ilek'trɔnik]a.电子的
+432.	elegant['eligәnt]a.(举止、服饰)雅致的
+433.	eliminate[i'limineit]vt.消灭,消除,排除
+434.	elsewhere[els'wɛә]ad.在别处,向别处
+435.	embassy['embәsi]n.大使馆,大使的职务
+436.	emotion[i'mәuʃәn]n.感情,激动
+437.	emotional[i'mәuʃәnl]a.感情的,情绪的
+438.	emphasis['emfәsis]n.强调,重点,重要性
+439.	emphasize['emfәsaiz]vt.强调,着重
+440.	empire['empaiә]n.帝国
+441.	employ[im'plɔi]vi.雇用
+442.	employer[im'plɔiә]n.雇主
+443.	employment[im'plɔimәnt]n.雇用,职业
+444.	empty['empti]a.空的,空洞的
+445.	enable[i'neibl]vt.使能够,使可能
+446.	encounter[in'kauntә]vt.遭遇,遇到 n.遭遇
+447.	enemy['enimi]n.敌人
+448.	engage[in'geidʒ]vt.使忙于,使订婚
+449.	engineer[endʒi'niә]n.工程师
+450.	engineering[endʒi'niәriŋ]n.工程学
+451.	enhance[in'ha:ns]vt.提高,增加,夸张
+452.	enormous[i'nɔ:mәs]a.巨大的,庞大的
+453.	enterprise['entәpraiz]n.企业,事业,事业心
+454.	entertain[entә'tein]vt.使欢乐,招待
+455.	entertainment[entә'teinmәnt]n. 娱乐,款待,娱乐表演
+456.	enthusiasm[in'θju:ziæzәm]n.热情,热心,热忱
+457.	entirely[in'taiәli]ad.完全地
+458.	entitle[in'taitl]vt.给…权利(或资格)
+459.	entrance['entrәns]n.入口,进入
+460.	equity['ekiti]n.公正
+461.	equivalent[i'kwivәlәnt]a.相等的,等量的
+462.	era['iәrә]n.时代,年代,纪元
+463.	error['erә]n.错误,谬误,差错
+464.	essentially[i'senʃәli]ad.基本上，本质上
+465.	establishment[is'tæbliʃmәnt]n.建立,设立,确立
+466.	etc.[it'setrә]=et cetera ad.等等；诸如此类
+467.	ethnic['eθnik]a.民族特有的
+468.	everywhere['evriwɛә]ad.到处,处处
+469.	evil['i:vl]n.邪恶,祸害 a.坏的
+470.	exactly[ig'zæktli]ad.的确如此
+471.	examination[igzæmi'neiʃәn]n.考试,检查,细查
+472.	exception[ik'sepʃәn]n.例外,除外
+473.	excerpt['eksә:pt]vt.摘录
+474.	excess[ik'ses, 'ekses]n.超越,过量,过度
+475.	exchange rate[]书信往来
+476.	exciting[ik'saitiŋ]a.令人兴奋的
+477.	excuse[iks'kju:z, iks'kju:s]vt.原谅,免除 n.借口
+478.	execute['eksikju:t]vt.将…处死,实施
+479.	exhaust[ig'zɔ:st]vt.使筋疲力尽,用尽
+480.	exhibition[eksi'biʃәn]n.展览,陈列,展览会
+481.	exile['eksail]vt.流放 n.被流放者
+482.	existing[]a.现存的，目前的
+483.	expand[iks'pænd]vt.扩大,使膨胀
+484.	expectation[ekspek'teiʃәn]n.期待,期望,预期
+485.	expense[iks'pens]n.花费,消费,费用
+486.	experiment[iks'perimәnt]n.实验,试验
+487.	explanation[eksplә'neiʃәn]n.解释,说明,辩解
+488.	explode[iks'plәud]vt.使爆炸 vi.爆炸
+489.	exploit['eksplɔit, iks'plɔit]vt.剥削,利用,开拓
+490.	explore[iks'plɔ:]vt.vi.探险,探索
+491.	explosion[iks'plәuʒәn]n.爆炸
+492.	expose[iks'pәuz]vt.使暴露,揭露
+493.	exposure[iks'pәuʒә]n.暴露,揭露,曝光
+494.	expression[iks'preʃәn]n.词句,表达,表情
+495.	extensive[iks'tensiv]a.广阔的,广泛的
+496.	extent[iks'tent]n.广度,范围,程度
+497.	extraordinary[iks'trɔ:dinәri]a.非同寻常的,特别的
+498.	extreme[iks'tri:m]a.极度的,尽头的
+499.	fabric['fæbrik]n.织物,纺织品,结构
+500.	faction['fækʃәn]n.派系；党内斗争
+501.	fade[feid]vi.褪色,逐渐消失
+502.	fairly['fɛәli]ad.相当,公平地
+503.	faith[feiθ]n.信任,信心,信仰
+504.	false[fɔ:ls]a.不真实的,伪造的
+505.	familiar[fә'miljә]a.熟悉的
+506.	fancy['fænsi]n.想象力,设想,爱好
+507.	fantasy['fæntәsi]n. 幻想,白日梦
+508.	fare[fɛә]n.车费,船费,票价
+509.	fate[feit]n.命运,天数
+510.	fault[fɔ:lt]n.缺点,过失,故障
+511.	federation[fedә'reiʃәn]n.联邦,联合,联盟
+512.	fence[fens]n.栅栏
+513.	fierce[fiәs]a.凶猛的,狂热的
+514.	Fighter['faitә]n.战斗者
+515.	Fine[fain]a.美好的,纤细的
+516.	fiscal['fiskәl]a.财政的
+517.	fishing['fiʃiŋ]n.钓鱼
+518.	fit[fit]vt.vi.适合,安装
+519.	fix[fiks]vt.使固定,修理
+520.	fixed[fikst]adj.固定的
+521.	flag[flæg]n.旗帜,标志
+522.	flash[flæʃ]n.闪光 vi.闪,闪烁
+523.	flavour['fleivә]n.味，滋味
+524.	flee[fli:]vi.逃走 vt.逃避
+525.	fleet[fli:t]n.舰队,机群
+526.	flexible['fleksәbl]a.易弯曲的,灵活的
+527.	float[flәut]vi.漂浮 vt.使漂浮
+528.	flood[flʌd]n.洪水
+529.	fold[fәuld]vt.折叠,合拢 n.褶
+530.	folk[fәulk]n.人们,家属,亲属
+531.	fool[fu:l]n.傻子 vt.欺骗,愚弄
+532.	forecast['fɔ:ka:st]n.预测,预报 vt.预示
+533.	foreigner['fɔrinә]n.外国人
+534.	forest['fɔrist]n.森林
+535.	form[fɔ:m]n.形式,形状 vt.形成
+536.	formula['fɔ:mjulә]n.公式
+537.	forth[fɔ:θ]ad.向前,向外
+538.	fortune['fɔ:tʃәn]n.命运,运气,财产
+539.	foundation[faun'deiʃәn]n.基础,地基,基金
+540.	frame[freim]n.框架,框子
+541.	fraud[frɔ:d]n.骗子,欺骗,欺诈,诡计
+542.	freeze[fri:z]vi.冻,结冻 vt.使结冰
+543.	friendly['frendli]a.友好的
+544.	friendship['frendʃip]n.友谊,友好
+545.	frustrate[frʌs'treit]vt.挫败,使无效
+546.	fry[frai]vt.油煎,油炸,油炒
+547.	fulfil[ful'fil]vt.履行,满足,完成
+548.	fundamental[fʌndә'mentl]a.基础的,基本的
+549.	funny['fʌni]a.好笑的,有趣的,滑稽的
+550.	furniture['fә:nitʃә]n.家具,装置,设备
+551.	gallery['gælәri]n.长廊,游廊,画廊
+552.	gamble['gæmbl]n.vt.赌博
+553.	gang[gæŋ]n.一帮,一伙
+554.	gap[gæp]n.缺口,间隔,差距
+555.	gate[geit]n.大门
+556.	gear[giә]n.齿轮,传动装置
+557.	gene[dʒi:n]n. 基因,因子
+558.	general election[]大选,普选
+559.	generate['dʒenәreit]vt.发生,引起,生殖
+560.	generous['dʒenәrәs]a.慷慨的,宽厚的
+561.	gentle['dʒentl]a.和蔼的,轻柔的
+562.	gentleman['dʒentlmәn]n.绅士,有教养的人
+563.	genuine['dʒenjuin]a.真的,真正的
+564.	gesture['dʒestʃә]n.姿势,手势,姿态
+565.	giant['dʒaiәnt]n.巨人,巨物
+566.	gift[gift]n.礼物,赠品,天赋
+567.	given['givn]a. 赠予的,沉溺的,特定的,假设的
+568.	glad[glæd]a.高兴的,乐意的
+569.	glance[gla:ns]vi.看一下 n.一瞥
+570.	global['glәubәl]a.球面的,全球的
+571.	golden['gәuldәn]a.金色的,可贵的
+572.	golf[gɔlf]n. 高尔夫球
+573.	govern['gʌvәn]vt.统治,治理,支配
+574.	grab[græb]vt.vi.攫取,抓取
+575.	grade[greid]vt.给…分等级 n.等级
+576.	gradual['grædjuәl]a.逐渐的,渐进的
+577.	graduate['grædjueit]n.大学毕业生 vi.毕业
+578.	grain['grein]n.谷物,谷粒,颗粒
+579.	grass[gra:s]n.草,草地
+580.	grave[greiv]n.坟墓 a.严重的
+581.	grip[grip]vt.握紧,抓牢 n.紧握
+582.	gross[grәus]a.总的,严重的
+583.	guerrilla[^ә'rilә]n.游击队员
+584.	guilty['gilti]a.内疚的,有罪的
+585.	guitar[gi'ta:]n. 吉他,六弦琴
+586.	habit['hæbit]n.习惯,习性
+587.	hall[hɔ:l]n.大厅,会堂
+588.	halt[hɔ:lt]vi.停止,立定 n.停住
+589.	harass['hærәs]vt.骚扰
+590.	harbour['ha:bә]n.港
+591.	harm[ha:m]n.伤害,损害 vt.损害
+592.	hat[hæt]n.帽子
+593.	hate[heit]vt.憎恨,不喜欢
+594.	headline['hedlain]n.大字标题,新闻提要
+595.	headquarters['hed'kwɔ:tәz]n.司令部,总部
+596.	heal[hi:l]vt.治愈,使和解
+597.	healthy['helθi]a.健康的,有益健康的
+598.	hearing['hiәriŋ]n. 听,听觉
+599.	heaven['hevn]n.天堂
+600.	height[hait]n.高,高度,高处
+601.	helicopter['helikɔptә]n.直升机
+602.	hell[hel]n.地狱
+603.	he'll[]n. 他将
+604.	hello['hә'lәu]int.喂
+605.	hero['hiәrәu]n.英雄,勇士,男主角
+606.	hi[hai]ini.嗨(表示问候等)
+607.	hide[haid]vt.把…藏起来,隐瞒
+608.	highlight['hailait]n. 突出,精彩场面 vt. 加亮,使显著
+609.	hill[hil]n.小山,山岗,丘陵
+610.	hint[hint]n.暗示
+611.	hip[hip]n. 臀,蔷薇果,忧郁
+612.	hire['haiә]vt.雇用
+613.	historic[his'tɔrik]a.历史上有名的
+614.	historical[his'tɔrikәl]a.历史的,有关历史的
+615.	holy['hәuli]a.神圣的,圣洁的
+616.	homeless[hәumlis]a.无家可归的
+617.	homosexual[7hәumәu'seksjuәl]n.&a.同性恋的，同性恋者
+618.	honest['ɔnist]a.诚实的,可敬的
+619.	honour['ɔnә]n.光荣
+620.	hook[huk]n.钩,挂钩 vt.钩住
+621.	horror['hɔrә]n.恐怖,战栗,憎恶
+622.	household['haushәuld]n.家庭,家务
+623.	humour['hju:mә]v. 纵容，迁就
+624.	hunt[hʌnt]n.vt.打猎,搜寻
+625.	hunter['hʌntә]n.搜寻者
+626.	identity[ai'dentiti]n.身分,相同 vt.确定身份
+627.	illegal[i'li:gәl]a.非法的
+628.	illness['ilnis]n.疾病
+629.	illustrate['ilәstreit]vt.(用图等)说明
+630.	imagination[imædʒi'neiʃәn]n.想象,想象力,空想
+631.	immigrant['imigrәnt]n.移民 a.移民的
+632.	immigration[imi'greiʃәn]n.移入，移民
+633.	immune[i'mjun]a.免疫的,免除的,不受影响的
+634.	implement['implimәnt]n.工具 vt. 实现,使生效,执行
+635.	implication[impli'keiʃәn]n.含义,暗示,暗指
+636.	imply[im'plai]vt.暗示,意指
+637.	impress[im'pres, 'impres]vt.给…深刻印象
+638.	impression[im'preʃәn]n.印象,印记
+639.	impressive[im'presiv]a.给人印象深刻的
+640.	improvement[im'pru:vmәnt]n.改进,提高
+641.	inch[intʃ]n.英寸
+642.	incredible[in'kredәbl]a.难以置信的,惊人的
+643.	index['indeks]n.索引,指数,指标
+644.	inevitable[in'evitәbl]a.不可避免的,必然的
+645.	infect[in'fekt]vt.传染,感染
+646.	infection[in'fekʃәn]n.感染
+647.	inform[in'fɔ:m]vt.通知,向…报告
+648.	ingredient[in'gri:djәnt]n.配料,成分
+649.	Initial[i'niʃәl]a.最初的
+650.	initially[i'niʃәli]ad.最初，开始
+651.	initiative[i'niʃiәtiv]a.创始的,自发的 n.第一步
+652.	injured[]a.受伤的
+653.	inner['inә]a.内部的,内心的
+654.	innocent['inәsnt]a.清白的,幼稚的
+655.	inquiry[in'kwaiәri]n.询问,打听,调查
+656.	inspect[in'spekt]vt.检查,审查,检阅
+657.	inspector[in'spektә]n.视察者
+658.	install[in'stɔ:l]vt.安装,设置
+659.	instant['instәnt]n.瞬间 a.立即的
+660.	instruct[in'strʌkt]vt.教,指示,通知
+661.	instrument['instrumәnt]n.仪器,工具,乐器
+662.	integrate['intigreit]vt.使成整体,综合
+663.	intellectual[inti'lektjuәl]n.知识分子 a.智力的
+664.	intelligence[in'telidʒәns]n.智力,理解力,情报
+665.	intelligent[in'telidʒәnt]a.聪明的,理智的
+666.	intense[in'tens]a.强烈的,紧张的
+667.	intention[in'tenʃәn]n.意图,目的
+668.	interesting['intristiŋ]a.有趣的
+669.	interim['intәrim]a.中间的,暂时的,间歇的
+670.	interior[in'tiәriә]a.内的,内地的 n.内部
+671.	internal[in'tә:nl]a.内的,国内的
+672.	invasion[in'veiʒәn]n.入侵,侵略
+673.	invest[in'vest]vt.投资,投入
+674.	invitation[invi'teiʃәn]n.邀请,招待,请柬
+675.	involvement[in'vClvmәnt]n. 卷入,牵连,连累[in, with];麻烦; 财政困难
+676.	iron['aiәn]n.铁,熨斗 vt.烫(衣)
+677.	Islam['izla:m]n.伊斯兰教；伊斯兰教信徒；伊斯兰世界
+678.	Islamic[iz'læmik, is'l-]a.伊斯兰教的，伊斯兰的
+680.	jacket['dʒækit]n.短上衣,茄克衫
+681.	jail[dʒeil]n.监狱 vi.监禁
+682.	jazz[dʒæz]n.爵士音乐,爵士舞曲
+683.	jersey['dʒ:zI]n. 运动衫
+684.	jet[dʒet]n.喷气式飞机
+685.	Jew[dʒu:]n.犹太人
+686.	joke[dʒәuk]n.笑话 vi.开玩笑
+687.	journey['dʒә:ni]n.旅行,旅程
+688.	joy[dʒɔi]n.欢乐,喜悦,乐事
+689.	judgment['dʒʌdʒmәnt]n.审判；判决
+690.	juice[dʒu:s]n.(水果等)汁,液
+691.	junior['dʒu:njә]a.年少的,地位较低的 n.晚辈
+692.	jury['dʒuәri]n.陪审团,评奖团
+693.	justify['dʒʌstifai]vt.证明…是正当的
+694.	keen[ki:n]a.热心的,激烈的
+695.	killer[]n.杀人者，杀人犯，杀手；屠杀者
+696.	killing['kiliŋ]n. 谋杀,杀戮
+697.	kilometre[kilә'mi:tә]n.千米，公里
+698.	kiss[kis]n.&v.吻，接吻
+699.	knee[ni:]n.膝，膝盖
+700.	knife[naif]n.小刀，餐刀 v.用刀刺(切)
+701.	knock[nɔk]n.敲，敲打；碰撞 v.敲，打；碰，撞击
+702.	know-how[]n. 实际知识,技术秘诀,诀窍
+703.	label['leibl]vt.贴标签于n.标签;标记,符号
+704.	laboratory[lә'bɔrәtri]n.实验室,研究室
+705.	lad[læd]n.少年；青年
+706.	lake[leik]n.湖
+707.	landscape['lændskeip]n.风景,景致
+708.	lane[lein]n.(乡间)小路;跑道
+709.	lap[læp]n.膝部
+710.	last[la:st]vi.持续a.最后的ad.最后n.最后,末尾
+711.	latter['lætә]a.(两者中)后者的
+712.	laughter[la:ftә]n.笑声
+713.	layer['leiә]n.层,层次
+714.	leaf[li:f]n.叶子
+715.	leak[li:k]vi.漏;泄露n.漏洞
+716.	lean[li:n]vi.倾斜;靠
+717.	leap[li:p]vi.跳,跃n.跳跃;跃进
+718.	lease[li:s]vt.出租n.租约,租契
+719.	leather['leðә]n.皮革
+720.	lecture['lektʃә]vi.演讲;讲课n.演讲;讲课
+721.	left[left]a.左边的ad.在左边n.左边，左侧
+722.	legislation[ledʒis'leiʃәn]n.立法,法规
+723.	lend[lend]vt.借出
+724.	lens[lenz]n.透镜,镜片
+725.	lesson['lesn]n.功课,课程；教训
+726.	liberate['libәreit]vt.解放,释放
+727.	liberty['libәti]n.自由
+728.	library['laibrәri]n.图书馆
+729.	licence['laisәns]n.许可，特许，执照；放纵
+730.	lie[lai]vi.说谎;躺,平放n.谎话
+731.	light[lait]vt.点燃, 照亮a.轻的;浅的n.光线;灯
+732.	limited['limitid]a.有限的
+733.	lip[lip]n.嘴唇
+734.	literary['litәrәri]a.文学的
+735.	literature['litәritʃә]n.文学(作品)
+736.	live[liv laiv]vi.居住;活vt.过着a.活的; 实况转播的
+737.	live-in[]adj. 寄宿于工作处的
+738.	living['liviŋ]a.活的;逼真的；活泼的n.生活；生计
+739.	load[lәud]vt.装,装满n.负载;负担
+740.	lobby['lɔbi]n.休息室vi.游说
+741.	local authority[]n. 地方当局,地方政权
+742.	location[lәu'keiʃәn]n.位置,场所
+743.	lock[lɔk]n.锁vt.锁上,锁住
+744.	lonely['lәunli]a.孤独的;荒凉的
+745.	long-time[]长期; 长期载荷
+746.	loose[lu:s]a.宽松的；自由的
+747.	lost[lɔst]a. 失去的,遗失的,迷惑的
+748.	loud[laud]a.响亮的
+749.	lovely['lʌvli]a.可爱的
+750.	lover[lʌvә]n.情人;爱好者
+751.	lower['lәuә]a.较低的vt.放下
+752.	luck[lʌk]n.运气,好运
+753.	lucky['lʌki]a.幸运的,吉祥的
+754.	luxury['lʌkʃәri]n.奢侈,奢侈品
+755.	mad[mæd]a.发疯的;狂热的, 着迷的
+756.	made-up[]a. 作成的,制成的,捏造的
+757.	magic['mædʒik]n.魔法,巫术
+758.	mail[meil]n.邮件vt.邮寄
+759.	make-up['meikʌp]n.组成，构造；化妆品；气质，天性，性格
+760.	manner['mænә]n.方式,态度；礼貌
+761.	manufacture[mænju'fæktʃә]vt.制造n.制造；产品
+762.	manufacturer[mænju'fæktʃәrә]n.制造商
+763.	map[mæp]vt.绘制地图n.地图
+764.	march[ma:tʃ]n.三月
+765.	margin['ma:dʒin]n.页边的空白
+766.	marine[mә'ri:n]a.海上的，海产的n.海军,舰队
+767.	marked[ma:kt]a. 有记号的,显著的,醒目的
+768.	married['mærid]a.已婚的
+769.	mask[ma:sk]n.面具;伪装vt.掩饰，掩盖
+770.	massive['mæsiv]a.大规模的，大量的
+771.	mate[meit]vi.交配n.伙伴,同事;配偶
+772.	maximum['mæksimәm]n.最大量a.最大的
+773.	mayor['mɛә]n.市长
+774.	meal[mi:l]n.一餐
+775.	meaning['mi:niŋ]n.意义,意思
+776.	meat[mi:t]n.肉
+777.	mechanism['mekәnizәm]n.机械装置;机构, 机制
+778.	medal['medl]n.奖章,纪念章
+779.	medicine['medisin]n.药
+780.	medium['mi:djәm]n.媒质, 媒介a.中等的
+781.	membership['membәʃip]n.成员资格
+782.	mental['mentl]a.智力的；精神的
+783.	merchant['mә:tʃәnt]n.商人
+784.	mere[miә]a.仅仅的；纯粹的
+785.	merely['miәli]ad.仅仅,只不过
+786.	merger[mә:dʒә]n.合并
+787.	mess[mes]n.混乱；杂乱 v.弄脏；弄乱
+788.	metal['metl]n.金属
+789.	metre['mi:tә]n.米,公尺
+790.	middle class[][the ~ (es) ; 集合称] 中层社会,中产阶级的人
+791.	midnight['midnait]n.午夜
+792.	mild[maild]a.温柔的；温暖的
+793.	militant['militәnt]a.好战的，激进的
+794.	milk[milk]n.牛奶vt.挤(奶)
+795.	mill[mil]n.磨坊；制造厂
+796.	mind[maind]n.头脑, 理智vt.注意,留心;介意, 反对
+797.	miner['mainә]n.矿工
+798.	minimum['minimәm]n.最小量a.最小的
+799.	minor['mainә]a.次要的n.未成年人;副修科目
+800.	mirror['mirә]n.镜子vt.反映,反射
+801.	missile['misail]n.导弹
+802.	missing['misiŋ]a.缺少的,失去的
+803.	mixed[mikst]a.混合的
+804.	mixture['mikstʃә]n.混合,混合物
+805.	mobile['mәubail]a.运动的,移动的
+806.	moderate['mɔdәrit]a.温和的；适度的
+807.	modest['mɔdist]a.谦虚的
+808.	molecule['mɔlikju:l]n.分子
+809.	monetary['mʌnitәri]a.货币的,金钱的
+810.	monitor['mɔnitә]n.班长;监视器
+811.	monthly['mʌnθli]a.每月的ad.每月n.月刊
+812.	mood[mu:d]n.心情,情绪
+813.	moon[mu:n]n.月亮
+814.	moral['mɔrәl]a.合乎道德的n.道德,品行
+815.	moreover[mɔ:'rәuvә]ad.再者,此外
+816.	mostly['mәustli]ad.主要的,大部分
+817.	motion['mәuʃәn]n.运动；动作；动机vi.打手势vt.示意
+818.	motivate['mәutiveit]vt.激励,激发
+819.	mount[maunt]vt.登上,爬上n.山
+820.	mum[mʌm]n.(口语)妈妈
+821.	muscle['mʌsl]n.肌肉；力量
+822.	musical['mju:zikәl]a.音乐的
+823.	musician[mju:'ziʃәn]n.音乐家
+824.	mutual['mju:tjuәl]a.相互的,共同的
+825.	mystery['mistәri]n.神秘,神秘的事物
+826.	myth[miθ]n. 神话,虚构的东西
+827.	native['neitiv]a.本土的n.本地人
+828.	naturally['nætʃәrәli]ad.自然地；天然地
+829.	naval['neivәl]n.海军的
+830.	navy['neivi]n.海军
+831.	nearby['niәbai]a.附近的ad.在附近
+832.	neat[ni:t]a.整洁的；简洁的
+833.	necessarily['nesisәrili]ad.必然,必要
+834.	neck[nek]n.脖子
+835.	negative['negәtiv]a.否定的；消极的；负的n.负数;底片
+836.	neighbour['neibә]n.邻居
+837.	nerve[nә:v]n.神经
+838.	nervous['nә:vәs]a.紧张的,易激动的
+839.	net[net]a.净的，纯的n.网,网状物
+840.	nevertheless[nevәðәles]conj.然而ad.仍然
+841.	newly['nju:li]ad.新近地
+842.	nightmare['naItmeә(r)]n.恶梦；可怕的事物
+843.	nod[nɔd]vt.点头n.点头
+844.	noise[nɔiz]n.喧闹声,响声
+845.	normally['nɔ:mәli]ad.正常地
+846.	nose[nәuz]n.鼻子
+847.	noted['nәutid]a.著名的
+848.	notion['nәuʃәn]n.打算, 意图；看法
+849.	nowhere['nәuhwɛә]ad.任何地方都不
+850.	numerous['nju:mәrәs]a.许多
+851.	nurse[nә:s]n.护士vt.看护，照料
+852.	objective[ɔb'dʒektiv]a.客观的n.目的，目标
+853.	observe[әb'zә:v]vt.观察,注意到
+854.	observer[әb'zә:vә]n.观测者
+855.	obtain[әb'tein]vt.获得
+856.	occasional[ә'keiʒәnәl]a.偶然的;临时的
+857.	occupation[ɔkju'peiʃәnl]n.占领,占据;职业，工作
+858.	ocean['әuʃәn]n.海洋
+859.	o'clock[ә'klɔk]ad.…点钟
+860.	offence[ә'fens]n.犯罪，犯规；冒犯
+861.	offensive[ә'fensiv]a.冒犯的,进攻的
+862.	offering['ɔfәriŋ]n.提供之物
+864.	onto['ɔntu]prep.到…上
+865.	opening['әupәniŋ]a.开始的n.开始
+866.	opera['ɔpәrә]n.歌剧
+867.	operator['ɔpәreitә]n.接线员
+868.	opponent[ә'pәunәnt]n.对手,敌手
+869.	oppose[ә'pәuz]vt.反对,反抗
+870.	opposed[ә'pәuzd]a.相对的，相反的
+871.	opposite['ɔpәzit]a.对面的n.对立物
+872.	opt[Cpt]vi.挑选，选择
+873.	orange['ɔrindʒ]n.桔子a.橙色的
+874.	ordinary['ɔ:dinәri]a.平常的,平凡的
+875.	organized[]adj. 1> [常构成复合字]有组织的,编组的,组织性的; 有计划的
+876.	origin['ɔridʒin]n.起源,由来;出身，血统
+877.	originally[ә'ridʒәnәli]ad.最初
+878.	ought[ɔ:t]aux.应该
+879.	ourselves[auә'selvz]pron.我们自己
+880.	outcome['autkәm]n.结果,后果;成果
+881.	outline['aut-lain]n.轮廓；大纲
+882.	output['autput]n.产量；输出
+883.	outstanding[aut'stændiŋ]a.突出的,杰出的
+884.	overcome[әuvә'kʌm]vt.战胜,克服
+885.	overnight['әuvәnait]ad.一夜之间,突然
+886.	overseas['әuve'si:z]ad.海外a.在海外的
+887.	overwhelming[әuvә'hwelmiŋ]a.势不可挡的
+888.	owe[әu]vt.欠;归功于
+889.	ownership['әunәʃip]n.所有(权),所有制
+890.	pace[peis]n.步伐;步调vi.踱步
+891.	pact[pækt]n.协定,条约
+892.	painful['peinful]a.痛苦的
+893.	palace['pælis]n.宫殿
+894.	pale[peil]a.苍白的
+895.	pan[pæn]n.平底锅
+896.	panel['pænl]n.面,板
+897.	panic['pænik]n.恐慌,惊慌
+898.	parliamentary[pa:lә'mentәri]a.国会的，议会的
+899.	part[pa:t]vt.分开，拆散n.一部分;零件；角色
+900.	participate[pa:'tisipeit]vi.参与,参加
+901.	partly['pa:tli]ad.部分地
+902.	partnership['pa:tnәʃip]n.合伙；合股
+903.	passage['pæsidʒ]n.通道；段落
+904.	passenger['pæsindʒә]n.乘客,旅客
+905.	passion['pæʃәn]n.激情,热情
+906.	path[pa:θ]n.小道,道路
+907.	pause[pɔ:z]n.中止vi.中止,暂停
+908.	peaceful['pi:sful]a.和平的；平静的
+909.	peak[pi:k]n.山顶a.最高的
+910.	peer[piә]vi.凝视
+911.	peg[peg]n.钉,夹子
+912.	pen[pen]n.钢笔
+913.	penalty['penlti]n.处罚,罚款
+914.	penny['peni]n.便士；分
+915.	pension['penʃәn]n.养老金
+916.	pepper['pepә]n. 胡椒粉
+917.	percentage[pә'sentidʒ]n.百分比,百分率
+918.	perfectly['pә:fiktli]ad.完全地；绝对地
+919.	permanent['pә:mәnәnt]a.持久的；固定的
+920.	permission[pә(:)'miʃәn]n.允许,同意
+921.	permit[pә:'mit, 'pә:mit]vt.允许n.执照，许可证
+922.	personality[pә:sә'næliti]n.个性,人格；名人
+923.	personally['pә:sәnәuli]ad.亲自地，由本人
+924.	personnel[pә:sә'nel]n.全体人员
+925.	perspective[pә:'spektiv]n.远景;观点
+926.	persuade[pә:'sweid]vt.说服
+927.	pet[pet]n.宠物
+928.	phase[feiz]n.阶段；方面
+929.	philosophy[fi'lɔsәfi]n.哲学
+930.	phrase[freiz]n.短语,习惯用语
+931.	pick-up[]n. 提取,搭便车
+932.	pile[pail]n.堆vt.堆叠
+933.	pill[pil]n.药丸
+934.	pilot['pailәt]n.飞行员
+935.	pin[pin]n.别针，钉子vt.钉住
+936.	pink[piŋk]n.粉红色a.粉红色的
+937.	pipe[paip]vt.用管道输送n.管子,导管;烟斗
+938.	pit[pit]n.坑
+939.	pitch[pitʃ]vt.扔n.沥青
+940.	plain[plein]n.平原a.平坦的;朴素的；平常的
+941.	planet['plænit]n.行星
+942.	planning[]n.规划，设计，策划
+943.	plastic['plæstik]a.塑料的n.塑料，塑料制品
+944.	plate[pleit]n.盘
+945.	platform['plætfɔ:m]n.站台,讲台
+946.	pleasant['pleznt]a.令人愉快的
+947.	pleased[pli:zd]a.高兴的
+948.	pleasure['pleʒә]n.愉快,快乐
+949.	pledge[pledʒ]n.誓言vt.保证,发誓
+950.	plenty['plenti]n.充足,大量
+951.	plot[plɔt]n.小块土地；计划，密谋；情节vt.密谋
+952.	plunge[plʌndʒ]vt.猛刺
+953.	pocket['pɔkit]n.衣袋a.袖珍的
+954.	poem['pәuim]n.诗
+955.	poet[pәuit]n.诗人
+956.	poetry['pәuitri]n.诗歌
+957.	point of view[]n. 观点
+958.	pole[pәul]n.杆,柱
+959.	policeman[pә'li:smәn]n.警察
+960.	police officer[]n. 警官, 警员
+961.	pollution[pә'lu:ʃәn]n.污染
+962.	pool[pu:l]n.水池vt.合伙经营,共享
+963.	pop[pɔp]n.流行歌曲;砰的一声
+964.	port[pɔ:t]n.港口
+965.	portrait['pɔ:trit]n.肖像,画像
+966.	pose[pәuz]vt.陈述，提出；摆好位置vi.假装；摆姿势n.姿势
+967.	pot[pɔt]n.锅
+968.	potato[pәu'teitәu]n.土豆
+969.	pour[pɔ:]vt.流, 倾盆大雨vi.倾泻
+970.	poverty['pɔvәti]n.贫穷
+971.	practical['præktikәl]a.实用的
+972.	praise[preiz]n.赞扬,表扬vt.赞扬, 称赞
+973.	precisely[pri'saisli]ad.精确地
+974.	predict[pri'dikt]vt.预言,预测
+975.	pregnant['pregnәnt]a.怀孕的;意义深长的
+976.	premier['premjә]a.首要的n.总理，首相
+977.	premium['pri:mjәm]n.奖金,保险费
+978.	preparation[prepә'reiʃәn]n.准备,预备
+979.	preserve[pri'zә:v]vt.保存
+980.	presidency['prezidәnsi]n.总统(校长，总经理)的职位(任期)
+981.	presumably[pri'zju:mәbli]ad.大概
+982.	previously['pri:vjәsli]adv.在以前，预先
+983.	pride[praid]n.骄傲,自豪
+984.	priest[pri:st]n.牧师,神父
+985.	primary['praimәri]a.最初的
+986.	prime[praim]a.首要的;最初的
+987.	principal['prinsәpәl]a.主要的n.校长；资本
+988.	prior['praiә]a.在先的；优先的
+989.	priority[prai'ɔriti]n.优先权
+990.	privatize['praivәtaiz]vt. 使…民营化; 使…私营化
+991.	procedure[prә'si:dʒә]n.程序,过程
+992.	proceed[prә'si:d]vi.进行
+993.	profession[prә'feʃәn]n.职业
+994.	profile['prәufail]n. 侧面,轮廓;人物素描
+995.	prominent['prɔminәnt]a.突起的；杰出的
+996.	prompt[prɔmpt]n.提示a.迅速的vt.敦促
+997.	proof[pru:f]n.证据
+998.	proportion[prә'pɔ:ʃәn]n.比率,部分
+999.	prosecute['prɔsikju:t]vt.告发,起诉
+1000.	protein['prәuti:n]n.蛋白质
+1001.	proud[praud]a.骄傲的；自豪的
+1002.	province['prɔvins]n.省
+1003.	provision[prә'viʒәn]n.供应；条款
+1004.	provoke[prә'vәuk]vt. 激怒
+1005.	psychological[saikә'lɔdʒikәl]a.心理（学）的
+1006.	psychology[sai'kɔlәdʒi]n.心理学
+1007.	pub[pʌb]n.酒馆,客栈
+1008.	publication[pʌbli'keiʃәn]n.出版;出版物
+1009.	publicity[pʌb'lisiti]n. 宣传
+1010.	publisher['pʌbliʃә]n.出版商，发行人
+1011.	publishing[]ing. 发表(出版)
+1012.	pump[pʌmp]n.泵vt.用泵抽，打气
+1013.	punch[pʌntʃ]vt.猛击n.拳打，猛击
+1014.	pupil['pju:pl]n.瞳孔;小学生
+1015.	pure[pjuә]a.纯洁的
+1016.	pursue[pә'sju:]vt.追赶，追踪；追求
+1017.	qualified['kwɔlifaid]a. 有资格的
+1018.	qualify['kwɔlifai]vt.有资格
+1019.	quantity['kwɔntiti]n.数量；大量
+1020.	racial['reiʃәl]a.种族的,人种的
+1021.	racing['reisiŋ]n.竞赛，赛马 a.竞赛用的，赛马用的
+1022.	rage[reidʒ]n.狂怒，强烈欲望
+1023.	raid[reid]n.突袭；搜查
+1024.	rail[reil]n.铁路，铁轨
+1025.	railway['reilwei]n.铁路,铁道
+1026.	rally['ræli]vt.(重新)集合vi.重整旗鼓
+1027.	rank[ræŋk]n.军衔vt.归类于
+1028.	rape[reip]vt.强奸n.强奸
+1029.	rare[rɛә]a.稀有的
+1030.	rarely['rɛәli]ad.很少,难得
+1031.	rating['reitiŋ]n.等级,品位;收视率
+1032.	raw[rɔ:]a.生的；未加工的
+1033.	ray[rei]n.光线;射线
+1034.	react[ri'ækt]vi.反应　
+1035.	reading['ri:diŋ]n.阅读；读物
+1036.	rear[riә]n.后面, 后方a.后面的, 背面的
+1037.	reasonable['ri:znәbl]a.合情合理的
+1038.	reckon['rekәn]vi.估计;猜想vt.认为
+1039.	recognition[rekәg'niʃәn]n.认出,识别
+1040.	recording[ri'kC:diŋ]n.录制
+1041.	recover[ri'kʌvә]vt.恢复，痊愈
+1042.	recovery[ri'kʌvәri]n.痊愈,恢复
+1043.	recruit[ri'kru:t]vi.招收，聘用n. 新兵,新成员
+1044.	reduction[ri'dʌkʃәn]n.减少,缩减
+1045.	reel[ri:l]n.卷轴;旋转
+1046.	reference['refәrәns]n.参考;提及；推荐人（信）
+1047.	referendum[refә'rendәm]n.公民公决
+1048.	regime[rei'ʒi:m]n.政体,政权
+1049.	register['redʒistә]vt.登记,注册n.登记,注册
+1050.	regret[ri'gret]vt.懊悔,抱歉n.懊悔
+1051.	regulation[regju'leiʃәn]n.规章,管理
+1052.	regulator['regjuleitә]n.调节器
+1053.	relate[ri'leit]vt.联系
+1054.	related[ri'leitid]a.有关联的
+1055.	relative['relәtiv]a.有关系的；相对的n.亲戚，亲属
+1056.	relax[ri'læks]vt.使松弛vi.松弛；松懈
+1057.	relevant['relivәnt]a.有关的;中肯的
+1058.	reliable[ri'laiәbl]a.可靠的
+1059.	religion[ri'lidʒәn]n.宗教信仰
+1060.	reluctant[ri'lʌktәnt]a.勉强的
+1061.	rely[ri'lai]vi.依赖,依靠；信赖
+1062.	remaining[]a.剩余的
+1063.	remark[ri'ma:k]vi.评论n.评论;备注
+1064.	remarkable[ri'ma:kәbl]a.异常的,非凡的
+1065.	remind[ri'maind]vt.提醒
+1066.	remote[ri'mәut]a.遥远的
+1067.	renew[ri'nju:]vt.续借vi.更新
+1068.	rent[rent]n.租金,租vi.出租
+1069.	repair[ri'pɛә]vt.修理,修补n.修理
+1070.	reputation[repju(:)'teiʃәn]n.名誉,声望
+1071.	requirement[ri'kwaiәmәnt]n.需要,要求
+1072.	rescue['reskju:]vt.援救,营救
+1073.	resign[ri'zain]vt.放弃vi.辞职
+1074.	resignation[rezig'neiʃәn]n.辞职；放弃
+1075.	resist[ri'zist]vt.抵抗,抵制
+1076.	resistance[ri'zistәns]n.抵抗,抵制
+1077.	resolve[ri'zɔlv]vt.解决;决心n.决心
+1078.	resort[ri'zɔ:t]vi.求助, 诉诸n.凭借，手段;胜地
+1079.	restore[ris'tɔ:]vt.恢复,归还;修补，重建
+1080.	resume[ri'zju:m]vt.重新开始
+1081.	retail['ri:teil]n.零售a.零售的
+1082.	retain[ri'tein]vt.保持,保留
+1083.	retire[ri'taiә]vi.退休
+1084.	retirement[ri'taiәmәnt]n.退休
+1085.	retreat[ri'tri:t]vi.退却,撤退
+1086.	revenue['revinju:]n.税收，财政收入
+1087.	reverse[ri'vә:s]vt.颠倒,翻转n.背面
+1088.	revolution[revә'lu:ʃәn]n.革命;旋转
+1089.	revolutionary[revә'lu:ʃәnәri]a.革命的n.革命者
+1090.	reward[ri'wɔ:d]n.报答；报酬vt.报答；酬金
+1091.	rhythm['riðәm]n.韵律,节奏
+1092.	rice[rais]n.稻,米,饭
+1093.	rid[rid]vt.使摆脱,使去掉
+1094.	rider['raidә]n.骑手，骑车人
+1095.	right-wing[]a. 右翼的,右派的
+1096.	ring[riŋ]vi.鸣;按铃，敲钟vt.打电话给；按铃，敲钟n.铃声；戒指，环
+1097.	riot['raiәt]n.骚乱,暴乱
+1098.	roach[rәutʃ]n.蟑螂
+1099.	rocket['rɔkit]n.火箭
+1100.	romantic[rәu'mæntik]a.浪漫的
+1101.	roof[ru:f]n.屋顶
+1102.	root[ru:t]n.根（部）；根源vi.生根，扎根
+1103.	rose[rәuz]n.玫瑰花
+1104.	rouge[ru:ʒ]n.胭脂，口红唇膏 v.(在…上)擦口红
+1105.	rough[rʌf]a.表面不平的;粗略的；大致的
+1106.	routine[ru:'ti:n]n.例行的公事a.日常的，例行的
+1107.	row[rәu]vi.划船vt.划船n.(一)排,(一)行
+1108.	rugby['rʌgbi]n.橄榄球赛
+1109.	ruin['ruin]n.毁灭;废墟vt.毁坏
+1110.	         ruling['ru:liŋ]a. 统治的，主要的 n.裁决，判决
+1111.		rumour['ru:mә]n./v.传闻；谣传
+1112.		runner['rʌnә]n.跑步者
+1113.		rural['ruәrәl]a.农村的
+1114.		rush[rʌʃ]vi.冲,奔vt. 匆忙地做a.（交通）繁忙的
+1115.		sack[sæk]n.袋,麻袋；解雇；洗劫, 劫掠vt.洗劫;开除
+1116.		sacrifice['sækrifais]vt.牺牲,献祭
+1117.		sail[seil]n.帆；航行vi.航行vt.驾驶
+1118.		saint[seint]n.圣徒,基督教徒
+1119.		sake[seik]n.缘故,理由
+1120.	salary['sælәri]n.薪水
+1121.	salt[sɔ:lt]n.盐,盐类vt.加盐于
+1122.	sample['sa:mpl]n.样品,标本
+1123.	sand[sænd]n.沙子,沙滩
+1124.	satellite['sætәlait]n.卫星
+1125.	satisfied[]a. 感到满意的
+1126.	sauce[sɔ:s]n.调味汁,酱汁
+1127.	savings['seiviŋz]n.储金，储蓄
+1128.	scandal['skændl]n.丑闻
+1129.	scientific[saiәn'tifik]a.科学的
+1130.	scream[skri:m]vi.尖叫n.尖叫声
+1131.	script[skript]n.手稿
+1132.	seal['si:l]n.海豹；封条；图章vt.封, 密封
+1133.	secretary-general[]n. 秘书长,总书记
+1134.	segment['segmәnt]n.切片;部分,段,节
+1135.	seize[si:z]vt.抓住;夺取，占据
+1136.	select[si'lekt]vt.选择vi.挑选
+1137.	selection[si'lekʃәn]n.选择,挑选
+1138.	self[self]n.自我,自己
+1139.	senator['senәtә]n.参议员,评议员
+1140.	sensible['sensәbl]a.感觉得到的
+1141.	sensitive['sensitiv]a.敏感的,灵敏的
+1142.	seriously['siәriәsli]ad.严重地；认真地，严肃地
+1143.	servant['sә:vәnt]n.仆人
+1144.	set-to[]n. 互殴,缠打,拳击比赛
+1145.	shade[ʃeid]n.树荫;遮光物vi.荫蔽
+1146.	shadow['ʃædәu]n.阴影,影子
+1147.	shame[ʃeim]n.羞耻,羞愧
+1148.	shaped[]v. 作形,给与形状;vbl. 成形,发展
+1149.	shareholder['ʃɛәhәuldә]n.股东
+1150.	shed[ʃed]vt.流出;散发;脱落
+1151.	sheet[ʃi:t]n.被单;纸张，薄片
+1152.	shell[ʃel]n.贝壳;炮弹
+1153.	shelter['ʃeltә]n.掩蔽处vt.遮蔽，掩护
+1154.	shift[ʃift]vt.替换,转移n.转换
+1155.	shirt[ʃә:t]n.衬衫
+1156.	shoe[ʃu:]n.鞋
+1157.	shopping['ʃɔpiŋ]n.购物
+1158.	shore[ʃɔ:]n.滨,岸
+1159.	shortage['ʃɔ:tidʒ]n.不足,缺乏
+1160.	shortly['ʃɔ:tli]ad.立刻;简短地
+1161.	short-term[]a. 短期的
+1162.	shouldn't['ʃudnt]不应该，不要
+1163.	shout[ʃaut]n.呼喊vi.呼喊,喊叫
+1164.	shut[ʃʌt]vt.关上,关闭a.关闭的
+1165.	sick[sik]a.有病的;恶心的
+1166.	sigh[sai]vi.叹气,叹息n.叹息
+1167.	signal['signәl]n.信号vi.发信号
+1168.	silence['sailәns]n.沉默
+1169.	silent['sailәnt]a.沉默的,寂静无声的
+1170.	silver['silvә]n.银,银子,银器
+1171.	singer['siŋә]n. 歌手
+1172.	sink[siŋk]vi.下沉,降低n.水槽, 水池
+1173.	ski[ski:]n. 滑雪橇vi. 滑雪
+1174.	sky[skai]n.天空
+1175.	slice[slais]n.薄片,切片;部分
+1176.	slide[slaid]vi.滑vt.使滑动
+1177.	slight[slait]a.细长的;轻微的
+1178.	slim[slim]a.细长的,微小的
+1179.	smart[sma:t]a.巧妙的,聪明的
+1180.	smash[smæʃ]vt.打碎,打破
+1181.	smell[smel]n.嗅觉;气味vt.嗅vi.散发气味
+1182.	smooth[smu:ð]a.平滑的,平静的
+1183.	snap[snæp]vt.猛咬;突然折断
+1184.	snow[snәu]n.雪vi.下雪
+1185.	so-called['sәu'kɔ:ld]a.所谓的
+1186.	soccer['sɔkә]n.英式足球
+1187.	socialist['sәuʃәlist]a.社会主义的
+1188.	software['sɔftwɛә]n.软件
+1189.	soil[sɔil]n.土壤;土地
+1190.	solicitor[sә'lisitә]n.律师,法律顾问
+1191.	solid['sɔlid]n.固体a.固体的;稳固的
+1192.	solve['sɔlv]vt.解答,解决
+1193.	somehow['sʌmhau]ad.由于某种原因
+1194.	somewhat['sʌmwɔt]pron.一点儿ad.有点
+1195.	somewhere['sʌmwɛә]ad.在某处n.某地
+1196.	sophisticated[sә'fistikeitid]a.老于世故的,成熟的
+1197.	soul[sәul]n.灵魂,精神;人
+1198.	spare[spɛә]vt.节约 ；抽出；饶恕a.多余的;空闲的
+1199.	spark[spa:k]n.火花,火星
+1200.	speaker['spi:kә]n.说话者;扬声器
+1201.	specialist[speʃәlist]n.专家
+1202.	specialize['speʃәlaiz]vi.专攻
+1203.	species['spi:ʃi:z]n.物种,种类
+1204.	specifically[spe'sifikәli]ad. 特定的;明确的
+1205.	spectacular[spek'tækjulә]a.惊人的n. 展览物
+1206.	speculate['spekjuleit]vi.思索,沉思;投机
+1207.	spell[spel]vt.拼写vi.拼字
+1208.	spin[spin]vt.纺;使旋转n.旋转
+1209.	spiritual['spiritjuәl]a.精神的,心灵的
+1210.	spite[spait]n.不顾
+1211.	sponsor['spɔnsә]n.发起者vt.发起
+1212.	spray[sprei]n.浪花，水花;喷雾vt.喷，喷射
+1213.	spur[spә:]n.刺激物vt.刺激
+1214.	squad[skwɔd]n.班
+1215.	squeeze['skwi:z]vt.榨,挤;压榨
+1216.	stadium['steidjәm]n. 露天大型运动场
+1217.	stamp[stæmp]vi.跺脚vt.盖章；跺脚n.戳子;邮票
+1218.	stare[stɛә]vi.凝视
+1219.	Statistic[stә'tistik]a.统计的,统计学的
+1220.	steady['stedi]a.稳固的vt.使稳定
+1221.	steal[sti:l]vt.偷,窃取
+1222.	steam[sti:m]n.蒸汽vi.蒸发vt.蒸煮
+1223.	steel['sti:l]n.钢
+1224.	stem[stem]n.茎,(树)干vi.起源
+1225.	stick[stik]n.棍,棒vt.刺;粘贴
+1226.	stimulate['stimjuleit]vt.刺激,激励
+1227.	stir[stә:]vt.搅动,搅拌；煽动n.惊动；搅拌
+1228.	stock exchange[]n. 证券交易所
+1229.	stock market[]n. 股票市场
+1230.	stomach['stʌmәk]n.胃；胃口；欲望
+1231.	storm[stɔ:m]n.暴风雨；大动荡
+1232.	strain['strein]n.紧张；张力vi.尽力vt.拉紧
+1233.	strategic[strә'ti:dʒik]a.战略上的
+1234.	stream[stri:m]n.河,流;一连串, 连续
+1235.	strengthen['streŋθәn]vt.加强,巩固
+1236.	stretch[stretʃ]vt.伸展n.一段时间(路程)；拉长，延伸
+1237.	strict[strikt]a.严格的,严谨的
+1238.	striking['straikiŋ]a.显著的，惊人的
+1239.	string[striŋ]n.线;弦；一串
+1240.	strip[strip]vt.剥,夺去；脱衣服n.条带
+1241.	stroke[strәuk]vt.打,击;抚摩n.敲击；中风；抚摸
+1242.	stupid['stju:pid]a.愚蠢的
+1243.	subsequent['sʌbsikwәnt]a.随后的,后来的
+1244.	subsidy['sʌbsidi]n.补助金,津贴
+1245.	substance['sʌbstәns]n.物质;本质
+1246.	substantial[sәb'stænʃәl]a.物质的;本质的
+1247.	substitute['sʌbstitju:t]n.替代物vt.用…代替
+1248.	sudden['sʌdn]a.突然的
+1249.	sufficient[sә'fiʃәnt]a.足够的,充分的
+1250.	sugar['ʃugә]n.糖
+1251.	suggestion[sә'dʒestʃәn]n.建议,意见;暗示
+1252.	suicide['sjuisaid]n.自杀
+1253.	Suitable['sju:tәbl]a.适宜的；恰当的
+1254.	sum[sʌm]n.总数;金额vi.共计
+1255.	super['sju:pә]a.极好的,超级的
+1256.	superb[sju:'pә:b]a.壮丽的,超等的
+1257.	superior[sju:'piәriә]n.上级a.较高的;优越的
+1258.	surely['ʃuәli]ad.肯定，的确
+1259.	surgery['sә:dʒәri]n.外科手术
+1260.	surplus['sә:plәs]a.过剩的，多余的n.过剩,剩余
+1261.	surrender[sә'rendә]vi.投降；屈服，让步
+1262.	suspend[sәs'pend]vt.吊,悬;推迟
+1263.	suspicion[sәs'piʃәn]n.怀疑,猜疑
+1264.	sustain[sәs'tein]vt.持续，保持
+1265.	sweep[swi:p]vt.打扫；掠过vi.快速移动
+1266.	sweet[swi:t]a.甜的；温柔的n.糖果，甜食
+1267.	swim[swim]vi.游泳n.游泳
+1268.	swing[swiŋ]vi.摇摆,回转n.摇摆;秋千
+1269.	switch[switʃ]n.开关;转换vt.转换
+1270.	symbol['simbәl]n.象征；符号
+1271.	sympathy['simpәθi]n.同情，同情心
+1272.	symptom['simptәm]n.症状;征兆
+1273.	tackle['tækl]vt.解决,对付
+1274.	tactic['tæktik]n.策略；战术
+1275.	tail[teil]n.尾巴
+1276.	takeover[]n.(事业等的)接管；(经营权等的)接收
+1277.	tale[teil]n.故事；传说
+1278.	tall[tɔ:l]n.高的,身材高的
+1279.	tank[tæŋk]n.坦克;大容器
+1280.	tap[tæp]vt.轻打, 轻敲n.塞子,龙头;轻叩, 轻拍
+1281.	teaching['ti:tʃiŋ]n.教学；(pl.)教导，学说
+1282.	tear[tiә, tɛә]n.泪滴, 眼泪vt.撕开,撕裂
+1283.	technical['teknikәl]a.技术的,工艺的
+1284.	teenager['ti:neidʒә]n.青少年
+1285.	temperature['tempәritʃә]n.温度;体温
+1286.	temple['templ]n.神殿,庙宇;太阳穴
+1287.	temporary['tempәrәri]a.暂时的,临时的
+1288.	tendency['tendәnsi]n.趋向,趋势
+1289.	tennis['tenis]n.网球运动
+1290.	tension['tenʃәn]n.紧张,不安
+1291.	terrorist['terәrist]n.恐怖分子
+1292.	testing['testiŋ]n.试验，测试
+1293.	text[tekst]n.原文；文本；课文
+1294.	theme[θi:m]n.题目;词干;主旋律
+1295.	therapy['θerәpi]n.治疗
+1296.	thick[θik]a.厚的;密的,浓的
+1297.	thin[θin]a.薄的;淡的;瘦的
+1298.	Third World[][the ~]
+1299.	thorough['θʌrә]a.彻底的,详尽的
+1300.	threatening[`θretәnIŋ]a.不祥的
+1301.	throat[θrәut]n.咽喉
+1302.	tide[taid]n.潮汐；趋势
+1303.	tight[tait]a.紧的；紧身的ad.紧紧地
+1304.	till[til]prep.直到…为止conj.直到…为止
+1305.	tiny['taini]a.微小的,极小的
+1306.	tip[tip]vt.轻击vi.给小费n.小费
+1307.	tired['taiәd]a.疲劳的；厌倦的
+1308.	Tissue['tisju:]n.薄绢,薄纸巾;组织
+1309.	ton[tʌn]n.吨;大量
+1310.	tone[tәun]n.腔调,声调
+1311.	tool[tu:l]n.工具
+1312.	tooth[tu:θ]n.牙齿
+1313.	torture['tɔ:tʃә]n.拷问,折磨vt.拷打
+1314.	tourist['tuәrist]n.旅游者,观光者
+1315.	tournament['tuәnәmәnt]n.联赛；比赛
+1316.	tower['tauә]n.塔vi.屹立,高耸
+1317.	toy[tɔi]n.玩具
+1318.	trace[treis]n.痕迹；微量vt.跟踪
+1319.	trader['treidә]n.商人
+1320.	tradition[trә'diʃәn]n.传统,惯例
+1321.	traffic['træfik]n.交通
+1322.	tragedy['trædʒidi]n.悲剧,惨案
+1323.	trail[treil]n.痕迹;小径vt.跟踪
+1324.	transform[træns'fɔ:m]vt.改变,改造
+1325.	transition[træn'siʃәn]n.转变,变迁
+1326.	trap[træp]n.陷阱;诡计vt.诱骗
+1327.	traveller['trævlә]n.旅行者
+1328.	treasury['treʒәri]n.财政部；基金
+1329.	tremendous[tri'mendәs]a.极大的;非常的
+1330.	trend[trend]vi.伸向;倾向n.倾向
+1331.	trick[trik]n.诡计;窍门vt.哄骗
+1332.	trigger['trigә]n.扳机vt.触发,引起
+1333.	triumph['traiәmf]n.凯旋,胜利vi.成功
+1334.	truck[trʌk]n.卡车
+1335.	truly['tru:li]ad.真正地
+1336.	tube[tju:b]n.管子
+1337.	tune[tju:n]n.调子;和谐
+1338.	tunnel['tʌnl]n.隧道,地道
+1339.	twin[twin]a.孪生的n.孪生儿
+1340.	twist[twist]vt.捻,拧n.扭弯
+1341.	typical['tipikәl]a.典型的,代表性的
+1342.	ultimate['ʌltimit]a.最后的,最终的
+1343.	ultimately['ʌltimitli]ad.最后，终于
+1344.	unable['ʌn'eibl]a.不能的,不会的
+1345.	uncle['ʌŋkl]n.伯父,叔父
+1346.	underground['ʌndәgraund]a.地下的;秘密的ad.在地面下；秘密地n.地铁
+1347.	undermine[ʌndә'main]vt.破坏
+1348.	understanding[ʌndә'stændiŋ]n.理解，理解力
+1349.	unemployment['ʌnim'plɔimәnt]n.失业
+1350.	unexpected['ʌniks'pektid]a.意外的
+1351.	unfair['ʌn'fɛә]a.不公平的
+1352.	unfortunately[ʌn'fɔ:tʃәnitli]ad.不幸地
+1353.	unhappy[ʌn'hæpi]a.不愉快的
+1354.	unidentified[ʌnai'dentifaid]a. 未经确认的
+1355.	uniform['ju:nifɔ:m]a.一样的n.制服
+1356.	unique[ju:'ni:k]a.唯一的
+1357.	united[ju:'naitid]adj.一致的；联合的
+1358.	unity['ju:niti]n.统一,团结
+1359.	universe['ju:nivә:s]n.宇宙,世界
+1360.	unknown['ʌn'nәun]a.未知的，不知名的
+1361.	unlike['ʌn'laik]a.不同的prep.不像
+1362.	unusual[ʌn'ju:ʒuәl]a.不平常的,独特的
+1363.	upper['ʌpә]a.上面的
+1364.	Upset[ʌp'set]vt.使不适, 使心烦n.混乱
+1365.	urban['ә:bәn]a.都市的
+1366.	urgent['ә:dʒәnt]a.紧急的
+1367.	user['ju:zә]n.用户,使用者
+1368.	valley['væli]n.山谷,流域
+1369.	valuable['væljuәbl]a.值钱的,有价值的n.贵重物品
+1370.	van[væn]n.大篷车,运货车
+1371.	vary['vɛәri]vt.改变
+1372.	vast[va:st]a.巨大的，广阔的
+1373.	vegetable['vedʒitәbl]n.蔬菜
+1374.	venture['ventʃә]n.冒险vi.冒险vt.敢于
+1375.	venue['venju:]n.聚会地点，会场
+1376.	verdict['vә:dikt]n.裁决,定论
+1377.	vessel['vesl]n.容器;船
+1378.	veteran['vetәrәn]n.老兵,老手
+1379.	via['vaiә]prep.经过,通过
+1380.	vice[vais]n.老虎钳a.副的
+1381.	victimize['viktimaiz]v.使牺牲；使受害
+1382.	violate['vaiәleit]vt.违犯,违背
+1383.	violent['vaiәlәnt]a.猛烈的,狂暴的
+1384.	virtually['vә:tjuәli]ad.实际上,事实上
+1385.	virus['vaiәrәs]n.病毒
+1386.	visible['vizәbl]a.可见的,看得见的
+1387.	vision['viʒәn]n.视觉;想象力,梦幻
+1388.	visitor['vizitә]n.来访者;游客
+1389.	vital['vaitl]a.致命的;重要的
+1390.	vitamin['vitәmin]n.维生素
+1391.	voluntary['vɔlәntәri]a.自愿的,志愿的
+1392.	volunteer[vɔlәn'tiә]n.志愿者vt.志愿
+1393.	vulnerable['vʌlnәrәbl]a.脆弱的
+1394.	wage[weidʒ]n.工资,报酬
+1395.	wake[weik]vi.醒来；觉悟vt.唤醒
+1396.	warning['wɔ:niŋ]n.警告
+1397.	wash[wɔʃ]vt.洗,冲vi.洗涤
+1398.	watch[wɔtʃ]vt.观看；监视vi.观看n.手表
+1399.	weaken['wi:kәn]vt.削弱
+1400.	wealth[welθ]n.财富,财产
+1401.	we'd[wi:d]我们应该,我们将
+1402.	wedding['wediŋ]n.婚礼
+1403.	weekly['wi:kli]a.每周的ad.每周
+1404.	weigh[wei]vt.称…的重量;掂量
+1405.	welfare['welfɛә]n.幸福;福利
+1406.	well-known['wel'nәun]a.众所周知的
+1407.	wet[wet]a.湿的
+1408.	wheel[wi:l]n.轮,车轮
+1409.	whenever[wen'evә]conj.无论何时,随时
+1410.	whereas[(h)wɛәr'æz]conj.而,却
+1411.	whilst['wailst]conj.当...时候
+1412.	whip[wip]vt.鞭笞n.鞭子
+1413.	whisper['wispә]vt.低声地讲vi.低语n.耳语,私语
+1414.	wicket['wikit]n. 小门,腰门,售票窗
+1415.	widespread['waidspred]a.分布广的,普遍的
+1416.	winning['winiŋ]a.获胜的，胜利的；吸引人的，有说服力的
+1417.	winter['wintә]n.冬天
+1418.	wipe[waip]vt.揩,擦n.揩,擦
+1419.	wire['waiә]n.金属线,电缆
+1420.	wise[waiz]a.有智慧的,聪明的
+1421.	withdrawal[wið'drɔ:l]n.收回；撤退
+1422.	witness['witnis]n.证据;证人vt.目击
+1423.	wooden['wudn]a.木制的;呆板的
+1424.	world war[]世界大战
+1425.	worldwide['wә:ldwaid]adj.全世界的
+1426.	worried['wʌrid]a.担心的，焦虑的
+1427.	wrap[ræp]vt.裹,包n.披肩
+1428.	written['ritn]a.书面的
+1429.	yacht[jɔt]n.游艇,快艇
+1430.	yellow['jelәu]a.黄色的n.黄色
+1431.	yen[jen]n.日元
+1432.	yield[ji:ld]vt.出产vi.屈服n.产量
+1433.	youngster['jʌŋstә]n.儿童,少年
+1434.	yours[jɔ:z]pron.你们的(东西)
+1435.	zone[zәun]n.地区,区域
