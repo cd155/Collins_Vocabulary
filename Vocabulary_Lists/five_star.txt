@@ -1,0 +1,679 @@
+1.	a[ei, ә]art.一(个),每一(个)
+2.	able['eibl]a.有能力的,出色的
+3.	about[ә'baut]prep.关于,在…周围
+4.	accept[әk'sept]vt.vi.接受,同意
+5.	accord[ә'kɔ:d]vt.使一致,给予
+6.	according to[]根据…
+7.	account[ә'kaunt]n.记述,解释,帐目
+8.	across[ә'krɔs]prep.横过,在…对面
+9.	act[ækt]vi.行动,见效 n.行为
+10.	action['ækʃәn]n.行动,作用,功能
+11.	actually['æktjuәli]ad.实际上,竟然
+12.	add[æd]vt.添加,附加,掺加
+13.	after['a:ftә]prep.在…以后,次于
+14.	again[ә'gein, ә'gen]ad.又一次,而且
+15.	against[ә'geinst, ә'genst]prep.靠在,反对,对着
+16.	age[eidʒ]n.年龄,时代 vt.变老
+17.	ago[ә'gәu]ad.以前
+18.	agree[ә'gri:]vi.同意,持相同意见
+19.	aid[eid]n.帮助,救护,助手
+20.	air[ɛә]n.空气,空中,外观
+21.	all[ɔ:l]a.全部的 prep.全部
+22.	allow[ә'lau]vt.允许,准许
+23.	almost['ɔ:lmәust]ad.几乎,差不多
+24.	along[ә'lɔŋ]prep.沿着 ad.向前
+25.	already[ɔ:l'redi]ad.早已,已经
+26.	also['ɔ:lsәu]ad.亦,也,而且,还
+27.	although[ɔ:l'ðәu]conj.尽管,虽然
+28.	always['ɔ:lweiz, 'ɔ:lwәz]ad.总是,一直,永远
+29.	among[ә'mʌŋ]prep.在…之中
+30.	and[ænd, әnd]conj.和,又,并,则
+31.	announce[ә'nauns]vt.宣布,发表
+32.	another[ә'nʌðә]a.再一个的,别的
+33.	answer['a:nsә]vt.回答,响应,适应
+34.	any['eni]a.什么,一些,任何的
+35.	anything['eniθiŋ]pron.任何事物,一切
+36.	appear[ә'piә]vi.出现,来到,似乎
+37.	area['ɛәriә]n.面积,地区,领域
+38.	arm[a:m]n.手臂,武器
+39.	army['a:mi]n.军队,陆军
+40.	around[ә'raund]prep.在…周围
+41.	art[a:t]n.艺术,美术
+42.	as[æz, әz]conj.当…的时候
+43.	ask[a:sk]vt.问,要求,邀请
+44.	at[æt, әt]prep.在…里,在…时
+45.	attack[ә'tæk]vt.vi.n.攻击,进攻
+46.	attempt[ә'tempt]vt.尝试,试图 n.企图
+47.	authority[ɔ:'θɔriti]n.当局,官方,权力
+48.	available[ә'veilәbl]a.可利用的,通用的
+49.	away[ә'wei]ad.离开,远离,…去
+50.	back[bæk]ad.在后,向后 n.背后
+51.	bad[bæd]a.坏的,恶的,严重的
+52.	bank[bæŋk]n.银行,库,堤
+53.	base[beis]n.基础,底层,基地
+54.	based[]v. 立基于,以...为基础
+55.	be[bi:]aux.v.vi.是,在,做
+56.	beat[bi:t]vt.vi.打,敲,打败
+57.	because[bi'kɔz]conj.由于,因为
+58.	become[bi'kʌm]vi.变成,成为,变得
+59.	before[bi'fɔ:]prep.在…以前
+60.	begin[bi'gin]vi.开始 vt.开始
+61.	behind[bi'haind]prep.在…后面
+62.	believe[bi'li:v]vt.相信,认为
+63.	better['betә]a.较好的 ad.更好地
+64.	between[bi'twi:n]prep.在…中间
+65.	big[big]a.大的
+66.	billion['biljәn]num.十亿
+67.	bit[bit]n.一点,一些,小片
+68.	bite[bait]vt.咬,叮,螫
+69.	black[blæk]a.黑色的,黑暗的
+70.	blue[blu:]a.蓝色的 n.蓝色
+71.	body['bɔdi]n.身体,主体,尸体
+72.	Book[buk]n.书籍 vt.预定
+73.	Both[bәuθ]pron.两者都
+74.	boy[bɔi]n.男孩,少年,家伙
+75.	break[breik]vt.打破,损坏
+76.	bring[briŋ]vt.带来,引出,促使
+77.	brother['brʌðә]n.兄弟
+78.	brown[braun]n.褐色,棕色
+79.	build[bild]vt.建造,建立,创立
+80.	building['bildiŋ]n.建筑物,大楼
+81.	business['biznis]n.商业,生意,事务
+82.	but[bʌt]conj.但是,可是
+83.	buy[bai]vt.vi.购买
+84.	by[bai]prep.在…旁,被,由
+85.	call[kɔ:l]vt.把…叫做,喊,打电话
+86.	campaign[kæm'pein]n.战役,运动
+87.	can[kæn]aux.v.能,会,可能
+88.	can't[ka:nt]v. & aux. 不能
+89.	capital['kæpitl]n.资本,资金,首都
+90.	car[ka:]n.轿车
+91.	care[kɛә]vi.关心,介意 n.小心
+92.	carry['kæri]vt.携带,运载,传送
+93.	case[keis]n.情况,事实,病例
+94.	cause[kɔ:z]n.原因,理由
+95.	central['sentrәl]a.中心的,主要的
+96.	centre['sentә]n.中心,中枢 vt.集中
+97.	century['sentʃuri]n.世纪,百年
+98.	chance[tʃa:ns]n.机会,机遇,可能性
+99.	change[tʃeindʒ]n.变化,零钱 vt.改变
+100.	charge[tʃa:dʒ]vt.索价,控告 n.费用
+101.	chief[tʃi:f]a.主要的,首席的
+102.	child[tʃaild]n.小孩
+103.	city['siti]n.城市
+104.	claim[kleim]vt.声称,主张,索取
+105.	class[kla:s]n.班级,阶级
+106.	clear[kliә]a.清晰的 vt.清除
+107.	close[klәuz, klәus]vt.关闭,结束
+108.	club[klʌb]n.俱乐部,夜总会
+109.	colour['kʌlә]n.颜色
+110.	come[kʌm]vi.来,来到,出现
+111.	coming['kʌmiŋ]n. 来临
+112.	committee[kә'miti]n.委员会
+113.	common['kɔmәn]a.普通的,共同的
+114.	community[kә'mju:niti]n.社区
+115.	company['kʌmpәni]n.公司 vt.陪伴
+116.	complete[kәm'pli:t]a.完整的,完成的
+117.	concern[kәn'sә:n]n.关心,挂念,关系
+118.	condition[kәn'diʃәn]n.状况,条件,环境
+119.	conference['kɔnfәrәns]n.会议,讨论会
+120.	consider[kәn'sidә]vt.认为,考虑,关心
+121.	continue[kәn'tinju(:)]vt.继续
+122.	control[kәn'trәul]vt.控制,克制 n.控制
+123.	cost[kɔst]n.价格,代价,成本
+124.	could[kud, kәd]aux.v.能够(can的过去式)
+125.	couldn't[]n. 不能
+126.	council['kaunsil]n.理事会,委员会
+127.	Country['kʌntri]n.国家
+128.	course[kɔ:s]n.课程,过程,一道菜
+129.	court[kɔ:t]n.法庭
+130.	cover['kʌvә]vt.盖住,包括 n.盖子
+131.	create[kri(:)'eit]vt.创造,引起,产生
+132.	cup[kʌp]n.杯子
+133.	current['kʌrәnt]a.当前的,通用的
+134.	cut[kʌt]vt.切,割,剪,减少
+135.	daughter['dɔ:tә]n.女儿
+136.	day[dei]n.一天,白昼
+137.	deal[di:l]n.交易 vi.处理
+138.	decide[di'said]vt.决定
+139.	decision[di'siʒәn]n.决定,决心
+140.	demand[di'ma:nd]vt.要求,需要
+141.	department[di'pa:tmәnt]n.部,司,局,处,系
+142.	describe[dis'kraib]vt.形容,描写,描绘
+143.	design[di'zain]vt.设计 n.设计,图样
+144.	develop[di'velәp]vt.发展,形成,开发
+145.	development[di'velәpmәnt]n.发展,开发,生长
+146.	didn't[]n. 未
+147.	die[dai]vi.死亡
+148.	different['difrәnt]a.不同的
+149.	difficult['difikәlt]a.困难的
+150.	direct[di'rekt]a.直接的,直率的
+151.	director[di'rektә]n.董事长,导演
+152.	do[du:, du]aux.v.vt.做,干,办
+153.	doesn't[]aux. 不
+154.	dollar['dɔlә]n.美元
+155.	don't[]aux. 不
+156.	door[dɔ:]n.门
+157.	down[daun]ad.向下,在下面
+158.	draw[drɔ:]vt.画,拖,拨出
+159.	drive[draiv]vt.驾驶,驱使
+160.	drug[drʌg]n.药物,毒品
+161.	during['djuәriŋ]prep.在…期间
+162.	each[i:tʃ]pron.各,各自 a.ad.每个
+163.	early['ә:li]ad.早 a.早的,早期的
+164.	east[i:st]n.东,东部 ad.在东方
+165.	easy['i:zi]a.容易的,安逸的
+166.	economic[i:kә'nɔmik]a.经济的,经济学的
+167.	economy[i(:)'kɔnәmi]n.经济,节约,节省
+168.	education[edju:'keiʃәn]n.教育,训导,教育学
+169.	effect[i'fekt]n.效果,效力
+170.	effort['efәt]n.努力
+171.	eight[eit]num.八,八个,第八
+172.	eighteen['ei'ti:n]num.十八,十八个
+173.	eighty['eiti]num.八十,八十个
+174.	either['aiðә, 'i:ðә]pron.(两者)任何一个
+175.	election[i'lekʃәn]n.选举,选举权,当选
+176.	eleven[i'levn]num.十一,十一个
+177.	else[els]ad.其它,另外 a.别的
+178.	end[end]n.末端,目标 vt.结束
+179.	enough[i'nʌf]a.足够的 ad.足够地
+180.	even['i:vәn]a.均匀的,平的
+181.	event[i'vent]n.事件,事变
+182.	ever['evә]ad.在任何时候,曾经
+183.	every['evri]a.每个,每一,每隔…的
+184.	everything['evriθiŋ]pron.每件事,事事
+185.	example[ig'za:mpl]n.例子,实例,模范
+186.	expect[iks'pekt]vt.预料,预期,等待
+187.	experience[iks'piәriәns]n.经验,感受,经历
+188.	eye[ai]n.眼睛
+189.	face[feis]n.脸,表面,外表
+190.	fact[fækt]n.事实,实际,实情
+191.	fail[feil]vi.失败,失灵,不能
+192.	fall[fɔ:l]vi.落下,跌倒,陷落
+193.	family['fæmili]n.家庭,家族
+194.	far[fa:]a.远的 ad.远,遥远
+195.	father['fa:ðә]n.父亲,神父,创始人
+196.	fear[fiә]n.害怕,担心 vt.害怕
+197.	feel[fi:l]vt.n.感觉,觉得,触摸
+198.	few[fju:]a.很少的,少数的
+199.	fifteen['fif'ti:n]num.十五,十五个
+200.	fifty['fifti]num.五十,五十个
+201.	fight[fait]vi.打(仗),斗争
+202.	figure['figә]n.数字,外形,人物
+203.	film[film]n.影片,胶卷,薄层
+204.	final['fainl]a.最后的,决定性的
+205.	financial[fai'nænʃәl, fi-]a.财政的,金融的
+206.	find[faind]vt.找到,发觉,找出
+207.	firm[fә:m]a.坚定的 n.公司,商号
+208.	first[fә:st]num.第一 ad.最初
+209.	five[faiv]num.五,五个,第五
+210.	fly[flai]n.苍蝇 vi.飞行
+211.	follow['fɔlәu]vt.跟随,结果是
+212.	food[fu:d]n.食物
+213.	foot[fut]n.脚,英尺
+214.	for[fɔ:, fә]prep.为,给,因为
+215.	force[fɔ:s]vt.强迫 n.力,力量
+216.	foreign['fɔrin]a.外国的,外来的
+217.	form[fɔ:m]n.形式,形状 vt.形成
+218.	former['fɔ:mә]a.在前的 n.前者
+219.	forty['fɔ:ti]num.四十,第四十
+220.	four[fɔ:]num.四,四个,第四
+221.	fourteen['fɔ:'ti:n]num.十四,第十四
+222.	free[fri:]a.自由的,空闲的
+223.	friend[frend]n.朋友
+224.	from[frɔm, frәm, frm]prep.从…来,根据
+225.	front[frʌnt]a.前面的 n.前部
+226.	full[ful]a.满的,完全的
+227.	fund[fʌnd]n.资金,基金,存款
+228.	further['fә:ðә]ad.更进一步
+229.	future['fju:tʃә]n.未来
+230.	game[geim]n.游戏,比赛
+231.	general['dʒenәrәl]a.总的,一般的n.将军
+232.	get[get]vi.变得,成为,到达
+233.	girl[gә:l]n.女孩子
+234.	give[giv]vt.做,作,送给
+235.	go[gәu]vi.去,走,变为
+236.	going['^әuiŋ]n.去,离去,工作情况,行为
+237.	good[gud]a.好的
+238.	got[gCt]vbl. get 的过去式
+239.	government['gʌvәnmәnt]n.政府
+240.	great[greit]a.大的,伟大的
+241.	green[gri:n]a.绿色的 n.绿色
+242.	grey[grei]n./a.灰色(的)
+243.	ground[graund]n.地,场地
+244.	group[gru:p]n.小组,群 vi.聚集
+245.	grow[grәu]vi.生长,增长
+246.	half[ha:f]n.半,一半 a.一半的
+247.	hand[hænd]n.手,人手
+248.	happen['hæpәn]vi.发生,碰巧,恰好
+249.	hard['ha:d]a.硬的,困难的
+250.	have[hæv, hәv]v.aux.已经 vt.有,吃
+251.	he[hi:]pron.(主格)他
+252.	head[hed]n.头,前端,领导 vi.出发
+253.	health[helθ]n.健康,健康状况
+254.	hear[hiә]vt.听见,听说
+255.	help[help]vt.帮助 n.帮手
+256.	her[hә:, hә]pron.(宾格)她,她的
+257.	here[hiә]ad.这里,向这里
+258.	herself[hә:'self]pron.她自己,她亲自
+259.	he's[]n. 他是
+260.	high[hai]a.高的,高级的 ad.高
+261.	him[him]pron.(宾格)他
+262.	himself[him'self]pron.他自己,他亲自
+263.	his[his]pron.他的,他的东西
+264.	history['histәri]n.历史,个人经历
+265.	hit[hit]vt.打,碰撞 n.击
+266.	hold[hәuld]vt.拿住,掌握,拥有
+267.	home[hәum]n.家,家乡 a.家庭的
+268.	hope[hәup]n.vt.vi.希望
+269.	hospital['hɔspitl]n.医院
+270.	host[hәust]n.主人,东道主
+271.	hour['auә]n.小时
+272.	house[haus]n.房屋,住宅
+273.	how[hau]ad.怎么,怎样,多少
+274.	however[hau'evә]ad.然而,不管怎样
+275.	human['hju:mәn]a.人的,人类的 n.人
+276.	hundred['hʌndrid]num.百,百个
+277.	I[ai]pron.(主格)我
+278.	I'd[aid]我将要，我应该
+279.	idea[ai'diә]n.想法,思想,意见
+280.	if[if]conj.假如,如果
+281.	I'll[]n. 我将
+282.	I'm[aim]我是
+283.	important[im'pɔ:tәnt]a.重要的
+284.	in[in]prep.在…里ad.进,入
+285.	include[in'klu:d]vt.包括,包含
+286.	including[in'klu:diŋ]vbl. 包括
+287.	increase[in'kri:s, 'inkri:s]vt.vi.n.增加
+288.	independent[indi'pendәnt]a.独立的,自主的
+289.	industry['indәstri]n.工业,产业,勤劳
+290.	information[infә'meiʃәn]n.消息,信息,通知
+291.	interest['intrist]n.兴趣,利益,利息
+292.	international[intә(:)'næʃәnl]a.国际的
+293.	into['intu, 'intә]prep.进,入,进入到
+294.	isn't[]不是
+295.	issue['iʃu:]n.问题,发行 vt.发行
+296.	it[it]pron.这,那,它
+297.	its[its]pron.它的
+298.	it's[]pn. 它的
+299.	itself[it'self]pron.它自己,自身
+300.	I've[aiv]((口语))I have之略
+301.	job[dʒɔb]n.职业,工作
+302.	join[dʒɔin]vt.参加,连接
+303.	just[dʒʌst]ad.刚才,只是,正好
+304.	keep[ki:p]vi.保持,坚持
+305.	kill[kil]vi.杀死,扼杀,消磨
+306.	kind[kaind]a.仁慈的，友好的 n.种类
+307.	know[nәu]n.知道，了解；会，懂；认识，熟悉
+308.	labour['leibә]v. 困难地做，太冗长地解释
+309.	land[lænd]n.陆地,土地vi.着陆
+310.	large[la:dʒ]a.巨大的
+311.	last[la:st]vi.持续a.最后的ad.最后n.最后,末尾
+312.	late[leit]a.迟的;晚(期)的;已故的ad.迟,晚
+313.	later['leitә]ad.后来
+314.	laugh[la:f]vi.笑n.笑
+315.	law[lɔ:]n.法律,法令
+316.	lead[li:d]vt.为…带路；领导vi.带路；导致n.领先；领导
+317.	leader['li:dә]n.领袖,首领
+318.	learn[lә:n]vt.学习;听到vi.学会;获悉,知道
+319.	least[li:st]a.最少的ad.最少
+320.	leave[li:v]vi.离去vt.离开;留下，遗忘n.请假
+321.	left[left]a.左边的ad.在左边n.左边，左侧
+322.	less[les]a.更少的ad.更少地
+323.	let[let]vt.允许,让; 出租
+324.	letter['letә]n.信;字母
+325.	level['levl]n.水平,水准a.水平的
+326.	life[laif]n.生命,一生；寿命
+327.	like[laik]n.爱好a.相似的, 同样的vt.喜欢vi.喜欢prep.象, 如同
+328.	likely['laikli]a.可能的ad.很可能
+329.	line[lain]n.线，线条；排；路线
+330.	list[list]n.名单；列表；目录vt.列出
+331.	little['litl]a.小的,幼小的ad.一点, 稍许;几乎不n.一会儿
+332.	live[liv laiv]vi.居住;活vt.过着a.活的; 实况转播的
+333.	local['lәukәl]a.地方的n.局部
+334.	long[lɔŋ]a.长的,远的；长期的ad.长久vi.渴望
+335.	look[luk]n.看;面容, 外表vi.看;显得vt.打量,注视
+336.	lose[lu:z]vt.失去, 错过;迷路
+337.	lot[lɔt]n.许多,大量；抽签
+338.	love[lʌv]vt.爱；喜欢n.爱情；喜爱
+339.	low[lәu]a.低的,矮的;低下的, 卑贱的
+340.	main[mein]a.主要的n.主体，要点
+341.	major['meidʒә]vi.主修，专攻a.主要的,多数的n.专业
+342.	make[meik]vt.使得；做,制造n.制造
+343.	man[mæn]n.人,人类
+344.	many['meni]a.许多的pron.许多人
+345.	market['ma:kit]n.市场,集市
+346.	match[mætʃ]vi.相称,匹配n.比赛;匹配;火柴
+347.	matter['mætә]n.事情；物质vi.要紧，有关系
+348.	may[mei]aux.也许;可以;祝愿n.五月
+349.	me[mi:, mi]pron.我
+350.	mean[mi:n]vt.意思是a.自私的,吝啬的
+351.	meet[mi:t]vt.遇见；满足vi.相遇；集合
+352.	meeting[mi:tiŋ]n.会合；会议
+353.	member['membә]n.成员,会员
+354.	middle['midl]n.中部a.中部的
+355.	might[mait]aux.可以n.力量,权力
+356.	military['militәri]a.军事的
+357.	million['miljәn]num.百万
+358.	mind[maind]n.头脑, 理智vt.注意,留心;介意, 反对
+359.	mine[main]pron.我的n.矿，矿山；地雷，水雷vt.开采
+360.	minister['ministә]n.部长,大臣
+361.	minute['minit, mai'nju:t]n.分钟；片刻
+362.	moment['mәumәnt]n.片刻；时刻
+363.	money['mʌni]n.金钱,财富
+364.	month[mʌnθ]n.月,月份
+365.	more[mɔ:]a.更多的ad.更n.更多的东西
+366.	morning['mɔ:niŋ]n.上午
+367.	most[mәust]a.最多的；大多数的ad.最,很n.大多数
+368.	mother['mʌðә]n.母亲
+369.	move[mu:v]vt.移动;感动vi.移动；搬家n.动作；行动
+370.	Mr[]维护与修理
+371.	Mrs['misiz]夫人
+372.	Ms[]n. 美国微软公司
+373.	much[mʌtʃ]ad.非常,很a.许多的n.多，大量
+374.	music['mju:zik]n.音乐
+375.	must[mʌst]aux.必须; 一定
+376.	my[mai]pron.我的
+377.	name['neim]n.名字;名誉vt.说出；取名
+378.	nation['neiʃәn]n.民族,国家
+379.	national['næʃәnl]a.民族的,国家的
+380.	near[niә]prep.靠近ad.接近a.近的
+381.	need[ni:d]vt.需要aux.需要n.需要；必需品
+382.	never['nevә]ad.决不，从不；千万不要
+383.	new[nju:]a.新的
+384.	news[nju:z]n.新闻,消息
+385.	next[nekst]n.下一个a.下次的;其次的；邻近的ad.下一次;其次
+386.	night[nait]n.夜晚
+387.	nine[nain]num.九
+388.	nineteen['nain'ti:n]num.十九
+389.	ninety['nainti]num.九十
+390.	no[nәu]ad.不,并不a.没有的
+391.	north[nɔ:θ]n.北,北方a.北方的
+392.	not[nɔt]ad.不,没有
+393.	nothing['nʌθiŋ]pron.没有东西ad.毫不n.无关紧要的人（事物）
+394.	now[nau]n.现在conj.既然ad.现在,立刻
+395.	number['nʌmbә]n.数字,号码
+396.	of[ɔv, әv]prep.属于…的
+397.	of course[әv'kɔ:s]adv. 当然
+398.	off[ɔ:f]ad.(离)开;(停)止prep.从...离开;脱离
+399.	offer['ɔfә]vt.提供n.出价; 提议
+400.	office['ɔfis]n.办公室
+401.	officer['ɔfisә]n.官员,军官
+402.	official[ә'fiʃәl]a.官方的n.官员，行政人员
+403.	often['ɔ:fn]ad.经常,通常
+404.	oh[әu]int.哦
+405.	oil[ɔil]n.油,石油vt.加油于
+406.	old[әuld]a.老的;…岁的
+407.	on[ɔn]prep.在…上;关于ad.继续
+408.	once[wʌns]ad.一次；曾经conj.一旦n.一次
+409.	one[wʌn]a.一个的，某一个的num.一pron.一个(人)
+410.	only['әunli]ad.仅仅a.唯一的conj.可是，不过
+411.	open['әupәn]a.(敞)开的;开放的,公开的vt.打开
+412.	operate['ɔpәreit]vi.操作;施行手术
+413.	operation[ɔpә'reiʃәn]n.操作;经营;手术
+414.	or[ɔ:, ә]conj.或,或者
+415.	order['ɔ:dә]n.命令;次序；治安，秩序vt.命令;定购
+416.	other['ʌðә]pron.其他的, 他人a.另外的,其余的
+417.	our['auә]pron.我们的
+418.	out[aut]a.外面的ad.在外；向外；出于n.外面, 外出
+419.	outside['aut'said]n.外部,外表ad.在外面，向外面a.外部的
+420.	over['әuvә]a.结束的prep.高于，超过;在对面ad.全部地
+421.	own[әun]a.自己的vt.有,拥有
+422.	page[peidʒ]n.页
+423.	paper['peipә]n.纸,报纸;文件,论文; 考卷
+424.	parent['pɛәrәnt]n.父母亲
+425.	part[pa:t]vt.分开，拆散n.一部分;零件；角色
+426.	party['pa:ti]n.党派;聚会；一方，当事人
+427.	pass[pa:s]vt.经过；度过；传递vi.流逝n.通行证；通道
+428.	past[past]a.过去的n.过去prep.经过;超过
+429.	pay[pei]vt.支付,付给vi.付款；付出代价n.工资，薪金
+430.	peace[pi:s]n.和平,和睦；平静
+431.	people['pi:pl]n.人民；人；民族
+432.	percent[pә'sent]n.百分比,百分数
+433.	perhaps[pә'hæps]ad.也许,可能
+434.	person['pә:sn]n.人
+435.	photo['fәutәu]n.照片
+436.	place[pleis]n.地点；住所vt.放置
+437.	plan[plæn]n.计划vt.计划,打算vi.订计划
+438.	plant[pla:nt]n.植物;工厂vt.栽种
+439.	play[plei]vt.玩;演奏;扮演(角色)vi.玩;演奏;播放n.游戏;比赛
+440.	player['pleiә]n.表演者,比赛者
+441.	point[pɔint]vi.指向n.小数点；要点;分数；尖端，尖
+442.	police[pә'li:s]n.警察,警方
+443.	policy['pɔlisi]n.政策,方针
+444.	political[pә'litikәl]a.政治上的
+445.	position[pә'ziʃәn]n.位置;职位
+446.	possible['pɔsәbl]a.可能的
+447.	pound[paund]n.磅,英磅vt.连续敲打vi.连续重击
+448.	power['pauә]n.能力;电力;权力
+449.	president['prezidәnt]n.总统,校长
+450.	press[pres]vi.压,按vt.压；压榨n.印刷;新闻，报刊；出版社
+451.	pressure['preʃә]n.压力
+452.	price[prais]vt.定价，标价n.价格；代价
+453.	probably['prɔbәbli]ad.或许,大概
+454.	problem['prɔblәm]n.问题，疑难
+455.	process['prәuses]n.过程vt.处理
+456.	produce[prә'dju:s, 'prɔdju:s]vt.生产；产生
+457.	product['prɔdәkt]n.产品；成果；作品
+458.	programme['prәugræm]v.编程序 n.程序
+459.	provide[prә'vaid]vt.提供；装备；规定
+460.	public['pʌblik]a.公众的；公开的n.公众
+461.	put[put]vt.放,摆；写下
+462.	question['kwestʃәn]vt.询问；怀疑n.问题,疑问
+463.	quick[kwik]a.快的
+464.	quite[kwait]ad.完全,相当
+465.	race[reis]vi.竞赛n.种族,人种
+466.	radio['reidiәu]n.收音机
+467.	raise['reiz]vt.举起；养育，饲养；提出
+468.	rate[reit]n.比率;速度;价格vt.评价，估价
+469.	rather['ra:ðә]ad.宁可,宁愿;相当
+470.	reach[ri:tʃ]vt.抵达；够到　vi.达到；伸出手n.能达到的范围
+471.	read[ri:d]vt.读;写着vi.阅读, 朗读
+472.	real[riәl]a.真的；现实的
+473.	really['riәli]ad.真正地
+474.	reason['ri:zn]n.理由；理性vt.推理vi.劝说
+475.	receive[ri'si:v]vt.收到,得到；收听，收看
+476.	recent['ri:snt]a.最近的
+477.	record['rekɔ:d, ri'kɔ:d]n.记录，档案；履历；唱片vt.记录；录音
+478.	red[red]a.红色的n.红色
+479.	release[ri'li:s]vt.释放;发布
+480.	remain[ri'mein]vi.剩下;保持n.残余；遗迹
+481.	remember[ri'membә]vt.记得，记住
+482.	report[ri'pɔ:t]vt.报告,汇报；报导vi.报告,汇报n.报告；报导
+483.	research[ri'sә:tʃ]n.调查,探究
+484.	result[ri'zʌlt]n.成果;结果vi.结果, 导致
+485.	return[ri'tә:n]vi.回来,返回vt.归还；回报n.返回；偿还，归还
+486.	right[rait]a.正确的;右边的ad.对；正好；径直n.正确；权利；右面
+487.	rise[raiz]vi.起立;升起;上涨；起义n.上涨；起源，发生
+488.	road[rәud]n.路,道路
+489.	role[rәul]n.角色
+490.	room[ru:m, rum]n.房间；余地
+491.	rule[ru:l]vt.统治，支配n.统治;规定
+492.	run[rʌn]vi.跑;运行vt.经营；操纵n.运行，运转
+493.	sale[seil]n.卖,拍卖;销售额
+494.	same[seim]a.相同的pron.同样的人（事物）
+495.	save[seiv]vt.救；积攒，储蓄
+496.	say[sei]vt.说;比如说n.话语;发言权
+497.	school[sku:l]n.学校,学院;学派
+498.	season['si:zn]n.季节;时节
+499.	second['sekәnd]n.秒num.第二a.另一个
+500.	secretary['sekrәtri]n.秘书,书记
+501.	security[si'kjuәriti]n.安全
+502.	see[si:]vt.看见, 注意;看出,领会vi.看见；理解
+503.	seek[si:k]vt.寻找,探索
+504.	seem[si:m]vi.好像,似乎
+505.	sell[sel]vt.卖,销售
+506.	send[send]vt.送,寄；派遣
+507.	sense[sens]vt.意识到n.感官；意思，意义
+508.	serious['siәriәs]a.严肃的；严重的
+509.	service['sә:vis]n.服务;行政部门
+510.	set[set]vt.放,安置;点燃,放(火)n.一套a.固定的
+511.	seven['seven]num.七
+512.	seventeen['sevәn'ti:n]num.十七
+513.	seventy[sevnti]num.七十
+514.	several['sevrәl]a.几个，若干
+515.	share[ʃɛә]vt.分享,共享n.份额,股份
+516.	she[ʃi:, ʃi]pron.她
+517.	short[ʃɔ:t]a.短的;短期的；缺乏的，不足的n.短裤
+518.	should[ʃud, ʃәd]aux.应该;将要
+519.	show[ʃәu]vt.给…看;表明vi.显现，露面n.表示; 展览; 炫耀
+520.	side[said]vi.支持n.边,旁边;一方
+521.	sign[sain]n.符号；征兆vt.签名
+522.	since[sins]conj.从…以来;因为;既然ad.以后, 后来
+523.	single['siŋgl]a.单一的;独身的
+524.	sir[sә:]n.先生
+525.	sister[sistә]n.姐妹
+526.	sit[sit]vi.坐，就坐
+527.	situation[sitju'eiʃәn]n.处境,形势
+528.	six[siks]num.六
+529.	sixteen['siks'ti:n]num.十六
+530.	sixty['siksti]num.六十
+531.	small[smɔ:l]a.小的,少的
+532.	So[sәu]conj.因而, 所以ad.如此, 那么;非常, 十分
+533.	social['sәuʃәl]a.社会的;社交的
+534.	society[sә'saiәti]n.社会
+535.	some[sʌm]a.一些；某一个pron.一些,若干ad.大约；稍微
+536.	something['sʌmθiŋ]pron.某事,某物
+537.	son[sʌn]n.儿子
+538.	soon[su:n]ad.不久,快
+539.	sort[sɔ:t]n.种类,类别vt.排序
+540.	sound[saund]n.响声vi.听起来a.健康的；正当的
+541.	south[sauθ]n.南,南方a.南方的
+542.	speak[spi:k]vi.说话；发言，演说vt.说
+543.	special['speʃәl]a.特殊的,专门的
+544.	spend[spend]vt.用钱,花费;度过
+545.	staff[sta:f]n.全体工作人员
+546.	stage[steidʒ]n.舞台;阶段，时期
+547.	stand[stænd]vi.站立;坐落vt.容忍n.架,台
+548.	star[sta:]n.星星;明星
+549.	start[sta:t]vi.出发,开始;吃惊vt.开始；发动，创办n.开端；吃惊
+550.	State[steit]vt.陈述,阐明n.状态;国家；州
+551.	stay[stei]vi.停留;住；保持n.逗留
+552.	step[step]n.脚步;步骤；台阶vi.走；踩到
+553.	still[stil]ad.仍旧，还要a.静止的n.寂静
+554.	stock[stɔk]vt.储备n.原料;库存品;股票
+555.	stop[stɔp]vt.阻止；中断vi.停止；逗留n.停车站；停止
+556.	Story['stɔ:ri]n.故事,小说
+557.	street['stri:t]n.街道a.街上的
+558.	strong[strɔŋ]a.强壮的；浓的
+559.	student['stju:dәnt]n.学生
+560.	study['stʌdi]n.学习,研究;书房vt.学习,研究
+561.	such[sʌtʃ]ad.那么 pron.这样的人（事物）a.这样的,如此的…
+562.	suggest[sә'dʒest]vt.建议;暗示,启发
+563.	support[sә'pɔ:t]vt.支持;供养；承受
+564.	sure[ʃuә]a.确信的,确实的
+565.	surprise[sә'praiz]vt.使惊奇n.使人惊奇的事
+566.	system['sistim]n.系统；制度
+567.	take[teik]vt.拿;接受；需要, 花费；采取(某一动作)
+568.	talk[tɔ:k]vi.讲话vt.谈论n.谈论；讲话
+569.	tax[tæks]n.税（款）vt.征税
+570.	team[ti:m]n.队,组
+571.	tell[tel]vt.讲述；吩咐；辨别
+572.	ten[ten]num.十
+573.	term[tә:m]n.学期;条件;术语
+574.	test[test]n.试验；考验vt.试验,检验；考验
+575.	than[ðæn, ðәn]conj.(比较级)比
+576.	thank[θæŋk]vt.谢谢,感谢n.感谢
+577.	that[ðæt]a.那pron.那ad.那样
+578.	that's[ðæts]that is 之略
+579.	the[ðә, ði]art.这,那
+580.	their[ðɛә, ðәr]pron.他(她，它)们的
+581.	them[ðem, ðәm]pron.(宾格)他（她，它）们
+582.	themselves[ðәm'selvz]pron.他们自己
+583.	then[ðen]ad.当时;然后；再者
+584.	there[ðɛә, ðә]ad.在那里;在那点上
+585.	these[ði:z]a.这些pron.这些
+586.	they[ðei]pron.(主格)他(她)们
+587.	they're[]n. 他们是
+588.	thing[θiŋ]n.东西,事情
+589.	think[θiŋk]vt.想；认为；打算
+590.	thirteen['θә:'ti:n]num.十三
+591.	thirty['θә:ti]num.三十
+592.	this[ðis]a.这;今pron.这
+593.	those[ðәuz]pron.那些
+594.	though[ðәu]conj.虽然ad.可是；即使
+595.	thought[θɔ:t]n.思想,思维;想法
+596.	thousand['θauzәnd]num.千,千个n.无数，成千上万
+597.	three[θri:]num.三个
+598.	through[θru:]prep.穿过ad.从头到尾
+599.	time[taim]n.时间;时机;次,回；倍；时代vt.安排时间；计时
+600.	to[tu:, tu, tә]prep.到,向;达到；对于
+601.	today[tә'dei]n.今天；当代
+602.	together[tә'geðә]ad.共同,一起；合计，共计
+603.	too[tu:]ad.也,还;太
+604.	top[tɔp]n.顶，上端；首位a.最高的
+605.	total['tәutl]a.总的vi.合计,总共
+606.	towards[tә'wɔ:dz]prep.向着
+607.	town[taun]n.市镇,城镇
+608.	trade[treid]n.贸易vi.交易
+609.	try[trai]vi.尝试；努力；审讯vt.努力；尝试
+610.	turn[tә:n]vt.转,翻vi.转动n.转动；轮流，轮班
+611.	twelve[twelv]num.十二
+612.	twenty['twenti]num.二十
+613.	twice[twais]ad.两次,两倍
+614.	two[tu:]num.二
+615.	under['ʌndә]prep.在…下面；在...的情况下
+616.	understand[ʌndә'stænd]vt.理解,明白
+617.	union['ju:njәn]n.联合,团结;协会
+618.	university[ju:ni'vә:siti]n.大学
+619.	until[әn'til]prep.到…为止conj.直到…为止
+620.	up[ʌp]ad.向上;用完,用尽;提高,增强 prep在高处a.起床的
+621.	us[ʌs, әs]pron.我们
+622.	use[ju:z, ju:s]vt.用, 使用n.使用, 利用;用途
+623.	value['vælju:]n.价值,价格vt.评价
+624.	very['veri]ad.很,非常a.正是那个
+625.	view[vju:]vt.看待；看n.见解;风景
+626.	visit['vizit]vt.访问,参观n.访问,参观
+627.	vote[vәut]n.选举,投票
+628.	wait[weit]vi.等待n.等待
+629.	walk[wɔ:k]vi.走n.走,步行
+630.	wall[wɔ:l]n.墙壁,围墙
+631.	want[wɔnt]vt.想要n.需要；缺乏
+632.	war[wɔ:]n.战争
+633.	wasn't[]n. 不是
+634.	watch[wɔtʃ]vt.观看；监视vi.观看n.手表
+635.	water['wɔ:tә]n.水vt.灌溉
+636.	way[wei]n.路;路线;办法
+637.	we[wi:]pron.我们
+638.	week[wi:k]n.星期
+639.	well[wel]ad.好;完全地a.健康的int.喔,嗯n.井
+640.	we're[]we are 之略
+641.	west[west]n.西边a.西方的
+642.	we've[]n. 我们有
+643.	what[wCt]pron.什么
+644.	when[wen]ad.什么时候pron.当…的时候
+645.	where[wɛә]ad.在哪里pron.哪里
+646.	whether['weðә]conj.是否
+647.	which['witʃ]pron.哪一个a.哪一个
+648.	while[wail]conj.当…的时候;而
+649.	white[wait]a.白的n.白色
+650.	who[hu:]pron.谁
+651.	whole[hәul]a.完整的；全体的n.全部
+652.	whose[hu:z]pron.谁的
+653.	why[wai]ad.为什么
+654.	wide[waid]a.宽阔的ad.全部地
+655.	wife[waif]n.妻子
+656.	will[wil]aux.将要,会;愿意n.意志；遗嘱
+657.	win[win]vi.获胜,赢vt.赢得
+658.	with[wið]prep.和…一起；随着
+659.	within[wi'ðin]prep.在…里面；不超过
+660.	without[wið'aut]prep.无,没有
+661.	woman['wumәn]n.妇女,女性
+662.	won't[]will not之略
+663.	word[wә:d]n.词,话
+664.	work[wә:k]n.工作,职业；著作vi.工作；运转,起作用
+665.	worker['wә:kә]n.工人
+666.	working['wә:kiŋ]n. 工作,作用,劳动
+667.	world[wә:ld]n.世界
+668.	would[wud, wәd]aux.将;愿意
+669.	wouldn't[]would not 之略
+670.	write[rait]vt.写vi.书写；写作；写信
+671.	year[jә:, jiә]n.年；岁数
+672.	yes[jes]ad.是,是的
+673.	yesterday['jestәdi]n.昨天ad.昨日
+674.	yet[jet]ad.还;已经conj.而
+675.	you[ju:, ju]pron.你,你们
+676.	young[jʌŋ]a.年轻的n.青年们
+677.	your[jɔ:]pron.你的,你们的
+678.	you're[]you are 之略
+679.	you've[ju:v, juv]you have 之略
