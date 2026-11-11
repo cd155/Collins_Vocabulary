@@ -1,2 +1,5 @@
 .DS_Store
 note.localignore
+.venv/
+data/
+__pycache__/
