@@ -12,6 +12,7 @@ import csv
 import html
 import json
 import re
+import shutil
 from pathlib import Path
 
 import genanki
@@ -19,6 +20,17 @@ import genanki
 ROOT = Path(__file__).parent
 SOURCE = ROOT / "data" / "ecdict.csv"
 OUT = ROOT / "lists"
+
+# Where the text lists were before they moved to lists/. Search engines and old
+# links still point at these paths, so each one gets a copy of the current list.
+LEGACY = ROOT / "Vocabulary_Lists"
+LEGACY_NAMES = {
+    5: "five_star.txt",
+    4: "four_star.text",
+    3: "three_star.txt",
+    2: "two_star.txt",
+    1: "one_star.txt",
+}
 
 MAX_POS_LINES = 3  # part-of-speech lines kept per word
 MAX_SENSES = 4  # senses kept per part-of-speech line
@@ -96,6 +108,7 @@ def write_txt(words: list[dict], stars: int) -> None:
         for w in words:
             phonetic = f"[{w['phonetic']}]" if w["phonetic"] else ""
             f.write(f"{w['word']}\t{phonetic}\t{w['translation']}\n")
+    shutil.copyfile(path, LEGACY / LEGACY_NAMES[stars])
 
 
 def write_apkg(words: list[dict], stars: int, model: genanki.Model) -> None:
@@ -115,6 +128,7 @@ def main() -> None:
     if not SOURCE.exists():
         raise SystemExit(f"Missing {SOURCE}. See the download command at the top of build.py.")
     OUT.mkdir(exist_ok=True)
+    LEGACY.mkdir(exist_ok=True)
     words = load_words()
 
     with (OUT / "collins.csv").open("w", encoding="utf-8", newline="") as f:

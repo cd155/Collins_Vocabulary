@@ -1,0 +1,630 @@
+a	[ei]	第一个字母 A, 一个, 第一的
+able	['eibl]	a. 能干的, 能够的
+about	[ә'baut]	prep. 在...周围, 大约, 有关, 关于; adv. 大约, 四处, 在附近, 周围
+accept	[әk'sept]	vt. 接受, 承认, 同意, 相信; vi. 同意
+accord	[ә'kɒ:d]	n. 一致, 调和, 协定; vt. 给与, 使一致; vi. 相符合
+according to		根据, 按照, 取决于, 据…所说
+account	[ә'kaunt]	n. 报告, 解释, 估价, 理由; vi. 报帐, 解释, 导致, 报偿; vt. 认为
+across	[ә'krɒs]	prep. 越过, 穿过, 与...相交叉, 在...的对面; adv. 交叉, 到另一边, 在对面, 成十字
+act	[ækt]	n. 行动, 行为, 幕, 法案; vi. 行动, 表演, 假装, 见效; vt. 扮演, 装作
+action	['ækʃәn]	n. 行动, 活动, 动作, 作用; vt. 对...起诉
+actually	['æktʃuәli]	adv. 事实上, 竟然, 如今, 现在
+add	[æd]	vt. 增加, 添加, 附带说明, 计算...总和; vi. 做加法, 积累而成, 增添
+after	['ɑ:ftә]	prep. 在...之后, 由于; conj. 在...之后; adv. 后来
+again	[ә'gein]	adv. 再一次, 又, 到原处
+against	[ә'geinst]	prep. 反对, 对着, 倚靠
+age	[eidʒ]	n. 年龄, 老年, 成年, 寿命; v. 变老, 成熟
+ago	[ә'gәu]	adv. 以前
+agree	[ә'gri:]	vi. 同意, 赞成, 应允, 适合; vt. 承认, 认定, 同意
+aid	[eid]	n. 帮助, 外援, 助手; vt. 援助, 帮助, 有助于; vi. 帮助
+air	[єә]	n. 空气, 旋律, 态度; vt. 晾, 使通风, 夸耀
+all	[ɒ:l]	a. 所有的, 全部的, 一切的; adv. 全部, 全然; pron. 全部
+allow	[ә'lau]	vt. 允许, 同意给予, 承认; vi. 容许, 猜想
+almost	['ɒ:lmәust]	adv. 几乎, 差不多
+along	[ә'lɒŋ]	adv. 平行地, 向前; prep. 沿着
+already	[ɒ:l'redi]	adv. 已经, 早已
+also	['ɒ:lsәu]	adv. 也, 并且, 同样地
+although	[ɒ:l'ðou]	conj. 虽然, 尽管
+always	['ɒ:lweiz]	adv. 总是, 始终
+among	[ә'mʌŋ]	prep. 在...之中
+and	[ænd]	conj. 和, 与
+announce	[ә'nauns]	vt. 宣布, 声称, 显示, 预告; vi. 当报幕员, 宣布参加竞选
+another	[ә'nʌðә]	a. 另外的, 再一的, 不同的; pron. 又一个, 另一个, 类似的另一个
+answer	['ɑ:nsә]	n. 答案, 回答, 回报, 答辩; vt. 回答, 反驳, 适应, 响应; vi. 回答, 答应, 负责, 符合
+any	['eni]	a. 任何的; pron. 任何
+anything	['eniθiŋ]	pron. 任何事
+appear	[ә'piә]	vi. 出现, 显得, 来到
+area	['єәriә]	n. 区域, 面积, 范围, 空地
+arm	[ɑ:m]	n. 手臂, 袖子, 狭长港湾, 武器; vt. 武装, 装备; vi. 武装起来
+army	['ɑ:mi]	n. 军队, 陆军
+around	[ә'raund]	prep. 包围, 在...周围, 四处; adv. 兜着圈子, 在附近, 到处
+art	[ɑ:t]	n. 艺术, 人文科学, 技术, 巧妙
+as	[æz]	adv. 同样地, 例如; prep. 做为, 当作; conj. 当...之时, 以...的方式, 像...一样, 因为
+ask	[ɑ:sk]	vi. 问, 要求; vt. 问, 要求, 邀请, 需要
+at	[æt]	prep. 在, 向, 对
+attack	[ә'tæk]	n. 攻击, 抨击; vt. 攻击, 抨击, 动手干; vi. 攻击
+attempt	[ә'tempt]	n. 尝试, 企图; vt. 尝试, 企图
+authority	[ɒ:'θɒriti]	n. 权力, 当权者, 当局, 权威
+available	[ә'veilәbl]	a. 可利用的, 可获得的, 有效的
+away	[ә'wei]	adv. 离去
+back	[bæk]	a. 后面的; vt. 使后退, 支持; vi. 倒退, 背靠
+bad	[bæd]	a. 坏的; n. 坏; adv. 坏地
+base	[beis]	n. 底部, 垒, 基础, 基地; vt. 以...作基础; a. 卑鄙的, 低劣的
+based	[beist]	v. 立基于, 以…为基础（base的过去式和过去分词）
+be	[bi:]	v. 是, 表示, 在
+beat	[bi:t]	n. 心跳(声), 打, 敲打声, 拍子; v. 打, 拍打, 打败; a. 疲乏的, 颓废的
+because	[bi'kɒ:z]	conj. 因为
+become	[bi'kʌm]	vi. 变成, 变得; vt. 适合
+before	[bi'fɒ:]	prep. 在...之前; conj. 在...之前; adv. 在前
+begin	[bi'gin]	v. 开始
+behind	[bi'haind]	adv. 在后地; prep. 在...背后
+believe	[bi'li:v]	v. 相信
+better	['betә]	a. 较好的; adv. 比较好
+between	[bi'twi:n]	prep. 在...之间
+big	[big]	a. 大的, 重要的; adv. 大量地
+billion	['biljәn]	num. 十亿, 十亿个
+bit	[bit]	n. 少量, 马嚼子, 辅币; vt. 给马上嚼子, 控制
+bite	[bait]	n. 咬, 一口; v. 咬, 刺痛, 穿透
+black	[blæk]	n. 黑色, 黑颜料; a. 黑色的
+blue	[blu:]	n. 蓝色; a. 蓝色的, 下流的, 忧郁的; vt. 染成蓝色
+body	['bɒdi]	n. 身体, 人, 尸体, 主要部分; vt. 赋以形体
+book	[buk]	n. 书, 书籍, 帐簿, 名册; v. 登记, 预订
+both	[bәuθ]	a. 两者的; adv. 两者都; pron. 两者
+boy	[bɒi]	n. 男孩
+break	[breik]	n. 休息, 中断, 破裂处, 绝交; vt. 打破, 弄破, 弄坏, 破坏; vi. 破碎, 决裂, 破晓, 突变
+bring	[briŋ]	vt. 带来, 产生, 促使, 提出; vi. 生产
+brother	['brʌðә]	n. 兄弟
+brown	[braun]	n. 褐色; a. 褐色的; v. (使)变褐色
+build	[bild]	v. 建立, 建筑; n. 构造, 体格
+building	['bildiŋ]	n. 建筑物, 建筑
+business	['biznis]	n. 生意, 事情, 业务, 商业
+but	[bʌt]	prep. 除了; conj. 但是; adv. 仅仅
+buy	[bai]	vt. 买, 获得; vi. 买; n. 购买, 买得的东西
+by	[bai]	prep. 被, 经, 由, 在...之旁; adv. 经过, 在近处
+call	[kɒ:l]	n. 呼叫, 访问, 打电话, 号召; vt. 呼叫, 召集, 打电话; vi. 叫喊, 访问, 叫牌
+campaign	[kæm'pein]	n. 战役, 运动, 竞选运动; vi. 参加运动, 作战
+can't	[kɑ:nt]	vi. 不能
+capital	['kæpitәl]	n. 首都, 大写字母, 资本; a. 首都的, 重要的
+car	[kɑ:]	n. 汽车, 客车
+care	[kєә]	n. 小心, 照料, 忧虑; vi. 关心, 介意; vt. 在意, 喜欢
+carry	['kæri]	n. 进位, 射程, 运载; vt. 携带, 运送, 支持, 传送; vi. 被携带, 能达到
+cause	[kɒ:z]	n. 原因, 目标; vt. 引起, 使产生, 使遭受
+central	['sentrәl]	a. 中央的, 重要的
+centre	['sentә]	n. 中心, 中心点, 中锋; a. 中央的, 位在正中的; vt. 集中, 定中心
+century	['sentʃuri]	n. 世纪, 百年
+chance	[tʃæns. tʃɑ:ns]	n. 机会, 意外, 可能性; vi. 偶然发生; vt. 冒险
+change	[tʃeindʒ]	n. 变化, 找回的零钱, 找头, 更换; vt. 改变, 更换, 兑换
+charge	[tʃɑ:dʒ]	n. 指控, 费用, 冲锋, 电荷; vt. 控诉, 加罪于, 使充满, 使充电; vi. 冲锋, 要价, 收费
+chief	[tʃi:f]	n. 领袖, 酋长, 长官, 主要部分; a. 主要的, 首位的
+child	[tʃaild]	n. 孩子, 产物, 追随者
+claim	[kleim]	n. 要求, 要求权, 断言, 权利; vt. 要求, 认领, 主张; vi. 提出要求, 主张, 断言
+class	[klɑ:s]	n. 班级, 阶级, 种类, 课; vt. 分类
+clear	[kliә]	a. 清楚的, 明确的, 澄清的; adv. 清晰地; vt. 澄清, 清除障碍
+club	[klʌb]	n. 俱乐部, 木棍, 球棒; vt. 用棍棒打, 缴纳; vi. 联合起来
+colour	['kʌlә]	n. 颜色, 面色, 颜料, 外貌; vt. 把...涂上颜色, 粉饰, 使脸红, 歪曲; vi. 变色
+come	[kʌm]	vi. 过来, 来, 到达, 出现; interj. 喂
+coming	['kʌmiŋ]	n. 来临; a. 就要来的, 接着的
+committee	[kә'miti]	n. 委员会
+community	[kә'mju:niti]	n. 社区, 公众, 共有, 共同体
+company	['kʌmpәni]	n. 公司, 友伴, 交往, 连队; vt. 陪伴; vi. 交往
+complete	[kәm'pli:t]	a. 完全的, 十足的, 完成的; vt. 完成, 完工, 使圆满
+concern	[kәn'sә:n]	n. 关心, 忧虑; vt. 与...有关, 使担心, 使挂念
+condition	[kәn'diʃәn]	n. 情况, 条件; vt. 使健康, 以...为条件, 决定, 使适应
+conference	['kɒnfәrәns]	n. 会议
+consider	[kәn'sidŋ]	v. 考虑, 思考, 认为
+continue	[kәn'tinju:]	vi. 继续, 延续, 延长; vt. 使继续, 使延长
+control	[kәn'trәul]	n. 控制, 管理, 克制, 控制器; vt. 控制, 操纵, 抑制
+cost	[kɒst]	n. 代价, 价值, 费用; vi. 花费; vt. 使失去, 值, 使花费
+could	[kud]	aux. 可以, 能
+couldn't	['kudnt]	(=could not)不能
+council	['kaunsәl]	n. 会议, 委员会
+country	['kʌntri]	n. 国家, 乡村, 地区, 故乡; a. 乡下的, 农村的
+course	[kɒ:s]	n. 课程, 路线, 过程, 一道菜; v. 追, (使)跑
+cover	['kʌvә]	n. 盖子, 封面, 藉口; vt. 覆盖, 掩饰, 保护, 掩护; vi. 覆盖
+create	[kri:'eit]	vt. 创造, 建造, 引起, 任命
+cup	[kʌp]	n. 杯子, 茶杯, 优胜杯; vt. 使成杯状, 为...拔火罐
+current	['kʌrәnt]	n. 涌流, 趋势, 流; a. 流通的, 现在的, 当前的, 流行的
+cut	[kʌt]	n. 切口, 割伤, 降低, 切; a. 经切割的, 缩减的; vt. 切, 割, 减少, 刺痛
+daughter	['dɒ:tә]	n. 女儿; a. 女儿的
+day	[dei]	n. 天, 日子, 白天, 工作日
+decide	[di'said]	v. 决定, 判决
+decision	[di'siʒәn]	n. 决定, 决心, 决断
+demand	[di'mɑ:nd]	n. 要求, 需求, 需要; v. 要求, 查询
+department	[di'pɑ:tmәnt]	n. 部门, 系, 机关
+describe	[di'skraib]	vt. 描述, 描绘, 画
+design	[di'zain]	n. 设计, 图样, 方案, 企图; v. 设计, 计划
+develop	[di'velәp]	vt. 发展, 使发达, 进步, 洗印; vi. 发展, 生长
+development	[di'velәpmәnt]	n. 发展
+didn't	[ˈdɪdnt]	abbr. did not 没有
+die	[dai]	vi. 死亡, 消逝, 平息, 熄灭; vt. 死; n. 骰子, 冲模
+different	['difәrәnt]	a. 不同的
+difficult	['difikәlt]	a. 困难的
+direct	[di'rekt]	a. 直接的, 坦白的; vt. 指示, 指挥, 命令, 导演; vi. 指导, 指挥
+director	[di'rektә]	n. 主管, 导演, 董事
+do	[du:]	v. 做, 进行, 完成
+doesn't	[ˈdʌznt]	aux. 表示否定
+dollar	['dɒlә]	n. 美元, 元(加、澳等国货币单位)
+don't	[dәunt]	n. 禁忌
+door	[dɒ:]	n. 门
+draw	[drɒ:]	vi. 拉, 拖, 拔剑; vt. 拖拉, 挨近, 领取, 打成平局; n. 拉, 拖, 拔出, 抽签
+drive	[draiv]	n. 驾车, 快车道, 推进力, 驱动; vt. 开车, 驱使, 推动, 驾驶; vi. 开车, 猛击, 飞跑
+drug	[drʌg]	n. 药, 麻药, 麻醉药; vi. 吸毒; vt. 使服麻醉药, 使麻木
+during	['djuәriŋ]	prep. 在...的时候
+each	[i:tʃ]	a. 每个, 每一; adv. 每个; pron. 每个, 个人, 各自
+early	['ә:li]	a. 早的, 早熟的; adv. 很早, 初
+east	[i:st]	n. 东方, 东; a. 东方的, 向东的; adv. 向东方, 朝东方
+easy	['i:zi]	a. 容易的, 缓缓的, 舒适的, 从容的; adv. 容易地, 慢慢地
+economic	[.i:kә'nɒmik]	a. 经济上的, 实用的, 节省的
+economy	[i'kɒnәmi]	n. 经济, 理财, 节约
+education	[.edju'keiʃәn]	n. 教育, 训练, 教育学
+effect	[i'fekt]	n. 结果, 影响, 效果, 印象; vt. 实行, 引起, 完成
+effort	['efәt]	n. 努力, 成就
+eight	[eit]	num. 八, 八个
+eighteen	['ei'ti:n]	num. 十八, 十八个
+eighty	['eiti]	num. 八十, 八十个
+either	['i:ðә]	a. (两者之中)任一的, (两者之中)各一的; pron. (两者之中)任一; conj. 或, 要么
+election	[i'lekʃәn]	n. 选举, 当选, 选择权
+eleven	[i'levn]	num. 十一, 十一个
+else	[els]	a. 别的, 其他的; adv. 另外, 否则, 不然
+end	[end]	n. 结束, 终点, 目标, 末端; v. 结束, 终结, 终止
+enough	[i'nʌf]	n. 充足, 够, 很多; a. 充足的, 足够; adv. 足够
+event	[i'vent]	n. 事件, 结果, 事情的进程, 竞赛项目
+ever	['evә]	adv. 曾经, 究竟, 永远
+every	['evri]	a. 每一, 所有的
+everything	['evriθiŋ]	pron. 每件事物, 所有事物
+example	[ig'zæmpl]	n. 例子, 样本, 实例
+expect	[iks'pekt]	vt. 预期, 盼望, 期待
+experience	[ik'spiәriәns]	n. 经历, 经验, 体验; vt. 经历, 经验, 体验
+eye	[ai]	n. 眼睛, 视力, 看; vt. 看, 注视
+face	[feis]	n. 脸, 面容, 正面, 外观; vt. 面对, 朝, 正视, 面临; vi. 朝, 向
+fact	[fækt]	n. 事实, 真实性, 真相, 细节
+fail	[feil]	vi. 失败, 缺乏, 中断, 衰退; vt. 忘记, 使...失望, 缺乏, 不及格; n. 不及格
+fall	[fɒ:l]	n. 落下, 瀑布, 采伐量, 下降; vi. 倒下, 落下, 来临, 失守; a. 秋天的
+family	['fæmәli]	n. 家庭, 家人, 族; a. 家庭的
+far	[fɑ:]	a. 远的, 久远的, 遥远的; adv. 甚远地, 很, 到很深的程度, 到很远的距离
+father	['fɑ:ðә]	n. 父亲, 祖先, 长辈, 神父; vt. 当...的父亲, 保护, 创作, 发明
+fear	[fiә]	n. 恐怖, 害怕, 担心; v. 害怕, 恐惧, 为...担心, 敬畏
+feel	[fi:l]	vt. 感觉, 觉得, 触摸, 以为; vi. 有知觉, 摸索, 同情; n. 感觉, 觉得, 触摸
+few	[fju:]	a. 很少的, 不多的, 少数的; n. 少数
+fifteen	['fif'ti:n]	num. 十五, 十五个
+fifty	['fifti]	num. 五十, 五十个
+fight	[fait]	n. 打架, 争吵, 斗志; v. 对抗, 打架
+figure	['figә]	n. 数字, 价格, 图形, 形状; vt. 描绘, 表示, 演算, 认为; vi. 计算, 出现, 估计
+film	[film]	n. 软片, 薄膜, 胶卷, 电影; vt. 覆以薄膜, 拍摄; vi. 生薄膜, 拍电影
+final	['fainl]	n. 期末考试, 结局, 决赛; a. 最后的, 终极的, 决定性的
+financial	[fai'nænʃәl]	a. 财政的, 金融的
+find	[faind]	vt. 发现, 感到, 找到, 认为; vi. 裁决; n. 发现
+firm	[fә:m]	n. 公司, 商号; a. 坚定的, 坚强的, 牢固的, 结实的; vt. 使牢固, 使坚定
+first	[fә:st]	adv. 首先, 第一, 优先; a. 第一的; num. 第一
+five	[faiv]	num. 五, 五个
+fly	[flai]	n. 苍蝇, 两翼昆虫, 飞行; vi. 飞, 飞翔, 飘扬, 逃走; vt. 飞, 飞越, 使飘扬, 逃出
+follow	['fɒlәu]	vt. 跟随, 沿行, 遵循, 追求; vi. 跟随, 接着; n. 跟随, 追随
+food	[fu:d]	n. 食物, 养料
+foot	[fut]	n. 脚, 步调, 英尺, 底部; vt. 走在...上, 给...换底, 支付; vi. 跳舞, 步行, 总计
+for	[fɒ:]	prep. 为, 因为, 至于; conj. 因为
+force	[fɒ:s]	n. 力量, 武力, 势力, 影响力; vt. 强迫, 强夺, 推动, 提高
+former	['fɒ:mә]	a. 从前的, 前者的; n. 起形成作用的人(或物), 模型, 样板
+forty	['fɒ:ti]	num. 四十, 四十个
+four	[fɒ:]	num. 四, 四个
+fourteen	['fɒ:'ti:n]	num. 十四, 十四个
+free	[fri:]	a. 自由的, 享受政治权力的, 允许的, 免费的; vt. 释放, 解放, 使自由; adv. 自由地, 免费
+friend	[frend]	n. 朋友, 支持者, 赞助者
+from	[frɒm]	prep. 从, 来自, 根据
+front	[frʌnt]	n. 前面, 开头, 前线, 阵线; vt. 面对, 朝向, 对抗; vi. 朝向
+full	[ful]	n. 全部, 完整; a. 充满的, 完全的, 丰富的, 完美的; adv. 完全地, 整整, 十分
+fund	[fʌnd]	n. 基金, 资金, 存款, 财源; vt. 提供资金, 积累
+further	['fә:ðә]	a. 更远的, 此外的, 更多的; vt. 促进, 增进, 助长; adv. 更进一步地, 更远地, 此外
+future	['fju:tʃә]	n. 未来, 将来; a. 将来的, 未来的
+game	[geim]	n. 比赛, 玩耍, 比分, 得胜; vi. 赌博; a. 勇敢的, 有胆量的, 关于野味的, 跛的
+general	['dʒenәrәl]	n. 一般, 将军, 大体; a. 全面的, 大体的, 总的, 一般的; n. 常规
+get	[get]	vt. 得到, 获得, 变成, 使得; vi. 到达, 成为, 变得; n. (网球等)救球, 生殖, 幼兽
+girl	[gә:l]	n. 女孩, 少女, 女佣
+give	[giv]	n. 弹性, 适应性; vt. 给, 授予, 供给, 产生; vi. 捐赠, 支持不住, 让步
+go	[gou]	vi. 去, 走, 达到, 运转; vt. 以...打赌, 对付, 忍受, 出产; n. 去, 尝试, 进行
+going	['gәuiŋ]	n. 去, 离去, 工作情况, 地面状况; a. 进行中的, 流行的, 成功的, 现存的
+good	[gud]	n. 善行, 好处, 利益; a. 好的, 优良的, 上等的, 愉快的
+got	[gɒt]	get的过去式和过去分词
+government	['gʌvәnmәnt]	n. 政府, 内阁
+great	[greit]	a. 大的, 非常的, 主要的, 重大的; adv. 顺利地, 得意地; n. 全部, 大人物, 大师
+green	[gri:n]	n. 绿色, 绿色颜料; a. 绿色的, 未成熟的, 新鲜的, 青春的
+grey	[grei]	n. 灰色; a. 灰色的, 阴沉的; v. (使)成灰色
+ground	[graund]	n. 土地, 战场, 场地, 地面; a. 土地的, 地面上的; vt. 放在地上, 使搁浅, 打基础, 给...以训练
+group	[gru:p]	n. 团体, 组, 团, 群; v. 聚合, 成群
+grow	[grәu]	vt. 种植, 使长满; vi. 生长, 变成, 发展
+half	[hɑ:f]	n. 一半, 半场, 不完全; a. 一半的, 不完全的, 部分的, 半场的; adv. 一半地, 部分地, 在某种程度上地, 几乎
+happen	['hæpәn]	vi. 发生, 发生, 恰巧
+hard	[hɑ:d]	a. 坚硬的, 硬的, 难的, 艰苦的; adv. 坚硬地, 努力地, 辛苦地, 接近地
+have	[hæv]	vt. 有, 怀有, 拿, 进行; aux. 已经
+he	[hi:]	pron. 他; n. 男孩, 男人, 雄性动物
+he's		他是, 他有
+head	[hed]	n. 头, 头脑, 领袖, 脑袋; vt. 为首, 朝向, 前进, 用头顶; vi. 朝特定方向行进, (作物)结穗
+health	['helθ]	n. 健康, 卫生, 蓬勃, 健康状态
+hear	[hiә]	vt. 听到, 倾听, 听说, 审理; vi. 听见, 听
+help	[help]	n. 帮忙, 帮助者, 补救办法, 有益的东西; vt. 帮助, 帮忙, 接济, 治疗; vi. 有用, 救命, 招待
+her	[hә:]	pron. 她的, 她
+here	[hiә]	adv. 在这里, 此时, 这里; n. 这里
+herself	[hә:'self]	pron. 她自己, 她亲自
+high	[hai]	n. 高度, 高处; a. 高的, 高级的, 主要的, 高尚的; adv. 高度地, 奢侈地
+him	[him]	pron. 他
+himself	[him'self]	pron. 他自己, 他亲自
+his	[hiz]	pron. 他的
+history	['histәri]	n. 历史, 过去, 经历, 发展过程
+hit	[hit]	n. 打击, 打, 冲撞, 讽刺; vt. 打, 打击, 碰撞, 打中; vi. 打, 打中, 打击, 碰撞
+hope	[hәup]	n. 希望, 信心, 期待; v. 希望, 期望, 信赖
+hospital	['hɒspitәl]	n. 医院
+host	[hәust]	n. 主人, 旅馆老板, 节目主持人; vt. 当主人招待, 作...节目主持人
+hour	[auә]	n. 小时, 钟头, 时间, ...点钟
+house	[haus]	n. 房子, 住宅, 机构, 议院; vt. 给...房子住, 收藏; vi. 住, 躲藏
+how	[hau]	adv. 如何, 怎样, 多少, 多么; n. 方式
+however	[hau'evә]	adv. 然而, 无论如何, 究竟怎样; conj. 然而, 可是
+human	['hju:mәn]	n. 人, 人类; a. 人类的, 似人类的, 人性的, 有同情心的
+hundred	['hʌndrәd]	n. 百, 百个东西; num. 百, 百个; a. 一百的, 许多的
+I	[ai]	pron. 我
+I'd	[aɪ'd]	abbr. 我愿意（等于I would）
+I'll	[aɪl]	我将, 我会（=I shall）
+I'm	[aɪm]	abbr. 我是（缩写）
+I've	[aɪv]	（等于I have）
+idea	[ai'diә]	n. 主意, 办法, 理想, 思想
+if	[if]	conj. 如果, 是否, 无论何时, 假设; n. 条件
+important	[im'pɒ:tәnt]	a. 重要的, 有地位的, 大量的, 显要的
+include	[in'klu:d]	vt. 包括, 把...算入, 包住
+including		prep. 包含, 包括
+increase	[in'kri:s]	n. 增加, 增进, 利益; vt. 增加, 加大; vi. 增加, 繁殖
+independent	[.indi'pendәnt]	n. 独立自主者, 无党派者; a. 独立的, 有主见的, 不须依赖的, 不受约束的
+industry	['indәstri]	n. 勤劳, 工业, 企业, 产业
+information	[.infә'meiʃәn]	n. 消息, 知识, 通知, 情报
+interest	['intrist]	n. 兴趣, 嗜好, 利息, 利益; vt. 使感兴趣, 与...有关系
+international	[.intә'næʃәnәl]	a. 国际的; n. 国别设定
+into	['intu:]	prep. 进入...之内, 朝..., 深入...之中, 成为...状况
+isn't	['iznt]	(=is not)不是
+issue	['isju]	n. 发行, 问题, 后果, 流出; vi. 发行, 流出, 造成...结果, 传下; vt. 使流出, 放出, 发行, 发布
+it	[it]	pron. 它
+it's	[its]	it is的缩写, it has的缩写
+its	[its]	pron. 它的
+itself	[it'self]	pron. 它本身, 它自己
+job	[dʒɒb]	n. 工作, 零活, 职业, 事情; vi. 做零工, 打杂, 做股票经纪, 假公济私; vt. 代客买卖, 批发, 承包, 欺骗
+join	[dʒɒin]	vi. 参加, 结合, 加入; vt. 连接, 结合, 参加, 加入; n. 连接, 结合, 接合点
+keep	[ki:p]	n. 生计, 维持, 保持; vt. 保持, 保存, 遵守, 看守; vi. 保持, 继续不断
+kill	[kil]	n. 杀, 杀戮, 小河; vt. 杀, 破坏, 消灭, 使终止; vi. 杀死
+labour	['leibә]	n. 劳动, 努力, 工作, 劳工; vi. 劳动, 努力, 苦干; vt. 详细分析, 使厌烦
+land	[lænd]	n. 陆地, 地面, 地界, 地产; vi. 登陆, 登岸, 到达; vt. 使上岸, 使登陆, 使到达
+large	[lɑ:dʒ]	a. 大的, 大量的, 宽大的, 广博的; adv. 大大地, 夸大地
+late	[leit]	a. 迟的, 晚的, 已故的; adv. 很晚, 很迟, 晚
+later	['leitә]	adv. 以后, 随后
+laugh	[lɑ:f]	n. 笑, 笑声; vi. 笑, 大笑; vt. 以笑表示
+law	[lɒ:]	n. 法律, 法则, 定律, 法律的制约; v. 起诉
+leader	['li:dә]	n. 领导者, 社论, 指挥, 领袖
+learn	[lә:n]	vt. 学习, 认识到, 得知
+least	[li:st]	n. 最少, 最小, 最小限度; a. 最少的, 最小的; adv. 最小, 最少
+leave	[li:v]	n. 许可, 告别, 请假, 休假; vt. 离开, 剩下, 遗忘, 委托; vi. 出发, 离开, 生叶
+less	[les]	n. 较少, 较小; a. 少的, 小的; adv. 较少, 较小, 较差
+let	[let]	vt. 让, 假设, 出租, 排放; vi. 出租, 被承包; n. 出租屋, 障碍
+letter	['letә]	n. 信, 字母, 证书, 字面意义; vt. 写字母于, 在...上刻字母, 用字母标明; vi. 写印刷体字
+level	['levl]	n. 水平, 水准, 平地; a. 同高的, 平坦的, 齐平的, 水平的; vt. 弄平, 夷平, 使同等, 瞄准
+life	[laif]	n. 生活, 生命, 人生, 世事
+like	[laik]	a. 相似的, 同样的; vt. 喜欢, 愿意, 想; vi. 喜欢, 希望
+likely	['laikli]	a. 有可能的, 合适的, 前途有望的; adv. 或许, 可能
+line	[lain]	n. 列, 线, 绳, 电线; vt. 排成一行, 顺...排列, 划线于, 加衬里; vi. 排队
+list	[list]	n. 目录, 名单, 明细表, 布条; vt. 列出, 列于表上, 记入名单内, 装布条; vi. 列于表上
+little	['litl]	n. 一点点, 少许, 一会儿, 短时间; a. 小的, 很少的, 幼小的, 琐碎的; adv. 很少, 稍微, 完全不
+local	['lәukәl]	a. 地方性的, 当地的, 局部的, 乡土的; n. 当地居民, 本地新闻, 局部
+look	[luk]	n. 一看, 神色, 样子, 面容; vi. 看, 注意, 朝着, 显得; vt. 打量, 看上去与...一样, 以眼色(或脸色)显示, 期待
+lose	[lu:z]	vt. 遗失, 损失, 丢失, 使失去; vi. 受损失, 失败
+lot	[lɒt]	n. 运气, 签, 抽签, 份额; vt. 划分; vi. 抽签, 抓阄
+love	[lʌv]	n. 爱, 恋爱, 爱情, 爱好; vt. 爱, 爱好, 爱慕; vi. 爱
+low	[lәu]	n. 低点, 低价, 低, 牛叫声; a. 低的, 消沉的, 低等的, 浅的; adv. 低下地, 谦卑地, 低
+main	[mein]	n. 主要部分, 干线, 体力, 力量; a. 主要的, 重要的, 全力的
+major	['meidʒә]	n. 主修课, 成年人, 陆军少校; a. 主要的, 较多的, 大部分的, 成年的; vi. 主修
+man	[mæn]	n. 男人, 人类, 人; vt. 为...配备人手, 操纵, 使振奋
+many	['meni]	n. 多数, 多数人; a. 许多的; pron. 许多
+market	['mɑ:kit]	n. 市场, 交易, 集市, 推销地区; vt. 在市场上交易, 使上市, 销售; vi. 在市场上买卖
+match	[mætʃ]	n. 比赛, 火柴, 对手; vt. 使相配, 使比赛, 与...竞争; vi. 结婚, 相配
+matter	['mætә]	n. 事件, 物质, 原因, 素材; vi. 有关系
+me	[mi:]	pron. 我
+meet	[mi:t]	n. 会, 集会; a. 适宜的, 合适的; vt. 遇见, 引见, 认识, 满足
+meeting	['mi:tiŋ]	n. 会议, 会面
+member	['membә]	n. 成员, 会员
+middle	['midl]	n. 中央, 中间, 腰部; a. 中央的, 中庸的, 中间的
+military	['militәri]	n. 军队; a. 军事的, 军人的, 适于战争的
+million	['miljәn]	n. 百万, 无数; num. 百万
+minister	['ministә]	n. 部长, 牧师, 公使; vi. 服侍, 救助, 主持宗教仪式
+moment	['mәumәnt]	n. 片刻, 瞬间, 重要, 阶段
+money	['mʌni]	n. 金钱, 一笔款, 财富, 货币
+month	[mʌnθ]	n. 月
+more	[mɒ:]	n. 更多; a. 多的, 程度较大的, 更大的; adv. 多, 更多, 进一步
+morning	['mɒ:niŋ]	n. 早晨, 早上, 初期
+most	[mәust]	n. 最多, 最大; a. 大多数的, 几乎全部的, 最多的; adv. 最, 最多, 极其
+mother	['mʌðә]	n. 母亲, 修女院长; vt. 产生, 照看, 收养
+move	[mu:v]	n. 移动, 迁居, 步骤; vt. 移动, 开动, 感动, 搬(家); vi. 移动, 离开, 运行, 迁移
+Mr	['mistә(r)]	先生
+Mrs	['misiz]	太太
+MS	[miz]	美国微软公司
+much	[mʌtʃ]	n. 大量, 许多, 重要的事; a. 很多的, 重要的; adv. 多, 甚, 几乎
+music	['mju:zik]	n. 音乐, 乐曲
+must	[mʌst]	n. 必须, 未发酵葡萄汁, 绝对必要的事物; aux. 必须
+my	[mai]	pron. 我的
+name	[neim]	n. 名字, 名称, 姓名, 名义; vt. 命名, 称呼, 任命, 提名; a. 姓名的, 据以取名的
+nation	['neiʃәn]	n. 国家, 民族
+national	['næʃәnәl]	a. 国家的, 国立的, 全国性的, 民族的
+near	[niә]	a. 近的, 近亲的, 近似的; adv. 接近, 亲近; prep. 靠近, 近似于
+need	[ni:d]	n. 需要, 必须, 缺乏; vt. 需要, 必需; vi. 贫困, 有必要
+never	['nevә]	adv. 从不, 决不, 不曾
+new	[nju:]	a. 新的, 陌生的, 最近的, 不熟悉的
+news	[nju:z]	n. 新闻, 消息, 报导
+next	['nekst]	n. 下一个; a. 下一个的, 其次的, 贴近的; adv. 然后, 下次, 次于
+night	[nait]	n. 夜, 夜晚, 晚上, 黑暗
+nine	[nain]	num. 九, 九个
+nineteen	[.nain'ti:n]	num. 十九, 十九个
+ninety	['nainti]	num. 九十, 九十个
+no	[nәu]	n. 不, 拒绝, 否决票; a. 没有, 不是, 绝非; adv. 不
+not	[nɒt]	adv. 不, 非, 未
+nothing	['nʌθiŋ]	n. 无, 不关紧要之事, 零; adv. 毫不, 决不; interj. 什么也没有, 无
+now	[nau]	adv. 现在, 刚才, 目前; n. 现在; a. 现在的
+number	['nʌmbә]	n. 数, 数字, 数目, 号码; vt. 数, 计算, 共计; vi. 计算, 报数
+of	[ɒv]	prep. 的, 属于
+of course		当然
+off	[ɒf]	a. 关着的, 不再生效的, 处于...境况的, 休假的; adv. 走开, ...掉, ...下, 休息; prep. 离开, 脱落, 不在从事......, 在...之外
+offer	['ɒfә]	n. 给予(物), 出价, 提议, 意图; vt. 提供, 出价, 奉献, 试图; vi. 出现, 献祭, 提议, 求婚
+office	['ɒfis]	n. 办公室, 部, 公职, 职责
+officer	['ɒfisә]	n. 军官, 主管, 官员, 公务员; vt. 指挥
+official	[ә'fiʃәl]	n. 官员, 公务员, 职员; a. 公务的, 官方的, 正式的
+often	['ɒ:fn]	adv. 时常, 常常
+oh	[әu]	interj. (表示惊讶、恐怖、赞叹)哦
+oil	[ɒil]	n. 油, 石油, 油画颜料; vt. 涂油于, 使融化成油状, 加油于; vi. 加燃油, 融化
+old	[әuld]	n. 以前, 往昔; a. 老的, 旧的, 古老的, 年长的
+on	[ɒn]	prep. 在...之上; adv. ...上去; a. 正起作用的
+once	[wʌns]	adv. 一次, 曾经, 一旦; conj. 一旦, 一经; n. 一次
+one	[wʌn]	n. 一(个); pron. 一, 任何人; num. 一, 一个
+only	['әunli]	a. 唯一的, 仅有的, 最佳的; adv. 只有, 仅仅, 只能; conj. 但是, 不过
+open	['әupәn]	n. 公开, 户外, 空旷; a. 开着的, 开放的, 开阔的, 营业着的; vt. 打开, 公开, 开放
+operate	['ɒpәreit]	v. 操作, 运转, 动手术, 活动
+operation	[.ɒpә'reiʃәn]	n. 操作, 动作, 手术, 运算
+or	[ɒ:]	conj. 或, 或者
+other	['ʌðә]	a. 其他的, 另外的, 从前的; pron. 其他的, 他人, 另外一个
+our	['auә]	pron. 我们的
+out	[aut]	a. 外面的, 熄灭的, 结束的; adv. 在外, 熄灭, 出现; prep. 出自, 离去, 向
+outside	['aut'said]	n. 外面, 外表, 外界; a. 外面的, 外表的, 外界的; adv. 外面, 外表, 外界
+over	['әuvә]	adv. 结束, 越过, 从头到尾; prep. 在...之上, 遍于...之上, 越过; a. 上面的
+own	[әun]	n. 自己的; a. 自己的, 嫡亲的, 同胞的; vt. 拥有, 支配, 自认, 承认
+page	[peidʒ]	n. 页, 记录, 事件, 专栏; vt. 标明...的页数, 翻...的书页, 分页排版, 呼叫; vi. 翻书页, 侍侯
+paper	['peipә]	n. 纸, 文件, 文章, 报纸; vt. 用纸糊, 贴壁纸于, 用纸包装; vi. 贴壁纸
+parent	['perәnt]	n. 父母, 父母亲, 根源
+party	['pɑ:ti]	n. 宴会, 党, 政党, 团体; v. 举办聚会
+pass	[pæs]	n. 经过, 要隘, 途径, 通行; vt. 经过, 越过, 通过, 批准; vi. 经过, 变化, 流通, 及格
+past	[pɑ:st]	n. 过去, 昔时, 往事, 早年经历; a. 过去的, 结束的, 卸任的, 过去时的; prep. 越过, 晚于, 超越, 超出...的可能性(能力、范围等)
+pay	[pei]	n. 薪资, 付款, 补偿; vt. 支付, 付清, 补偿, 偿还; vi. 付款, 付出代价, 偿还, 得到报应
+peace	[pi:s]	n. 和平, 和约, 治安, 和睦; vi. 安静下来, 不作声
+people	['pi:pl]	n. 人, 人民, 民族, 平民; vt. 使住满人, 居住于
+percent	[pә'sent]	n. 百分比, 百分数, 部分
+perhaps	[pә'hæps]	adv. 也许, 大概
+person	['pә:sn]	n. 人, 人身, 人称
+photo	['fәutәu]	n. 相片, 照片, 逼真的描绘; v. 照相; a. 照相的, 摄影用的, 详细记录的, 逼真的
+plan	[plæn]	n. 计划, 方案, 策略, 方法; vt. 计划, 设计, 意欲; vi. 订计划
+plant	[plænt. plɑ:nt]	n. 植物, 作物, 工厂, 树枝; vt. 种植, 栽培, 播种, 培养; vi. 种植
+play	[plei]	n. 游戏, 游玩, 玩笑, 运动; v. 玩, 游戏, 假装, 开玩笑
+player	['pleiә]	n. 竞赛者, 上场队员, 游戏者, 演员
+point	[pɒint]	n. 点, 小数点, 标点, 地点; vt. 弄尖, 强调, 指出, 加标点于; vi. 指, 指向, 表明
+police	[pә'li:s]	n. 警察, 警察当局, 治安; vt. 维持治安, 管辖
+policy	['pɒlisi]	n. 政策, 方针, 策略, 保险单
+political	[pә'litikl]	a. 政治的, 政治上的, 政党的, 从事政治的
+position	[pә'ziʃәn]	n. 位置, 地位, 身分, 形势; vt. 安置, 决定...的位置
+possible	['pɒsәbl]	a. 可能的, 潜在的, 合适的; n. 可能性, 可能的事物
+pound	[paund]	n. 磅, 英镑, 重击, 鱼塘; vt. 强烈打击, 捣烂, 监禁, 关入栏内; vi. 连续重击, 苦干
+power	['pauә]	n. 力, 体力, 力量, 势力; vt. 使...有力量, 供以动力, 激励
+president	['prezidәnt]	n. 总统, 总裁, 董事长, (学院)院长
+press	[pres]	n. 压, 揿, 按, 人群; vt. 压, 压榨, 紧抱, 逼迫; vi. 压, 重压, 催促, 拥挤
+pressure	['preʃә]	n. 压, 榨, 按, 强制; vt. 迫使, 使增压, 密封
+price	[prais]	n. 价格, 代价, 价值; vt. 定...的价格
+probably	['prɒbәbli]	adv. 大概, 或许
+problem	['prɒblәm]	n. 问题, 难题; a. 成问题的, 难处理的
+process	['prɒses]	n. 程序, 进行, 过程; vt. 加工, 使...接受处理, 对...处置, 对...起诉; a. 经加工的, 有特殊光效的
+produce	[prә'dju:s]	n. 生产品, 物产, 后代; vt. 产生, 生产, 提出, 出示; vi. 生产, 制造
+product	['prɒdʌkt]	n. 产品, 结果, 乘积
+programme	['prәugræm]	n. 节目, 节目单, 程序, 纲要; vt. 规划, 拟...计划; vi. 安排节目, 编程序
+provide	[prә'vaid]	vt. 提供, 供应, 规定, 预备; vi. 作准备, 抚养, 规定
+public	['pʌblik]	n. 公众, 民众; a. 公众的, 公共的, 公立的, 公用的
+put	[put]	vt. 放, 摆, 安置, 移动; vi. 出发, 航行, 发芽; n. 掷, 股票出售权, 笨蛋
+question	['kwestʃәn]	n. 问题, 询问; v. 询问, 审问, 怀疑
+quick	[kwik]	a. 快的, 迅速的, 敏捷的, 灵敏的; adv. 快; n. 新长出的肉, 要害, 核心, 感觉敏锐部位
+quite	[kwait]	adv. 相当, 完全, 十分
+race	[reis]	n. 种族, 人种, 赛跑, 比赛; vi. 赛跑, 竞赛, 疾走; vt. 与...赛跑, 使疾走, 使猛转
+radio	['reidiәu]	n. 无线电, 收音机, 无线电报, 无线电广播; v. 用无线电发送
+raise	[reiz]	n. 上升, 高地, 增高; vt. 升起, 举起, 唤起, 提高
+rate	[reit]	n. 比率, 率, 速度, 价格; vt. 估价, 认为, 鉴定等级, 责骂; vi. 被评价, 责骂
+rather	['ræðә]	adv. 宁可, 稍微, 相当
+reach	[ri:tʃ]	n. 伸出, 延伸, 区域, 范围; vt. 到达, 达到, 伸出, 延伸; vi. 达到, 延伸, 伸出手, 传到
+read	[ri:d]	v. 读, 阅读, 理解; a. 有学问的; n. 读取, 阅读
+real	['riәl]	a. 真的, 真实的, 实际的, 实在的; n. 实数, 现实; adv. 真正地
+really	['riәli]	adv. 实际上, 真实地, 实在
+reason	['ri:zn]	n. 理由, 原因, 理智, 道理; vt. 说服, 推论, 辩论; vi. 推论, 劝说, 思考
+receive	[ri'si:v]	vt. 收到, 接到, 得到, 接待; vi. 收到, 会客
+recent	['ri:snt]	a. 最近的, 近代的, 最新的
+record	[ri'kɒ:d]	n. 记录, 履历, 档案, 审判记录; vt. 记录, 记载, 标明, 将...录音; vi. 记录, 录音, 可被录音
+red	[red]	a. 红的, 红色的, 红肿的, 流血的; n. 红色, 红颜料, 赤字
+release	[ri'li:s]	n. 释放, 发泄, 豁免, 发行; vt. 释放, 解除, 放松, 豁免; n. 发布
+remain	[ri'mein]	vi. 保持, 逗留, 剩余
+remember	[ri'membә]	vt. 记得, 回忆起, 记住, 铭记; vi. 记得
+report	[ri'pɒ:t]	n. 报告, 报道, 传说, 案情报告; vt. 报告, 汇报, 转述, 报道; vi. 报告, 写报道, 报到
+research	[ri'sә:tʃ]	n. 研究, 调查, 考察; vi. 研究, 调查
+result	[ri'zʌlt]	n. 结果, 成绩, 答案; vi. 产生, 结果, 致使
+return	[ri'tә:n]	n. 回来, 返回, 来回票, 归还; a. 返回的, 回程的, 报答的, 反向的; vi. 返回, 归还, 回来
+rise	[raiz]	n. 上升, 增加, 上涨, 高地; vi. 升起, 起身, 起立, 上升; vt. 使飞起
+road	[rәud]	n. 路, 道路, 公路, 途径
+role	[rәul]	n. 角色, 职责, 任务
+room	[ru:m]	n. 房间, 空位, 场所; vi. 住宿, 居住; vt. 留宿
+rule	[ru:l]	n. 规则, 统治, 控制, 支配; vt. 规定, 统治, 管理, 控制; vi. 统治, 管辖, 裁定
+run	[rʌn]	n. 跑, 赛跑, 奔跑, 奔跑的路程; vi. 跑, 奔跑, 跑步, 赛跑; vt. 使跑, 参赛, 追究, 驾驶
+sale	[seil]	n. 出售, 卖, 拍卖, 销售额
+same	[seim]	a. 相同的, 同样的; pron. 相同的人(或事物); adv. 同样地
+save	[seiv]	n. 救球; vt. 解救, 挽救, 储蓄, 保存; vi. 挽救, 节省, 救球
+say	[sei]	vt. 说, 讲, 念, 说明; vi. 说, 讲; n. 意见, 发言权
+school	[sku:l]	n. 学校, 鱼群, 门派, 学派; vt. 教育, 训练, 培养; vi. 成群地游
+season	['si:zn]	n. 季节, 时节, 当令期, 时期; vt. 给...调味, 使成熟, 使老练, 缓和; vi. 变干燥
+second	['sekәnd]	n. 秒, 瞬间, 第二名, 支持者; a. 第二的, 其次的, 次要的, 附加的; num. 第二
+security	[si'kjuriti]	n. 安全, 安全性, 防护物, 保安
+see	[si:]	vt. 看见, 查看, 参观, 游览; vi. 看, 观看, 注意, 知道; n. 主教的职位
+seek	[si:k]	vt. 寻求, 寻找, 探索, 追求; vi. 寻找, 搜索
+seem	[si:m]	vi. 象是, 似乎
+sell	[sel]	vt. 卖, 背叛, 销售, 出卖; vi. 卖, 销售; n. 卖, 推销术, 失望
+send	[send]	vt. 发送, 使进入, 寄, 派遣; vi. 寄信, 派人, 播送; n. (船的)上升运动
+sense	[sens]	n. 感应, 感觉, 感官, 意识; vt. 感觉, 觉察, 检测
+serious	['siәriәs]	a. 严肃的, 认真的, 重要的, 严重的
+service	['sә:vis]	n. 服务, 贡献, 雇佣, 公职; vt. 保养, 维修; a. 武装部队的, 服务性的, 仆人的, 耐用的
+seven	['sevn]	num. 七, 七个
+seventeen	[sevn'ti:n]	num. 十七, 十七个
+seventy	['sevnti]	num. 七十, 七十个
+several	['sevәrәl]	a. 几个的, 一些的, 各自的; pron. 几个
+share	[ʃєә]	n. 部分, 参与, 一份, 参股; vt. 均分, 分担, 分享, 分配; vi. 分享
+she	[ʃi:]	pron. 她
+should	[ʃud]	aux. 应该, 将要
+show	[ʃәu]	n. 显示, 表现, 展览, 卖弄; vt. 表示, 显示, 展现, 陈列; vi. 露面, 显现, 演出
+side	[said]	n. 旁边, 侧, 方面, 胁; a. 旁的, 侧的, 次要的; vt. 同意, 支持
+sign	[sain]	n. 符号, 招牌, 征兆, 正负号; vt. 签名, 打手势表达; vi. 签名
+since	[sins]	prep. 自...以后, 自...以来; adv. 自那时以后; conj. 既然, 自...以后, 自...以来
+single	['siŋgl]	a. 单身的, 单程的, 单一的, 个别的; n. 一个, 单打, 单程票; vt. 选出
+sir	[sә:]	n. 先生, 阁下
+sister	['sistә]	n. 姐妹, 姐, 妹, 护士; vt. 姐妹般对待
+sit	[sit]	vi. 坐, 就座, 坐落; vt. 使就座, 骑; n. 坐, 衣服合身
+situation	[.sitju'eiʃәn]	n. 情形, 境遇, 位置
+six	[siks]	num. 六, 六个
+sixteen	['siks'ti:n]	num. 十六, 十六个
+sixty	['siksti]	num. 六十, 六十个
+small	[smɒ:l]	a. 小的, 少的, 小型的, 低微的; adv. 些微地; n. 狭小部分
+social	['sәuʃәl]	a. 社会的, 群居的, 社交的; n. 联欢会
+society	[sә'saiәti]	n. 社会, 社交界, 交往, 社团
+some	[sʌm]	pron. 一些, 一部分, 若干; adv. 大约; a. 一些的, 少许的, 某一的
+something	['sʌmθiŋ]	pron. 某事, 某物
+son	[sʌn]	n. 儿子, 女婿, 子孙
+soon	[su:n]	adv. 不久, 早, 快, 宁可
+sort	[sɒ:t]	n. 种类, 方式, 品质, 态度; vt. 分类, 排序, 挑选; vi. 交往, 协调
+speak	[spi:k]	vi. 说, 说话, 演说, 发言; vt. 说, 讲, 说出
+special	['speʃәl]	n. 专辑, 专车, 号外, 特别的东西; a. 特别的, 专门的, 特殊的, 额外的
+spend	[spend]	vt. 花费, 浪费, 度过, 消耗; vi. 花费, 用尽
+staff	[stɑ:f]	n. 全体人员, 工作班子, 棍棒, 杆; a. 职员的, 雇员的, 参谋的; vt. 为...配备人员
+stage	[steidʒ]	n. 阶段, 舞台, 场所, 戏剧; vt. 上演, 表演, 筹划; vi. 适于上演, 乘驿车旅行
+stand	[stænd]	n. 站立, 站住, 停顿, 讲台; vi. 站, 立, 坐落, 停滞; vt. 忍受, 使站立, 抵挡
+star	[stɑ:]	n. 星, 恒星, 星形物, 运气; vt. 以星状物装饰, 用星号标, 使成为明星; vi. 变成明星
+start	[stɑ:t]	n. 惊起, 出发, 开端, 起点; vi. 开始, 出发, 启动, 跳起; vt. 使惊起, 开动, 发动, 启动
+state	[steit]	n. 州, 状态, 情形, 国家; a. 国家的, 正式的, 礼仪用的, 州的; vt. 说明, 陈述, 规定
+stay	[stei]	n. 停留, 逗留, 制止, 延缓; vt. 制止, 延缓, 坚持, 支持; vi. 停留, 逗留, 暂停, 坚持
+step	[step]	n. 步骤, 步, 步幅, 脚步声; vt. 踏, 以步测量, 跨步, 使成阶梯状; vi. 跨步, 轻快地走, 跳舞, 踩
+still	[stil]	n. 蒸馏室, 寂静, 剧照; v. 蒸馏, (使)平静, (使)静止; a. 静止的, 不动的, 静寂的, 不起泡的
+stock	[stɒk]	n. 树干, 祖先, 血统, 原料; a. 存货的, 常备的, 平凡的, 普通的; vt. 装把手于, 进货, 备有, 放牧
+stop	[stɒp]	n. 停止, 车站, 逗留, 填塞; vi. 停止, 被塞住; vt. 塞住, 堵塞, 阻止, 击落
+story	['stɒ:ri]	n. 故事, 小说, 传奇, 描述
+street	[stri:t]	n. 街道, 马路, 街区; a. 街道的
+strong	[strɒŋ]	a. 强壮的, 坚固的, 坚强的, 强烈的; adv. 强劲地, 有力地, 猛烈地
+student	['stju:dnt]	n. 学生, 研究者, 学者
+study	['stʌdi]	n. 学习, 研究, 学科, 论文; vt. 学习, 读书, 研究, 考虑; vi. 学习, 思索
+such	[sʌtʃ]	a. 如此的, 这样的
+suggest	[sәg'dʒest]	vt. 提议, 建议, 促成, 暗示
+support	[sә'pɒ:t]	n. 支持, 支撑, 援助, 供养; vt. 支援, 支撑, 帮助, 支持
+sure	[ʃuә]	a. 确信, 必然的, 必定的; adv. 当然, 确实地, 无疑地
+surprise	[sә'praiz]	n. 惊奇, 奇袭, 诧异; vt. 使惊奇, 撞见, 奇袭
+system	['sistәm]	n. 系统, 体系, 制度, 方式
+talk	[tɒ:k]	n. 谈话, 交谈, 会谈, 讲话; vi. 讲话, 演讲, 说话, 谈话; vt. 讲, 说, 讨论, 谈论
+tax	[tæks]	n. 税, 税款, 重负, 会费; vt. 课以税, 使负重荷, 斥责
+team	[ti:m]	n. 队, 组; vt. 把马(牛)套在同一辆车上, 把...编成一组; vi. 驾驶卡车, 协作
+tell	[tel]	vt. 告诉, 说, 吩咐, 断定; vi. 讲述, 泄密, 告发, 表明
+ten	[ten]	num. 十, 十个
+term	[tә:m]	n. 术语, 专有名词, 期限, 学期; vt. 称, 呼
+test	[test]	n. 测试, 试验, 化验, 检验; vt. 测试, 试验, 化验; vi. 接受测验, 进行测试
+than	[ðæn]	conj. 比, 除...外; prep. 比
+thank	[θæŋk]	n. 谢意, 感谢; vt. 谢谢, 感谢
+that	[ðæt]	a. 那, 那个; conj. 以致, 因为; pron. 那
+that's	[ðæts]	(=that is)说得更精确些, 简而言之
+the	[ðә]	art. 那
+their	[ðєә]	pron. 他们的
+them	[ðem]	pron. 他们, 她们, 它们
+themselves	[ðәm'selvz]	pron. 他们自己, 她们自己, 它们自己
+then	[ðen]	adv. 然后, 当时; conj. 然后, 当时; n. 那时
+there	[ðєә]	adv. 在那里
+these	[ði:z]	pron. 这些
+they	[ðei]	pron. 他们, 它们
+they're	[ðeə(r)]	abbr. they are 他们是
+thing	[θiŋ]	n. 事物, 东西, 物, 用品
+think	[θiŋk]	vt. 想, 考虑, 想起, 想像; vi. 思考, 料想; n. 想法
+thirteen	['θә:'ti:n]	num. 十三, 十三个
+thirty	['θә:ti]	num. 三十, 三十个
+this	[θis]	pron. 这, 本; a. 这, 本; adv. 这么
+those	[ðәuz]	pron. 那些
+though	[ðәu]	adv. 然而, 可是; conj. 虽然, 纵然
+thought	[θɒ:t]	n. 想法, 思想, 思维, 关心
+thousand	['θauznd]	num. 千; a. 成千的, 许多的; n. 许许多多
+three	[θri:]	num. 三, 三个
+through	[θru:]	adv. 穿越, 从头至尾, 到底, 因为; prep. 经过, 穿过; a. 对穿的, 直达的, 完结的
+time	[taim]	n. 时间, 时侯, 时机, 时期; vt. 测定...的时间, 记录...的时间, 计时, 定时; a. 时间的, 记时的, 定时的, 定期的
+to	[tu:]	prep. 到, 向, 趋于; adv. 向前
+today	[tә'dei]	n. 今天, 当今, 现在; adv. 今天, 当今
+together	[tә'geðә]	adv. 一起, 共同, 彼此
+too	[tu:]	adv. 也, 非常, 太
+top	[tɒp]	n. 顶部, 顶端, 极点, 上面; a. 最高的, 顶上的, 头等的; vt. 盖, 加以顶, 高达, 超越
+total	['tәutl]	a. 全体的, 总的, 全然的; vt. 计算...的总和, 共计为; vi. 合计
+towards	[tә'wɔ:dz]	prep. 向, 对于, 为了
+town	[taun]	n. 城镇, 市, 镇
+trade	[treid]	n. 贸易, 商业, 交易, 生意; vi. 进行交易, 做买卖, 经商, 对换; vt. 用...进行交换
+try	[trai]	n. 尝试, 试验, 审理, 审判; vt. 试, 尝试, 试验, 考验; vi. 尝试, 试图
+turn	[tә:n]	n. 转弯, 转动, 旋转, 翻转; vt. 使旋转, 转弯, 转动, 使转向; vi. 转动, 转弯, 转向, 翻转
+twelve	[twelv]	num. 十二, 十二个
+twenty	['twenti]	num. 二十, 二十个
+twice	[twais]	adv. 两次, 两倍
+two	[tu:]	num. 二, 二个
+under	['ʌndә]	prep. 在...之下, 低于; a. 下面的, 从属的; adv. 在下面
+understand	[.ʌndә'stænd]	vt. 理解, 了解, 领会, 听说; vi. 懂得, 认为
+union	['ju:njәn]	n. 联盟, 联合, 结合, 工会
+university	[.ju:ni'vә:siti]	n. 大学
+until	[әn'til]	prep. 直到, 在...以前; conj. 直到...时, 在...以前
+us	[ʌs]	pron. 我们
+value	['vælju:]	n. 价值, 价格, 购买力, 评价; vt. 评价, 估价, 重视
+very	['veri]	a. 真正的, 恰好的, 十足的, 特有的; adv. 非常, 完全
+view	[vju:]	n. 视野, 风景, 见解, 视力; vt. 看, 考虑, 视察, 查看
+visit	['vizit]	n. 拜访, 访问, 游览, 视察; vt. 拜访, 访问, 参观, 视察; vi. 访问, 参观, 闲谈
+vote	[vәut]	n. 投票, 选举, 选票, 表决; vi. 投票, 选举; vt. 投票选举, 投票决定, 公认, 使投票
+wait	[weit]	n. 等待, 等候; vt. 等候, 期待, 延缓, 伺候; vi. 等, 等候, 耽搁, 伺候用餐
+walk	[wɒ:k]	n. 走, 散步, 步行, 行走的路程; vi. 走路, 步行, 处世; vt. 走过, 遛, 使走, 护送...走
+wall	[wɒ:l]	n. 墙, 墙壁, 垣, 内壁; a. 墙的; vt. 给...建墙, 禁闭, 用墙围住
+want	[wɒnt]	n. 需要的东西, 缺乏, 贫困, 需要; vt. 要, 希望, 应该, 缺少; vi. 生活困苦, 需要, 缺少
+war	[wɒ:]	n. 战争, 战争状态, 战术, 军事; vi. 进行战争, 作战, 打仗, 战斗; a. 战争的, 战时用的
+wasn't	['wɔznt]	prep. 不是
+water	['wɒ:tә]	n. 水, 雨水, 海水, 水位; vt. 给...浇水, 供以水, 注入水, 使湿; vi. 流泪, 流口水, 加水
+way	[wei]	n. 路, 路线, 路途, 方法; adv. 远远地, 非常
+we	[wi:]	pron. 我们
+we're	[wɪə(r)]	(we are 的常用口语形式)
+we've	[wi:v]	（尤当 have 为助动词时, we have 的常用口语形式）
+week	[wi:k]	n. 星期, 周
+west	[west]	n. 西方, 西部; a. 西方的, 向西的; adv. 向西, 自西方, 在西方
+what	[hwɒt]	pron. 什么; interj. 怎么, 多么; a. 什么的
+when	[hwen]	conj. 当...的时候; adv. 何时, 什么时候; pron. 什么时侯
+where	[hwєә]	adv. 在哪里; pron. 哪里; n. 地点
+whether	['hweðә]	conj. 是否, 不论; pron. 两个中的哪一个
+which	[hwitʃ]	pron. 哪一个, 那一个
+white	[hwait]	n. 白色, 洁白, 眼白, 白种人; a. 白色的, 纯洁的, 白种的, 苍白的
+who	[hu:]	pron. 谁
+whole	[hәul]	n. 全部, 全体, 整体, 完全之体系; a. 所有的, 完整的, 完全的, 纯粹的
+whose	[hu:z]	pron. 谁的
+why	[hwai]	adv. 为什么; n. 原因, 理由
+wide	[waid]	a. 宽的, 广阔的, 普遍的, 宽阔的; adv. 广阔地, 遍及各处地, 广泛地; n. 大千世界
+wife	[waif]	n. 妻子, 太太, 夫人
+win	[win]	vt. 赢得, 打胜, 成功; vi. 获胜, 达到, 影响; n. 胜利, 赢, 收益
+with	[wið]	prep. 和...在一起, 以, 由于
+within	[wi'ðin]	n. 内部, 里头; adv. 在内部, 在内心里; prep. 在...之内
+without	[wi'ðaut]	prep. 没有, 不, 在...之外; adv. 在外面, 户外; n. 外面, 外部
+woman	['wumәn]	n. 女人, 妇女, 女仆; a. 女用的, 女性的, 妇女的; vt. 贬称...为女人, 使成女人腔
+won't	[wəʊnt]	将不, 不会（=will not）
+word	[wә:d]	n. 话, 消息, 词, 诺言; vt. 用言辞表达
+work	[wә:k]	n. 工作, 劳动, 职业, 行为; vi. 工作, 劳动, 做, 运转; vt. 使工作, 使转动, 开动, 使用
+worker	['wә:kә]	n. 工人, 劳动者
+working	['wә:kiŋ]	n. 工作, 运转, 劳动; a. 工作的, 劳动的, 经营的, 抽搐的
+world	[wә:ld]	n. 世界, 地球, 宇宙, 万物
+would	[wud]	aux. 将, 愿意
+wouldn't	[ˈwʊdnt]	=would not
+write	[rait]	vt. 书写, 著述, 写, 写满; vi. 写, 写字, 写信, 写作
+year	[jiә]	n. 年, 年度, 年龄
+yes	[jes]	adv. 是; n. 是, 同意; v. 同意
+yesterday	['jestәdi]	n. 昨天; adv. 昨天
+yet	[jet]	adv. 还, 尚, 仍然, 已经; conj. 然而
+you	[ju:]	pron. 你, 你们
+you're	[jʊə(r)]	abbr. you are 你（你们）是
+you've	[ju:v]	abbr. you have 你（们）已经
+young	[jʌŋ]	a. 年轻的, 无经验的, 朝气蓬勃的; n. 青年们, 幼小动物, 崽
+your	[juә]	pron. 你的, 你们的
