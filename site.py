@@ -30,6 +30,9 @@ EXAMS = {
     "gre": "GRE",
 }
 
+# Each level's shared deck on AnkiWeb: https://ankiweb.net/shared/info/<id>
+ANKIWEB = {5: 1403111213, 4: 1544157144, 3: 1539836752, 2: 459912606, 1: 1163764613}
+
 # The colors and shapes follow QuantNote's web app: an off-white or black page,
 # cards with a 16px radius and a hairline border, pill-shaped chips, and the
 # system font. The theme follows the device, like there. Every text pair meets
@@ -69,6 +72,13 @@ p{margin:0 0 12px}
 .tools input{width:100%;font:inherit;padding:10px 14px;border:1px solid var(--card-border);border-radius:16px;background:var(--card-bg);color:var(--foreground);outline:none}
 .tools input:focus{border-color:var(--muted)}
 .tools input::placeholder{color:var(--muted)}
+.view{margin-bottom:10px}
+.seg{flex:none;display:flex;padding:2px;border:1px solid var(--card-border);border-radius:999px;background:var(--card-bg)}
+.seg button{font:inherit;font-size:14px;font-weight:500;line-height:1.4;white-space:nowrap;padding:4px 14px;border:0;border-radius:999px;background:none;color:var(--muted);cursor:pointer}
+.seg button[aria-pressed=true]{background:var(--line);color:var(--foreground)}
+.check::before{content:"";display:inline-block;width:14px;height:14px;margin-right:6px;border:1.5px solid var(--muted);border-radius:4px;vertical-align:-2px}
+.pill.check[aria-pressed=true]{background:var(--card-bg);color:var(--foreground);border-color:var(--primary)}
+.check[aria-pressed=true]::before{border-color:var(--primary);background:var(--primary);box-shadow:inset 0 0 0 2px var(--card-bg)}
 #count{color:var(--muted);font-size:14px;margin:0 0 8px}
 .words{overflow:hidden}
 table{border-collapse:collapse;width:100%}
@@ -80,6 +90,14 @@ tbody tr[hidden]{display:none}
 .p{color:var(--muted);white-space:nowrap}
 .x{min-width:150px}
 .x span{display:inline-block;margin:2px 4px 2px 0;padding:1px 8px;border-radius:999px;background:var(--card-border);color:var(--muted);font-size:12px;white-space:nowrap}
+.a{white-space:nowrap;text-align:right;width:1%}
+.a button{width:32px;height:32px;margin:-4px 0;padding:0;border:0;border-radius:999px;background:none;color:var(--muted);cursor:pointer;vertical-align:middle}
+.a button:hover{background:var(--card-border)}
+.a svg{width:20px;height:20px;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.a button[aria-pressed=true]{color:var(--primary)}
+tr.known .w,tr.known .p,tr.known .d,tr.known .x{opacity:.45}
+.cover tbody tr{cursor:pointer}
+.cover tbody tr:not(.open) .d{color:transparent;background:var(--card-border);background-clip:content-box;user-select:none;-webkit-user-select:none}
 .cta{margin-top:32px;padding:24px;border-radius:16px;background:var(--cta-bg);color:var(--cta-fg);border:1px solid var(--card-border);text-align:center}
 .cta p{margin:0 0 14px}
 .cta a{display:inline-block;padding:8px 20px;border-radius:999px;background:var(--cta-button-bg);color:var(--cta-button-fg);font-weight:600;font-size:14px}
@@ -89,38 +107,102 @@ footer{margin-top:24px;color:var(--muted);font-size:13px;text-align:center}
 h1{font-size:21px}
 thead{display:none}
 table,tbody{display:block}
-tbody tr{display:grid;grid-template-columns:auto 1fr;column-gap:8px;padding:12px 16px}
+tbody tr{display:grid;grid-template-columns:auto 1fr auto;column-gap:8px;padding:12px 16px}
 tbody tr+tr{border-top:1px solid var(--line)}
 tbody tr+tr td{border-top:0}
 td{display:block;padding:0}
 .w{font-size:17px}
 .p{white-space:normal;align-self:center;font-size:14px}
 .d,.x{grid-column:1/-1}
+.a{width:auto;grid-area:1/3}
+.a button{margin:-4px 0 -4px 4px}
 .x{min-width:0}
 .x:empty{display:none}
 .x span{margin-top:6px}
 }
 """
 
-# Filters the table rows by the search text and the chosen exam.
+# Filters and orders the table rows, covers the definitions, reads a word aloud
+# and remembers the known words. What it remembers is kept in localStorage and
+# shared by the five level pages; without storage the page works the same and
+# only forgets on reload.
 SCRIPT = """
-const q=document.getElementById('q'),chips=[...document.querySelectorAll('#exams button')],count=document.getElementById('count');
-const rows=[...document.querySelectorAll('tbody tr')];
-let tag='';
+const $=id=>document.getElementById(id);
+const q=$('q'),count=$('count'),table=document.querySelector('table'),tbody=table.tBodies[0];
+const rows=[...tbody.rows];
+const load=(key,fallback)=>{try{return JSON.parse(localStorage.getItem(key))??fallback}catch{return fallback}};
+const save=(key,value)=>{try{localStorage.setItem(key,JSON.stringify(value))}catch{}};
+const known=new Set(load('known',[]));
+const icon=d=>'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+d+'"/></svg>';
+const button=(cls,label,d)=>{const b=document.createElement('button');b.type='button';b.className=cls;b.setAttribute('aria-label',label);b.innerHTML=icon(d);return b};
+let tag='',hideKnown=load('hideKnown',false);
+
+rows.forEach((r,i)=>{
+  r.rank=i;r.word=r.cells[0].textContent;r.text=r.textContent.toLowerCase();r.tags=r.dataset.t.split(' ');
+  const cell=r.cells[4];
+  if('speechSynthesis' in window)cell.append(button('say','朗读','M4 9.5v5h3.5L12 18V6L7.5 9.5H4zM15.5 9a4.5 4.5 0 0 1 0 6M18 6.5a8 8 0 0 1 0 11'));
+  const k=button('ok','已掌握','M5 12.5l4.5 4.5L19 7.5');
+  k.setAttribute('aria-pressed',known.has(r.word));
+  r.classList.toggle('known',known.has(r.word));
+  cell.append(k);
+});
+
 function apply(){
-  const text=q.value.trim().toLowerCase();let shown=0;
+  const text=q.value.trim().toLowerCase();let shown=0,learned=0;
   for(const r of rows){
-    const ok=(!text||r.textContent.toLowerCase().includes(text))&&(!tag||r.dataset.t.split(' ').includes(tag));
+    const match=(!text||r.text.includes(text))&&(!tag||r.tags.includes(tag)),isKnown=known.has(r.word);
+    if(match&&isKnown)learned++;
+    const ok=match&&!(hideKnown&&isKnown);
     r.hidden=!ok;if(ok)shown++;
   }
-  count.textContent=shown.toLocaleString()+' 词';
+  count.textContent=shown.toLocaleString()+' 词 · 已掌握 '+learned.toLocaleString();
 }
+
+const collator=new Intl.Collator('en',{sensitivity:'base'});
+const orders={
+  freq:()=>rows.sort((a,b)=>a.rank-b.rank),
+  az:()=>rows.sort((a,b)=>collator.compare(a.word,b.word)),
+  random:()=>{for(let i=rows.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[rows[i],rows[j]]=[rows[j],rows[i]]}},
+};
+function order(name){
+  if(!orders[name])name='freq';
+  orders[name]();tbody.append(...rows);save('order',name);
+  for(const b of $('order').children)b.setAttribute('aria-pressed',b.dataset.order===name);
+}
+$('order').addEventListener('click',e=>{const b=e.target.closest('button');if(b)order(b.dataset.order)});
+
+function toggle(id,key,on,change){
+  const b=$(id),set=v=>{b.setAttribute('aria-pressed',v);change(v)};
+  set(on);b.addEventListener('click',()=>{const v=b.getAttribute('aria-pressed')!=='true';save(key,v);set(v)});
+}
+toggle('cover','cover',load('cover',false),v=>table.classList.toggle('cover',v));
+toggle('hideKnown','hideKnown',hideKnown,v=>{hideKnown=v;apply()});
+
+const chips=[...$('exams').children];
 for(const c of chips)c.addEventListener('click',()=>{
   tag=c.dataset.tag;
   for(const o of chips)o.setAttribute('aria-pressed',o===c);
   apply();
 });
-q.addEventListener('input',apply);apply();
+q.addEventListener('input',apply);
+
+tbody.addEventListener('click',e=>{
+  const r=e.target.closest('tr'),b=e.target.closest('button');
+  if(!b){if(table.classList.contains('cover'))r.classList.toggle('open');return}
+  if(b.className==='say'){
+    const u=new SpeechSynthesisUtterance(r.word);u.lang='en-US';
+    speechSynthesis.cancel();speechSynthesis.speak(u);
+    return;
+  }
+  const on=!known.has(r.word);
+  on?known.add(r.word):known.delete(r.word);
+  save('known',[...known]);
+  b.setAttribute('aria-pressed',on);r.classList.toggle('known',on);
+  apply();
+});
+
+const saved=load('order','freq');
+if(saved!=='freq')order(saved);
 """
 
 
@@ -221,10 +303,12 @@ def index_page(counts: dict) -> str:
 def level_page(stars: int, words: list) -> str:
     e = html.escape
     name = STAR_NAMES[stars]
+    # Most frequent first: ECDICT's contemporary rank, then its BNC rank, then unranked words.
+    words = sorted(words, key=lambda w: (w["frq"] is None, w["frq"] or w["bnc"] or float("inf"), w["word"]))
     rows = "".join(
         f'<tr data-t="{" ".join(w["tags"])}"><td class="w">{e(w["word"])}</td>'
         f'<td class="p">{"[" + e(w["phonetic"]) + "]" if w["phonetic"] else ""}</td><td class="d">{e(w["translation"])}</td>'
-        f'<td class="x">{"".join(f"<span>{EXAMS[t]}</span>" for t in EXAMS if t in w["tags"])}</td></tr>\n'
+        f'<td class="x">{"".join(f"<span>{EXAMS[t]}</span>" for t in EXAMS if t in w["tags"])}</td><td class="a"></td></tr>\n'
         for w in words
     )
     chips = "".join(
@@ -235,17 +319,27 @@ def level_page(stars: int, words: list) -> str:
 <h1><span class="stars">{"★" * stars}</span> 柯林斯{name}词汇（{len(words):,} 词）</h1>
 <p class="lead">Collins {stars}-star words，附音标、中文释义和考试标签。下载：
 <a href="{RAW_URL}collins_{stars}_star.txt">TXT</a> ·
-<a href="{RAW_URL}collins_{stars}_star.apkg">Anki 卡组</a></p>
+<a href="{RAW_URL}collins_{stars}_star.apkg">Anki 卡组</a> ·
+<a href="https://ankiweb.net/shared/info/{ANKIWEB[stars]}">AnkiWeb</a></p>
 <div class="tools">
 <input id="q" type="search" placeholder="搜索单词或释义" aria-label="搜索单词或释义">
 <div class="pills" id="exams" role="group" aria-label="按考试筛选">
 <button class="pill" type="button" data-tag="" aria-pressed="true">全部</button>{chips}
 </div>
 </div>
+<div class="pills view">
+<span class="seg" id="order" role="group" aria-label="排序">
+<button type="button" data-order="freq" aria-pressed="true">词频</button>
+<button type="button" data-order="az" aria-pressed="false">字母</button>
+<button type="button" data-order="random" aria-pressed="false">随机</button>
+</span>
+<button class="pill check" type="button" id="cover" aria-pressed="false">遮住释义</button>
+<button class="pill check" type="button" id="hideKnown" aria-pressed="false">隐藏已掌握</button>
+</div>
 <p id="count" aria-live="polite"></p>
 <div class="card words">
 <table>
-<thead><tr><th>单词</th><th>音标</th><th>释义</th><th>考试</th></tr></thead>
+<thead><tr><th>单词</th><th>音标</th><th>释义</th><th>考试</th><th></th></tr></thead>
 <tbody>
 {rows}</tbody>
 </table>

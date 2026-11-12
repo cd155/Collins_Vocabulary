@@ -9,14 +9,14 @@ text, CSV, JSON and Anki decks.
 
 [English](#english)
 
-| 星级 Level | 词数 Words | 文本 Text | Anki |
-|---|---:|---|---|
-| ★★★★★ 五星 | 630 | [collins_5_star.txt](lists/collins_5_star.txt) | [collins_5_star.apkg](lists/collins_5_star.apkg) |
-| ★★★★ 四星 | 1,009 | [collins_4_star.txt](lists/collins_4_star.txt) | [collins_4_star.apkg](lists/collins_4_star.apkg) |
-| ★★★ 三星 | 1,418 | [collins_3_star.txt](lists/collins_3_star.txt) | [collins_3_star.apkg](lists/collins_3_star.apkg) |
-| ★★ 二星 | 3,036 | [collins_2_star.txt](lists/collins_2_star.txt) | [collins_2_star.apkg](lists/collins_2_star.apkg) |
-| ★ 一星 | 7,540 | [collins_1_star.txt](lists/collins_1_star.txt) | [collins_1_star.apkg](lists/collins_1_star.apkg) |
-| 合计 All | 13,633 | [collins.csv](lists/collins.csv) · [collins.json](lists/collins.json) | |
+| 星级 Level | 词数 Words | 文本 Text | Anki | AnkiWeb |
+|---|---:|---|---|---|
+| ★★★★★ 五星 | 630 | [collins_5_star.txt](lists/collins_5_star.txt) | [collins_5_star.apkg](lists/collins_5_star.apkg) | [1403111213](https://ankiweb.net/shared/info/1403111213) |
+| ★★★★ 四星 | 1,009 | [collins_4_star.txt](lists/collins_4_star.txt) | [collins_4_star.apkg](lists/collins_4_star.apkg) | [1544157144](https://ankiweb.net/shared/info/1544157144) |
+| ★★★ 三星 | 1,418 | [collins_3_star.txt](lists/collins_3_star.txt) | [collins_3_star.apkg](lists/collins_3_star.apkg) | [1539836752](https://ankiweb.net/shared/info/1539836752) |
+| ★★ 二星 | 3,036 | [collins_2_star.txt](lists/collins_2_star.txt) | [collins_2_star.apkg](lists/collins_2_star.apkg) | [459912606](https://ankiweb.net/shared/info/459912606) |
+| ★ 一星 | 7,540 | [collins_1_star.txt](lists/collins_1_star.txt) | [collins_1_star.apkg](lists/collins_1_star.apkg) | [1163764613](https://ankiweb.net/shared/info/1163764613) |
+| 合计 All | 13,633 | [collins.csv](lists/collins.csv) · [collins.json](lists/collins.json) | | |
 
 ## 柯林斯星级
 
