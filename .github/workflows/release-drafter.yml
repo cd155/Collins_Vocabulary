@@ -1,0 +1,32 @@
+name: Release Drafter
+
+# Refreshes the draft release (config: .github/release-drafter.yml) after every push to master,
+# so the next release is always waiting on the Releases page; publishing it is a click. It never
+# deploys: the site deploys from pages.yml.
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Back-to-back merges: only the newest run matters, since each one rebuilds the whole draft.
+concurrency:
+  group: release-drafter
+  cancel-in-progress: true
+
+jobs:
+  update_release_draft:
+    name: Update draft release notes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to create/update the draft release
+      pull-requests: read
+    steps:
+      - uses: release-drafter/release-drafter@v7
+        with:
+          config-name: release-drafter.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
