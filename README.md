@@ -5,7 +5,7 @@
 13,633 English words grouped by their Collins star level, with phonetic and a short Chinese definition, as plain
 text, CSV, JSON and Anki decks.
 
-在线查询 · Browse online: **<https://cd155.github.io/Collins_Vocabulary/>**
+在线查询 · Browse online: **<https://cd155.github.io/collins-vocabulary/>**
 
 [English](#english)
 
