@@ -14,6 +14,7 @@ import json
 import re
 import shutil
 from pathlib import Path
+from typing import Optional
 
 import genanki
 
@@ -83,6 +84,11 @@ def short_translation(raw: str) -> str:
     )
 
 
+def rank(value: str) -> Optional[int]:
+    """A frequency rank, or None when ECDICT has none (empty or 0)."""
+    return int(value) if value and value != "0" else None
+
+
 def load_words() -> list[dict]:
     words = []
     with SOURCE.open(encoding="utf-8") as f:
@@ -96,6 +102,11 @@ def load_words() -> list[dict]:
                     "stars": int(stars),
                     "phonetic": row["phonetic"],
                     "translation": short_translation(row["translation"]),
+                    # Exams whose syllabus has the word: zk, gk, cet4, cet6, ky, toefl, ielts, gre.
+                    "tags": row["tag"].split(),
+                    # Rank in the British National Corpus and in a contemporary corpus; 1 is the most frequent.
+                    "bnc": rank(row["bnc"]),
+                    "frq": rank(row["frq"]),
                 }
             )
     words.sort(key=lambda w: (-w["stars"], w["word"].lower(), w["word"]))
@@ -119,6 +130,7 @@ def write_apkg(words: list[dict], stars: int, model: genanki.Model) -> None:
                 model=model,
                 fields=[html.escape(w["word"]), html.escape(w["phonetic"]), html.escape(w["translation"]), "★" * stars],
                 guid=genanki.guid_for(w["word"], stars),
+                tags=w["tags"],
             )
         )
     genanki.Package(deck).write_to_file(OUT / f"collins_{stars}_star.apkg")
@@ -132,9 +144,9 @@ def main() -> None:
     words = load_words()
 
     with (OUT / "collins.csv").open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["word", "stars", "phonetic", "translation"])
+        writer = csv.DictWriter(f, fieldnames=["word", "stars", "phonetic", "translation", "tags", "bnc", "frq"])
         writer.writeheader()
-        writer.writerows(words)
+        writer.writerows({**w, "tags": " ".join(w["tags"])} for w in words)
     with (OUT / "collins.json").open("w", encoding="utf-8") as f:
         json.dump(words, f, ensure_ascii=False, indent=1)
         f.write("\n")

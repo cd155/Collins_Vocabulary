@@ -5,6 +5,8 @@
 13,633 English words grouped by their Collins star level, with phonetic and a short Chinese definition, as plain
 text, CSV, JSON and Anki decks.
 
+在线查询 · Browse online: **<https://cd155.github.io/Collins_Vocabulary/>**
+
 [English](#english)
 
 | 星级 Level | 词数 Words | 文本 Text | Anki |
@@ -28,8 +30,11 @@ text, CSV, JSON and Anki decks.
   about	[ә'baut]	prep. 在...周围, 大约, 有关, 关于; adv. 大约, 四处, 在附近, 周围
   ```
 
-- **`collins.csv`**、**`collins.json`**：全部星级，字段为 `word`、`stars`、`phonetic`、`translation`。
-- **`.apkg`**：每个星级一个 Anki 卡组。在 Anki 中选择「文件 → 导入」即可。卡片正面为单词和音标，背面为释义；导入新版本会更新已有卡片，不会重复添加。
+- **`collins.csv`**、**`collins.json`**：全部星级，字段为 `word`、`stars`、`phonetic`、`translation`，以及：
+  - `tags`：收录该词的考试，取值为 `zk`（中考）、`gk`（高考）、`cet4`（四级）、`cet6`（六级）、`ky`（考研）、`toefl`（托福）、`ielts`（雅思）、`gre`。
+  - `bnc`、`frq`：该词在英国国家语料库和当代语料库中的词频排名，1 为最常用；没有排名时为空。
+- **`.apkg`**：每个星级一个 Anki 卡组。在 Anki 中选择「文件 → 导入」即可。卡片正面为单词和音标，背面为释义；导入新版本会更新已有卡片，不会重复添加。每张卡片带有
+  上述考试标签，可在 Anki 中按标签筛选，例如只学五星词中的四级词汇。
 
 释义保留每个词性的前几个义项。约 150 个生僻或专业词汇只有带领域标记的释义，如 `[医]`（医学）、`[计]`（计算机）。
 
@@ -56,11 +61,16 @@ frequent, so learners usually start there and work down. The table at the top li
 ### Formats
 
 - **`.txt`**: one word per line, tab-separated: `word`, `[phonetic]`, `definition`.
-- **`collins.csv`** and **`collins.json`**: every level, with the fields `word`, `stars`, `phonetic` and
-  `translation`.
+- **`collins.csv`** and **`collins.json`**: every level, with the fields `word`, `stars`, `phonetic`,
+  `translation`, and:
+  - `tags`: the exams whose syllabus has the word: `zk` (Zhongkao), `gk` (Gaokao), `cet4`, `cet6`, `ky`
+    (postgraduate entrance exam), `toefl`, `ielts`, `gre`.
+  - `bnc`, `frq`: the word's frequency rank in the British National Corpus and in a contemporary corpus. 1 is
+    the most frequent; empty when there is no rank.
 - **`.apkg`**: an Anki deck per level. In Anki, choose **File → Import** and pick the file. Each card shows the
   word and phonetic on the front and the definition on the back. Importing a newer version updates the cards
-  instead of adding duplicates.
+  instead of adding duplicates. Each note carries the exam tags above as Anki tags, so you can study, say, only
+  the CET-4 words of the five-star deck.
 
 Definitions keep the first few senses of each part of speech. About 150 words, mostly technical or rare, have
 only a field-tagged definition such as `[医]` (medicine) or `[计]` (computing).
@@ -84,6 +94,9 @@ python build.py
 ```
 
 `build.py` writes everything in `lists/` and `Vocabulary_Lists/`.
+
+`python site.py` builds the website from `lists/collins.json` into `_site/`. A workflow deploys it to GitHub Pages
+on every push to `master` that changes the lists.
 
 ### Dictation
 
