@@ -7,7 +7,6 @@ Standard library only, so the deploy workflow runs it without installing anythin
 
 import html
 import json
-import math
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -160,17 +159,12 @@ def page(path: str, title: str, description: str, body: str) -> str:
 """
 
 
-def icon_svg() -> str:
-    """A gold star on the dark card color, for the browser tab and the home screen."""
-    points = " ".join(
-        f"{32 + r * math.cos(math.radians(a)):.1f},{33 + r * math.sin(math.radians(a)):.1f}"
-        for i in range(10)
-        for r, a in [((21, 9)[i % 2], -90 + 36 * i)]
-    )
-    return (
-        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">'
-        f'<rect width="64" height="64" rx="14" fill="#1A1C1B"/><polygon points="{points}" fill="#D4C04A"/></svg>\n'
-    )
+# The letter C around a four-point star, off-white on the site's blue.
+ICON_SVG = (
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#005FC8"/>'
+    '<path d="M43.2 17.6A17 17 0 1 0 43.2 46.4" fill="none" stroke="#FCFCFB" stroke-width="6" stroke-linecap="round"/>'
+    '<path d="M34 23.5Q35.4 30.6 42.5 32Q35.4 33.4 34 40.5Q32.6 33.4 25.5 32Q32.6 30.6 34 23.5Z" fill="#FCFCFB"/></svg>\n'
+)
 
 
 MANIFEST = {
@@ -274,7 +268,7 @@ def main() -> None:
     for stars, level in by_level.items():
         (OUT / level_file(stars)).write_text(level_page(stars, level), encoding="utf-8")
 
-    (OUT / "icon.svg").write_text(icon_svg(), encoding="utf-8")
+    (OUT / "icon.svg").write_text(ICON_SVG, encoding="utf-8")
     (OUT / "manifest.webmanifest").write_text(json.dumps(MANIFEST, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
     urls = [SITE_URL] + [SITE_URL + level_file(stars) for stars in STAR_NAMES]
