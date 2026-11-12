@@ -73,6 +73,7 @@ p{margin:0 0 12px}
 .tools input:focus{border-color:var(--muted)}
 .tools input::placeholder{color:var(--muted)}
 .view{margin-bottom:10px}
+.view-label{flex:none;align-self:center;color:var(--muted);font-size:14px}
 .seg{flex:none;display:flex;padding:2px;border:1px solid var(--card-border);border-radius:999px;background:var(--card-bg)}
 .seg button{font:inherit;font-size:14px;font-weight:500;line-height:1.4;white-space:nowrap;padding:4px 14px;border:0;border-radius:999px;background:none;color:var(--muted);cursor:pointer}
 .seg button[aria-pressed=true]{background:var(--line);color:var(--foreground)}
@@ -335,7 +336,8 @@ def level_page(stars: int, words: list) -> str:
 </div>
 </div>
 <div class="pills view">
-<span class="seg" id="order" role="group" aria-label="排序">
+<span class="view-label" id="orderLabel">排序</span>
+<span class="seg" id="order" role="group" aria-labelledby="orderLabel">
 <button type="button" data-order="freq" aria-pressed="true">词频</button>
 <button type="button" data-order="az" aria-pressed="false">字母</button>
 <button type="button" data-order="random" aria-pressed="false">随机</button>
