@@ -36,10 +36,11 @@ ANKIWEB = {5: 1403111213, 4: 1544157144, 3: 1539836752, 2: 459912606, 1: 1163764
 # The colors and shapes follow QuantNote's web app: an off-white or black page,
 # cards with a 16px radius and a hairline border, pill-shaped chips, and the
 # system font. The theme follows the device, like there. Every text pair meets
-# WCAG AA (4.5:1) in both themes.
+# WCAG AA (4.5:1) in both themes. The stars are a graphic, always next to the
+# level's name in text, and meet the 3:1 that WCAG asks of graphics.
 CSS = """
 :root{color-scheme:light dark;--background:#FCFCFB;--foreground:#000;--card-bg:#fff;--card-border:#F0F2F1;--line:#E0E2E1;
---muted:#3B4340;--primary:#005FC8;--star:#7A6A00;--cta-bg:#000;--cta-fg:#FCFCFB;--cta-button-bg:#FCFCFB;--cta-button-fg:#000;--bar:rgba(255,255,255,.9)}
+--muted:#3B4340;--primary:#005FC8;--star:#B8860B;--cta-bg:#000;--cta-fg:#FCFCFB;--cta-button-bg:#FCFCFB;--cta-button-fg:#000;--bar:rgba(255,255,255,.9)}
 @media(prefers-color-scheme:dark){:root{--background:#000;--foreground:#F0F2F1;--card-bg:#1A1C1B;--card-border:#2B2D2C;--line:#2B2D2C;
 --muted:#B0B2B1;--primary:#4DA3FF;--star:#D4C04A;--cta-bg:#1A1C1B;--cta-fg:#F0F2F1;--cta-button-bg:#F0F2F1;--cta-button-fg:#000;--bar:rgba(26,28,27,.9)}}
 *{box-sizing:border-box}
