@@ -1,0 +1,24 @@
+# Groups the PRs in GitHub's generated release notes by label. To cut a release:
+#   gh release create vX.Y.Z --generate-notes
+# or click "Generate release notes" when drafting a release on GitHub.
+# A PR is listed under the first category its labels match, so give each PR one label.
+
+changelog:
+  categories:
+    - title: Features
+      labels: ['feature']
+    - title: Bug Fixes
+      labels: ['bug']
+    - title: Content
+      labels: ['content']
+    - title: Maintenance
+      labels: ['chore', 'refactor']
+    - title: Dependencies
+      labels: ['dependencies']
+    - title: CI
+      labels: ['ci']
+    - title: Documentation
+      labels: ['docs']
+    # Unlabeled PRs still show up here.
+    - title: Other Changes
+      labels: ['*']
