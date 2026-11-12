@@ -1,6 +1,6 @@
 # Configuration for release-drafter (https://github.com/release-drafter/release-drafter)
-# Keeps a DRAFT GitHub Release updated with the PRs merged into master since the last published
-# release (see .github/workflows/release-drafter.yml). Publishing it is a click on GitHub.
+# Builds a DRAFT GitHub Release with the PRs merged into master since the last published
+# release when you run .github/workflows/release-drafter.yml. Publishing it is a click on GitHub.
 
 name-template: 'v$RESOLVED_VERSION'
 tag-template: 'v$RESOLVED_VERSION'

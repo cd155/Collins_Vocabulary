@@ -1,21 +1,15 @@
 name: Release Drafter
 
-# Refreshes the draft release (config: .github/release-drafter.yml) after every push to master,
-# so the next release is always waiting on the Releases page; publishing it is a click. It never
-# deploys: the site deploys from pages.yml.
+# Builds the draft release (config: .github/release-drafter.yml) from the PRs merged into master
+# since the last published release. Run it by hand before a release, then publish the draft on
+# the Releases page. It isn't triggered on every merge, because each run costs a billed minute.
+# It never deploys: the site deploys from pages.yml.
 
 on:
-  push:
-    branches: [master]
   workflow_dispatch:
 
 permissions:
   contents: read
-
-# Back-to-back merges: only the newest run matters, since each one rebuilds the whole draft.
-concurrency:
-  group: release-drafter
-  cancel-in-progress: true
 
 jobs:
   update_release_draft:
