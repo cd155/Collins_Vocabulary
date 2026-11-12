@@ -81,16 +81,20 @@ p{margin:0 0 12px}
 .check[aria-pressed=true]::before{border-color:var(--primary);background:var(--primary);box-shadow:inset 0 0 0 2px var(--card-bg)}
 #count{color:var(--muted);font-size:14px;margin:0 0 8px}
 .words{overflow:hidden}
-table{border-collapse:collapse;width:100%}
+table{border-collapse:collapse;width:100%;table-layout:fixed}
+th:nth-child(1){width:18%}
+th:nth-child(2){width:20%}
+th:nth-child(4){width:150px}
+th:nth-child(5){width:104px}
 th,td{text-align:left;padding:10px 16px;vertical-align:top}
 th{color:var(--muted);font-size:13px;font-weight:500;white-space:nowrap;border-bottom:1px solid var(--line)}
 tbody tr+tr td{border-top:1px solid var(--line)}
 tbody tr[hidden]{display:none}
-.w{font-weight:600;white-space:nowrap}
-.p{color:var(--muted);white-space:nowrap}
-.x{min-width:150px}
+.w{font-weight:600}
+.p{color:var(--muted)}
+.w,.p{overflow-wrap:anywhere}
 .x span{display:inline-block;margin:2px 4px 2px 0;padding:1px 8px;border-radius:999px;background:var(--card-border);color:var(--muted);font-size:12px;white-space:nowrap}
-.a{white-space:nowrap;text-align:right;width:1%}
+.a{white-space:nowrap;text-align:right}
 .a button{width:32px;height:32px;margin:-4px 0;padding:0;border:0;border-radius:999px;background:none;color:var(--muted);cursor:pointer;vertical-align:middle}
 .a button:hover{background:var(--card-border)}
 .a svg{width:20px;height:20px;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
@@ -112,11 +116,10 @@ tbody tr+tr{border-top:1px solid var(--line)}
 tbody tr+tr td{border-top:0}
 td{display:block;padding:0}
 .w{font-size:17px}
-.p{white-space:normal;align-self:center;font-size:14px}
+.p{align-self:center;font-size:14px}
 .d,.x{grid-column:1/-1}
-.a{width:auto;grid-area:1/3}
+.a{grid-area:1/3}
 .a button{margin:-4px 0 -4px 4px}
-.x{min-width:0}
 .x:empty{display:none}
 .x span{margin-top:6px}
 }
