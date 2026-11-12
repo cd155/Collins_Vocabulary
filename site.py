@@ -13,8 +13,8 @@ ROOT = Path(__file__).parent
 SOURCE = ROOT / "lists" / "collins.json"
 OUT = ROOT / "_site"
 
-SITE_URL = "https://cd155.github.io/Collins_Vocabulary/"
-REPO_URL = "https://github.com/cd155/Collins_Vocabulary"
+SITE_URL = "https://cd155.github.io/collins-vocabulary/"
+REPO_URL = "https://github.com/cd155/collins-vocabulary"
 RAW_URL = f"{REPO_URL}/raw/master/lists/"
 
 STAR_NAMES = {5: "五星", 4: "四星", 3: "三星", 2: "二星", 1: "一星"}
