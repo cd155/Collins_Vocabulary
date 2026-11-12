@@ -327,7 +327,7 @@ def level_page(stars: int, words: list) -> str:
 <p class="lead">Collins {stars}-star words，附音标、中文释义和考试标签。下载：
 <a href="{RAW_URL}collins_{stars}_star.txt">TXT</a> ·
 <a href="{RAW_URL}collins_{stars}_star.apkg">Anki 卡组</a> ·
-<a href="https://ankiweb.net/shared/info/{ANKIWEB[stars]}">AnkiWeb</a></p>
+<a href="https://ankiweb.net/shared/info/{ANKIWEB[stars]}">AnkiWeb 共享卡组</a></p>
 <div class="tools">
 <input id="q" type="search" placeholder="搜索单词或释义" aria-label="搜索单词或释义">
 <div class="pills" id="exams" role="group" aria-label="按考试筛选">

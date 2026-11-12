@@ -9,7 +9,7 @@ text, CSV, JSON and Anki decks.
 
 [English](#english)
 
-| 星级 Level | 词数 Words | 文本 Text | Anki | AnkiWeb |
+| 星级 Level | 词数 Words | 文本 Text | Anki | AnkiWeb 共享卡组 Shared deck |
 |---|---:|---|---|---|
 | ★★★★★ 五星 | 630 | [collins_5_star.txt](lists/collins_5_star.txt) | [collins_5_star.apkg](lists/collins_5_star.apkg) | [1403111213](https://ankiweb.net/shared/info/1403111213) |
 | ★★★★ 四星 | 1,009 | [collins_4_star.txt](lists/collins_4_star.txt) | [collins_4_star.apkg](lists/collins_4_star.apkg) | [1544157144](https://ankiweb.net/shared/info/1544157144) |
