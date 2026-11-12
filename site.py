@@ -30,49 +30,97 @@ EXAMS = {
     "gre": "GRE",
 }
 
+# The colors and shapes follow QuantNote's web app: an off-white or black page,
+# cards with a 16px radius and a hairline border, pill-shaped chips, and the
+# system font. The theme follows the device, like there. Every text pair meets
+# WCAG AA (4.5:1) in both themes.
 CSS = """
-:root{--bg:#fff;--fg:#1f2328;--muted:#59636e;--line:#d1d9e0;--accent:#0969da;--star:#bf8700;--soft:#f6f8fa}
-@media(prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#f0f6fc;--muted:#9198a1;--line:#3d444d;--accent:#4493f8;--star:#d29922;--soft:#151b23}}
+:root{color-scheme:light dark;--background:#FCFCFB;--foreground:#000;--card-bg:#fff;--card-border:#F0F2F1;--line:#E0E2E1;
+--muted:#3B4340;--primary:#005FC8;--star:#7A6A00;--cta-bg:#000;--cta-fg:#FCFCFB;--cta-button-bg:#FCFCFB;--cta-button-fg:#000;--bar:rgba(255,255,255,.9)}
+@media(prefers-color-scheme:dark){:root{--background:#000;--foreground:#F0F2F1;--card-bg:#1A1C1B;--card-border:#2B2D2C;--line:#2B2D2C;
+--muted:#B0B2B1;--primary:#4DA3FF;--star:#D4C04A;--cta-bg:#1A1C1B;--cta-fg:#F0F2F1;--cta-button-bg:#F0F2F1;--cta-button-fg:#000;--bar:rgba(26,28,27,.9)}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,"PingFang SC","Microsoft YaHei",system-ui,sans-serif}
-main{max-width:960px;margin:0 auto;padding:24px 16px 64px}
-a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
-h1{font-size:28px;line-height:1.3;margin:0 0 8px}
-.lead{color:var(--muted);margin:0 0 24px}
-nav{display:flex;flex-wrap:wrap;gap:8px 16px;margin-bottom:24px;font-size:14px}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--background);color:var(--foreground);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,"PingFang SC","Microsoft YaHei",sans-serif;overscroll-behavior-y:contain}
+a{color:var(--primary);text-decoration:none}
+a:hover{text-decoration:underline}
+header{position:sticky;top:0;z-index:20;height:52px;background:var(--bar);border-bottom:1px solid var(--card-border);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);padding:0 max(16px,env(safe-area-inset-right)) 0 max(16px,env(safe-area-inset-left))}
+.bar{max-width:960px;height:100%;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.brand{color:var(--foreground);font-weight:700}
+.brand:hover{text-decoration:none}
+main{max-width:960px;margin:0 auto;padding:16px max(16px,env(safe-area-inset-right)) calc(48px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left))}
+h1{font-size:24px;line-height:1.3;margin:16px 0 8px}
+h2{font-size:18px;margin:32px 0 8px}
+p{margin:0 0 12px}
+.lead{color:var(--muted);margin-bottom:20px}
 .stars{color:var(--star)}
-.levels{list-style:none;padding:0;margin:0 0 32px;display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
-.levels a{display:block;padding:16px;border:1px solid var(--line);border-radius:8px;color:inherit}
-.levels a:hover{border-color:var(--accent);text-decoration:none}
-.levels strong{display:block;font-size:18px}
+.pills{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;margin:0 -16px;padding:0 16px}
+.pills::-webkit-scrollbar{display:none}
+.pill{flex:none;font:inherit;font-size:14px;font-weight:500;line-height:1.4;white-space:nowrap;padding:6px 16px;border-radius:999px;border:1px solid var(--card-border);background:var(--card-bg);color:var(--foreground);cursor:pointer}
+.pill:hover{border-color:var(--muted);text-decoration:none}
+.pill.on,.pill[aria-pressed=true]{background:var(--foreground);border-color:var(--foreground);color:var(--background)}
+.card{border:1px solid var(--card-border);border-radius:16px;background:var(--card-bg)}
+.levels{list-style:none;padding:0;margin:0;display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
+.levels a{display:block;padding:16px;color:inherit}
+.levels a:hover{border-color:var(--muted);text-decoration:none}
+.levels strong{display:block;font-size:17px}
 .levels a>span{color:var(--muted);font-size:14px}
-.tools{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0;position:sticky;top:0;background:var(--bg);padding:8px 0}
-.tools input,.tools select{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
-.tools input{flex:1;min-width:160px}
-#count{align-self:center;color:var(--muted);font-size:14px}
-.scroll{overflow-x:auto}
+.tools{position:sticky;top:52px;z-index:10;background:var(--background);padding:12px 0;display:grid;gap:10px}
+.tools input{width:100%;font:inherit;padding:10px 14px;border:1px solid var(--card-border);border-radius:16px;background:var(--card-bg);color:var(--foreground);outline:none}
+.tools input:focus{border-color:var(--muted)}
+.tools input::placeholder{color:var(--muted)}
+#count{color:var(--muted);font-size:14px;margin:0 0 8px}
+.words{overflow:hidden}
 table{border-collapse:collapse;width:100%}
-th,td{text-align:left;padding:6px 10px;border-bottom:1px solid var(--line);vertical-align:top}
-th{background:var(--soft);font-size:14px;white-space:nowrap}
-td:first-child{font-weight:600;white-space:nowrap}
-td:nth-child(2){color:var(--muted);white-space:nowrap}
-td:last-child{color:var(--muted);font-size:13px}
-footer{margin-top:40px;color:var(--muted);font-size:14px}
+th,td{text-align:left;padding:10px 16px;vertical-align:top}
+th{color:var(--muted);font-size:13px;font-weight:500;white-space:nowrap;border-bottom:1px solid var(--line)}
+tbody tr+tr td{border-top:1px solid var(--line)}
+tbody tr[hidden]{display:none}
+.w{font-weight:600;white-space:nowrap}
+.p{color:var(--muted);white-space:nowrap}
+.x{min-width:150px}
+.x span{display:inline-block;margin:2px 4px 2px 0;padding:1px 8px;border-radius:999px;background:var(--card-border);color:var(--muted);font-size:12px;white-space:nowrap}
+.cta{margin-top:32px;padding:24px;border-radius:16px;background:var(--cta-bg);color:var(--cta-fg);border:1px solid var(--card-border);text-align:center}
+.cta p{margin:0 0 14px}
+.cta a{display:inline-block;padding:8px 20px;border-radius:999px;background:var(--cta-button-bg);color:var(--cta-button-fg);font-weight:600;font-size:14px}
+.cta a:hover{text-decoration:none;opacity:.9}
+footer{margin-top:24px;color:var(--muted);font-size:13px;text-align:center}
+@media(max-width:640px){
+h1{font-size:21px}
+thead{display:none}
+table,tbody{display:block}
+tbody tr{display:grid;grid-template-columns:auto 1fr;column-gap:8px;padding:12px 16px}
+tbody tr+tr{border-top:1px solid var(--line)}
+tbody tr+tr td{border-top:0}
+td{display:block;padding:0}
+.w{font-size:17px}
+.p{white-space:normal;align-self:center;font-size:14px}
+.d,.x{grid-column:1/-1}
+.x{min-width:0}
+.x:empty{display:none}
+.x span{margin-top:6px}
+}
 """
 
 # Filters the table rows by the search text and the chosen exam.
 SCRIPT = """
-const q=document.getElementById('q'),exam=document.getElementById('exam'),count=document.getElementById('count');
+const q=document.getElementById('q'),chips=[...document.querySelectorAll('#exams button')],count=document.getElementById('count');
 const rows=[...document.querySelectorAll('tbody tr')];
+let tag='';
 function apply(){
-  const text=q.value.trim().toLowerCase(),tag=exam.value;let shown=0;
+  const text=q.value.trim().toLowerCase();let shown=0;
   for(const r of rows){
     const ok=(!text||r.textContent.toLowerCase().includes(text))&&(!tag||r.dataset.t.split(' ').includes(tag));
     r.hidden=!ok;if(ok)shown++;
   }
   count.textContent=shown.toLocaleString()+' 词';
 }
-q.addEventListener('input',apply);exam.addEventListener('change',apply);apply();
+for(const c of chips)c.addEventListener('click',()=>{
+  tag=c.dataset.tag;
+  for(const o of chips)o.setAttribute('aria-pressed',o===c);
+  apply();
+});
+q.addEventListener('input',apply);apply();
 """
 
 
@@ -82,7 +130,9 @@ def page(path: str, title: str, description: str, body: str) -> str:
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#FCFCFB">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000000">
 <title>{e(title)}</title>
 <meta name="description" content="{e(description)}">
 <link rel="canonical" href="{SITE_URL}{path}">
@@ -93,12 +143,14 @@ def page(path: str, title: str, description: str, body: str) -> str:
 <style>{CSS}</style>
 </head>
 <body>
+<header><div class="bar"><a class="brand" href="./">柯林斯星级词汇</a><a href="{REPO_URL}">GitHub</a></div></header>
 <main>
 {body}
-<footer>
-数据来自开源英汉词典 <a href="https://github.com/skywind3000/ECDICT">ECDICT</a>（MIT 许可）。
-觉得有用？到 <a href="{REPO_URL}">GitHub</a> 点个 Star ★
-</footer>
+<div class="cta">
+<p>觉得有用？在 GitHub 点个 Star，让更多人看到。</p>
+<a href="{REPO_URL}">★ Star on GitHub</a>
+</div>
+<footer>数据来自开源英汉词典 <a href="https://github.com/skywind3000/ECDICT">ECDICT</a>（MIT 许可）</footer>
 </main>
 </body>
 </html>
@@ -110,18 +162,18 @@ def level_file(stars: int) -> str:
 
 
 def nav(current: int = 0) -> str:
-    links = ['<a href="./">首页</a>']
-    for stars in range(5, 0, -1):
-        label = f"{STAR_NAMES[stars]}词汇"
-        links.append(f"<strong>{label}</strong>" if stars == current else f'<a href="{level_file(stars)}">{label}</a>')
-    links.append(f'<a href="{REPO_URL}">GitHub</a>')
-    return f"<nav>{''.join(links)}</nav>"
+    pills = "".join(
+        f'<a class="pill{" on" if stars == current else ""}" href="{level_file(stars)}"'
+        f'{" aria-current=page" if stars == current else ""}>{STAR_NAMES[stars]}词汇</a>'
+        for stars in range(5, 0, -1)
+    )
+    return f'<nav class="pills" aria-label="星级">{pills}</nav>'
 
 
 def index_page(counts: dict) -> str:
     total = sum(counts.values())
     cards = "".join(
-        f'<li><a href="{level_file(stars)}"><strong><span class="stars">{"★" * stars}</span> '
+        f'<li><a class="card" href="{level_file(stars)}"><strong><span class="stars">{"★" * stars}</span> '
         f"柯林斯{STAR_NAMES[stars]}词汇</strong><span>{counts[stars]:,} 词 · Collins {stars}-star words</span></a></li>"
         for stars in range(5, 0, -1)
     )
@@ -147,12 +199,15 @@ def level_page(stars: int, words: list) -> str:
     e = html.escape
     name = STAR_NAMES[stars]
     rows = "".join(
-        f'<tr data-t="{" ".join(w["tags"])}"><td>{e(w["word"])}</td>'
-        f'<td>{"[" + e(w["phonetic"]) + "]" if w["phonetic"] else ""}</td><td>{e(w["translation"])}</td>'
-        f'<td>{" ".join(EXAMS[t] for t in EXAMS if t in w["tags"])}</td></tr>\n'
+        f'<tr data-t="{" ".join(w["tags"])}"><td class="w">{e(w["word"])}</td>'
+        f'<td class="p">{"[" + e(w["phonetic"]) + "]" if w["phonetic"] else ""}</td><td class="d">{e(w["translation"])}</td>'
+        f'<td class="x">{"".join(f"<span>{EXAMS[t]}</span>" for t in EXAMS if t in w["tags"])}</td></tr>\n'
         for w in words
     )
-    options = "".join(f'<option value="{tag}">{label}</option>' for tag, label in EXAMS.items())
+    chips = "".join(
+        f'<button class="pill" type="button" data-tag="{tag}" aria-pressed="false">{label}</button>'
+        for tag, label in EXAMS.items()
+    )
     body = f"""{nav(stars)}
 <h1><span class="stars">{"★" * stars}</span> 柯林斯{name}词汇（{len(words):,} 词）</h1>
 <p class="lead">Collins {stars}-star words，附音标、中文释义和考试标签。下载：
@@ -160,10 +215,12 @@ def level_page(stars: int, words: list) -> str:
 <a href="{RAW_URL}collins_{stars}_star.apkg">Anki 卡组</a></p>
 <div class="tools">
 <input id="q" type="search" placeholder="搜索单词或释义" aria-label="搜索单词或释义">
-<select id="exam" aria-label="按考试筛选"><option value="">全部考试</option>{options}</select>
-<span id="count"></span>
+<div class="pills" id="exams" role="group" aria-label="按考试筛选">
+<button class="pill" type="button" data-tag="" aria-pressed="true">全部</button>{chips}
 </div>
-<div class="scroll">
+</div>
+<p id="count" aria-live="polite"></p>
+<div class="card words">
 <table>
 <thead><tr><th>单词</th><th>音标</th><th>释义</th><th>考试</th></tr></thead>
 <tbody>
