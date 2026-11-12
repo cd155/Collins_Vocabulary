@@ -1,0 +1,43 @@
+# Configuration for release-drafter (https://github.com/release-drafter/release-drafter)
+# Builds a DRAFT GitHub Release with the PRs merged into master since the last published
+# release when you run .github/workflows/release-drafter.yml. Publishing it is a click on GitHub.
+
+name-template: 'v$RESOLVED_VERSION'
+tag-template: 'v$RESOLVED_VERSION'
+
+# A PR is listed under every category it has a label for, so give each PR one label.
+categories:
+  - title: 'Features'
+    labels: ['feature']
+  - title: 'Bug Fixes'
+    labels: ['bug']
+  - title: 'Content'
+    labels: ['content']
+  - title: 'Maintenance'
+    labels: ['chore', 'refactor']
+  - title: 'Dependencies'
+    labels: ['dependencies']
+  - title: 'CI'
+    labels: ['ci']
+  - title: 'Documentation'
+    labels: ['docs']
+
+# Uncategorized PRs (e.g. unlabeled ones) still appear in the list below the categories.
+change-template: '- $TITLE (#$NUMBER) @$AUTHOR'
+change-title-escapes: '\<*_&'
+
+# No major label: a 1.0 is a decision, not one PR's. To cut it, edit the draft's tag and title
+# to v1.0.0 before publishing.
+version-resolver:
+  minor:
+    labels: ['feature']
+  patch:
+    labels: ['bug', 'content', 'docs', 'chore', 'refactor', 'ci', 'dependencies']
+  default: patch
+
+template: |
+  ## What's Changed
+
+  $CHANGES
+
+  **Full Changelog**: https://github.com/cd155/collins-vocabulary/compare/$PREVIOUS_TAG...v$RESOLVED_VERSION

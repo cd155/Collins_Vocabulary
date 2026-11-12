@@ -1,0 +1,26 @@
+name: Release Drafter
+
+# Builds the draft release (config: .github/release-drafter.yml) from the PRs merged into master
+# since the last published release. Run it by hand before a release, then publish the draft on
+# the Releases page. It isn't triggered on every merge, because each run costs a billed minute.
+# It never deploys: the site deploys from pages.yml.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update_release_draft:
+    name: Update draft release notes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to create/update the draft release
+      pull-requests: read
+    steps:
+      - uses: release-drafter/release-drafter@v7
+        with:
+          config-name: release-drafter.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
