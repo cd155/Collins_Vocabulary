@@ -73,8 +73,12 @@ p{margin:0 0 12px}
 .tools input:focus{border-color:var(--muted)}
 .tools input::placeholder{color:var(--muted)}
 .view{margin-bottom:10px}
-#order{display:contents}
-.gap{flex:none;width:1px;margin:4px 2px;background:var(--line)}
+.seg{flex:none;display:flex;padding:2px;border:1px solid var(--card-border);border-radius:999px;background:var(--card-bg)}
+.seg button{font:inherit;font-size:14px;font-weight:500;line-height:1.4;white-space:nowrap;padding:4px 14px;border:0;border-radius:999px;background:none;color:var(--muted);cursor:pointer}
+.seg button[aria-pressed=true]{background:var(--line);color:var(--foreground)}
+.check::before{content:"";display:inline-block;width:14px;height:14px;margin-right:6px;border:1.5px solid var(--muted);border-radius:4px;vertical-align:-2px}
+.pill.check[aria-pressed=true]{background:var(--card-bg);color:var(--foreground);border-color:var(--primary)}
+.check[aria-pressed=true]::before{border-color:var(--primary);background:var(--primary);box-shadow:inset 0 0 0 2px var(--card-bg)}
 #count{color:var(--muted);font-size:14px;margin:0 0 8px}
 .words{overflow:hidden}
 table{border-collapse:collapse;width:100%}
@@ -324,14 +328,13 @@ def level_page(stars: int, words: list) -> str:
 </div>
 </div>
 <div class="pills view">
-<span id="order" role="group" aria-label="排序">
-<button class="pill" type="button" data-order="freq" aria-pressed="true">词频</button>
-<button class="pill" type="button" data-order="az" aria-pressed="false">字母</button>
-<button class="pill" type="button" data-order="random" aria-pressed="false">随机</button>
+<span class="seg" id="order" role="group" aria-label="排序">
+<button type="button" data-order="freq" aria-pressed="true">词频</button>
+<button type="button" data-order="az" aria-pressed="false">字母</button>
+<button type="button" data-order="random" aria-pressed="false">随机</button>
 </span>
-<span class="gap"></span>
-<button class="pill" type="button" id="cover" aria-pressed="false">遮住释义</button>
-<button class="pill" type="button" id="hideKnown" aria-pressed="false">隐藏已掌握</button>
+<button class="pill check" type="button" id="cover" aria-pressed="false">遮住释义</button>
+<button class="pill check" type="button" id="hideKnown" aria-pressed="false">隐藏已掌握</button>
 </div>
 <p id="count" aria-live="polite"></p>
 <div class="card words">
