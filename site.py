@@ -244,6 +244,8 @@ def page(path: str, title: str, description: str, body: str) -> str:
 """
 
 
+GOOGLE_VERIFICATION = "googlee9c7bdf6bd2bcc01.html"
+
 # The letter C in two pieces that pass each other at its middle, off-white on
 # the site's blue. The second path is the gap between the pieces: a line from
 # the letter's outer edge to its inner edge, drawn in the background colour.
@@ -369,6 +371,9 @@ def main() -> None:
 
     (OUT / "icon.svg").write_text(ICON_SVG, encoding="utf-8")
     (OUT / "manifest.webmanifest").write_text(json.dumps(MANIFEST, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+
+    # Google Search Console checks this file to confirm who owns the site.
+    (OUT / GOOGLE_VERIFICATION).write_text(f"google-site-verification: {GOOGLE_VERIFICATION}\n", encoding="utf-8")
 
     urls = [SITE_URL] + [SITE_URL + level_file(stars) for stars in STAR_NAMES]
     sitemap = "".join(f"<url><loc>{url}</loc></url>" for url in urls)
