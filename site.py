@@ -244,11 +244,13 @@ def page(path: str, title: str, description: str, body: str) -> str:
 """
 
 
-# The letter C around a four-point star, off-white on the site's blue.
+# The letter C in two pieces that pass each other at its middle, off-white on
+# the site's blue. The second path is the gap between the pieces: a line from
+# the letter's outer edge to its inner edge, drawn in the background colour.
 ICON_SVG = (
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#005FC8"/>'
-    '<path d="M43.2 17.6A17 17 0 1 0 43.2 46.4" fill="none" stroke="#FCFCFB" stroke-width="6" stroke-linecap="round"/>'
-    '<path d="M34 23.5Q35.4 30.6 42.5 32Q35.4 33.4 34 40.5Q32.6 33.4 25.5 32Q32.6 30.6 34 23.5Z" fill="#FCFCFB"/></svg>\n'
+    '<path d="M43.3 19.7A16 16 0 1 0 43.3 44.3" fill="none" stroke="#FCFCFB" stroke-width="10" stroke-linecap="round"/>'
+    '<path d="M18.5 14.8L16.8 18.4L15.8 22.1L15.5 25.6L16.0 29.0L17.0 32.0L18.5 34.6L20.4 36.6L22.5 38.1L24.7 38.9L26.9 39.3" fill="none" stroke="#005FC8" stroke-width="2.4" stroke-linejoin="round"/></svg>\n'
 )
 
 
