@@ -7,6 +7,7 @@ Standard library only, so the deploy workflow runs it without installing anythin
 
 import html
 import json
+import math
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -133,6 +134,8 @@ def page(path: str, title: str, description: str, body: str) -> str:
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#FCFCFB">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000000">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
 <title>{e(title)}</title>
 <meta name="description" content="{e(description)}">
 <link rel="canonical" href="{SITE_URL}{path}">
@@ -155,6 +158,32 @@ def page(path: str, title: str, description: str, body: str) -> str:
 </body>
 </html>
 """
+
+
+def icon_svg() -> str:
+    """A gold star on the dark card color, for the browser tab and the home screen."""
+    points = " ".join(
+        f"{32 + r * math.cos(math.radians(a)):.1f},{33 + r * math.sin(math.radians(a)):.1f}"
+        for i in range(10)
+        for r, a in [((21, 9)[i % 2], -90 + 36 * i)]
+    )
+    return (
+        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">'
+        f'<rect width="64" height="64" rx="14" fill="#1A1C1B"/><polygon points="{points}" fill="#D4C04A"/></svg>\n'
+    )
+
+
+MANIFEST = {
+    "name": "柯林斯星级词汇",
+    "short_name": "柯林斯词汇",
+    "lang": "zh-CN",
+    "start_url": ".",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#FCFCFB",
+    "theme_color": "#FCFCFB",
+    "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}],
+}
 
 
 def level_file(stars: int) -> str:
@@ -244,6 +273,9 @@ def main() -> None:
     (OUT / "index.html").write_text(index_page({s: len(ws) for s, ws in by_level.items()}), encoding="utf-8")
     for stars, level in by_level.items():
         (OUT / level_file(stars)).write_text(level_page(stars, level), encoding="utf-8")
+
+    (OUT / "icon.svg").write_text(icon_svg(), encoding="utf-8")
+    (OUT / "manifest.webmanifest").write_text(json.dumps(MANIFEST, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
     urls = [SITE_URL] + [SITE_URL + level_file(stars) for stars in STAR_NAMES]
     sitemap = "".join(f"<url><loc>{url}</loc></url>" for url in urls)
