@@ -104,6 +104,16 @@ tbody tr[hidden]{display:none}
 tr.known .w,tr.known .p,tr.known .d,tr.known .x{opacity:.45}
 .cover tbody tr{cursor:pointer}
 .cover tbody tr:not(.open) .d{color:transparent;background:var(--card-border);background-clip:content-box;user-select:none;-webkit-user-select:none}
+tr.cur{background:var(--card-border)}
+.player{position:sticky;bottom:max(8px,env(safe-area-inset-bottom));z-index:10;margin-top:12px;padding:10px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;background:var(--bar);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+.player[hidden]{display:none}
+.player progress{flex:0 0 100%;width:100%;height:4px;accent-color:var(--primary)}
+#play{flex:none;width:40px;height:40px;padding:0;border:0;border-radius:999px;background:var(--foreground);color:var(--background);cursor:pointer}
+#play svg{width:20px;height:20px;fill:currentColor;vertical-align:middle}
+#now{flex:1;min-width:0;font-size:18px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+#at,.gap{flex:none;color:var(--muted);font-size:14px;white-space:nowrap}
+#at{font-variant-numeric:tabular-nums}
+.gap input{width:60px;font:inherit;padding:4px 8px;border:1px solid var(--line);border-radius:8px;background:var(--card-bg);color:var(--foreground)}
 .cta{margin-top:32px;padding:24px;border-radius:16px;background:var(--cta-bg);color:var(--cta-fg);border:1px solid var(--card-border);text-align:center}
 .cta p{margin:0 0 14px}
 .cta a{display:inline-block;padding:8px 20px;border-radius:999px;background:var(--cta-button-bg);color:var(--cta-button-fg);font-weight:600;font-size:14px}
@@ -128,7 +138,9 @@ td{display:block;padding:0}
 """
 
 # Filters and orders the table rows, covers the definitions, reads a word aloud
-# and remembers the known words. What it remembers is kept in localStorage and
+# and remembers the known words. The listening bar is for dictation: it speaks
+# the shown rows one by one, waits the interval while the learner writes, then
+# shows the word. What the page remembers is kept in localStorage and
 # shared by the five level pages; without storage the page works the same and
 # only forgets on reload.
 SCRIPT = """
@@ -141,6 +153,7 @@ const known=new Set(load('known',[]));
 const icon=d=>'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="'+d+'"/></svg>';
 const button=(cls,label,d)=>{const b=document.createElement('button');b.type='button';b.className=cls;b.setAttribute('aria-label',label);b.innerHTML=icon(d);return b};
 let tag='',hideKnown=load('hideKnown',false);
+let list=[],pos=0,playing=false,timer=0,current=null,lit=null,showWord=true;
 
 rows.forEach((r,i)=>{
   r.rank=i;r.word=r.cells[0].textContent;r.text=r.textContent.toLowerCase();r.tags=r.dataset.t.split(' ');
@@ -195,6 +208,7 @@ tbody.addEventListener('click',e=>{
   const r=e.target.closest('tr'),b=e.target.closest('button');
   if(!b){if(table.classList.contains('cover'))r.classList.toggle('open');return}
   if(b.className==='say'){
+    if(playing)halt();
     const u=new SpeechSynthesisUtterance(r.word);u.lang='en-US';
     speechSynthesis.cancel();speechSynthesis.speak(u);
     return;
@@ -205,6 +219,55 @@ tbody.addEventListener('click',e=>{
   b.setAttribute('aria-pressed',on);r.classList.toggle('known',on);
   apply();
 });
+
+const player=$('player'),playBtn=$('play'),now=$('now'),at=$('at'),progress=player.querySelector('progress'),gap=$('gap');
+const seconds=()=>{const v=parseFloat(gap.value);return isNaN(v)?5:Math.min(60,Math.max(0,v))};
+function light(r){
+  if(lit)lit.classList.remove('cur');
+  lit=r;
+  if(r){r.classList.add('cur');r.scrollIntoView({block:'center'})}
+}
+function setPlaying(v){
+  playing=v;
+  playBtn.innerHTML=icon(v?'M7 5h4v14H7zM13 5h4v14h-4z':'M8 5v14l11-7z');
+  playBtn.setAttribute('aria-label',v?'暂停':'播放');
+}
+// Pauses: the word it stopped on is spoken again on play.
+function halt(){clearTimeout(timer);current=null;speechSynthesis.cancel();setPlaying(false)}
+function stop(){halt();list=[];pos=0;light(null);now.textContent=at.textContent='';progress.value=0}
+function step(){
+  // A row marked known since play began may be hidden now.
+  while(list[pos]&&list[pos].hidden)pos++;
+  const r=list[pos];
+  if(!r){stop();return}
+  light(null);now.textContent='';
+  at.textContent=(pos+1)+' / '+list.length;progress.max=list.length;progress.value=pos;
+  // `current` keeps the utterance alive until it ends, and tells a cancelled one apart.
+  const u=current=new SpeechSynthesisUtterance(r.word);u.lang='en-US';
+  u.onend=()=>{if(u===current)timer=setTimeout(reveal,seconds()*1000,r)};
+  u.onerror=()=>{if(u===current)halt()};
+  speechSynthesis.cancel();speechSynthesis.speak(u);
+}
+function reveal(r){
+  progress.value=pos+1;
+  if(!showWord){pos++;step();return}
+  now.textContent=r.word;light(r);
+  timer=setTimeout(()=>{pos++;step()},1500);
+}
+if('speechSynthesis' in window){
+  player.hidden=false;
+  gap.value=load('gap',5);
+  gap.addEventListener('change',()=>save('gap',seconds()));
+  toggle('showWord','showWord',load('showWord',true),v=>{showWord=v;if(!v){light(null);now.textContent=''}});
+  playBtn.addEventListener('click',()=>{
+    if(playing){halt();return}
+    if(!list.length){list=rows.filter(r=>!r.hidden);pos=0}
+    if(list.length){setPlaying(true);step()}
+  });
+  // The rows shown or their order changed, so the position no longer means anything.
+  q.addEventListener('input',stop);
+  for(const id of ['exams','order','hideKnown'])$(id).addEventListener('click',stop);
+}
 
 const saved=load('order','freq');
 if(saved!=='freq')order(saved);
@@ -353,6 +416,14 @@ def level_page(stars: int, words: list) -> str:
 <tbody>
 {rows}</tbody>
 </table>
+</div>
+<div class="card player" id="player" role="group" aria-label="听写" hidden>
+<progress value="0" max="1" aria-label="进度"></progress>
+<button type="button" id="play" aria-label="播放"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button>
+<span id="now" aria-live="polite"></span>
+<span id="at"></span>
+<label class="gap">间隔 <input id="gap" type="number" min="0" max="60" step="1" value="5" inputmode="numeric"> 秒</label>
+<button class="pill check" type="button" id="showWord" aria-pressed="true">显示单词</button>
 </div>
 <script>{SCRIPT}</script>"""
     return page(
